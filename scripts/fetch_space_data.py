@@ -50,13 +50,13 @@ def main():
 
     print("📡 Fetching launches...")
     launches = fetch_paginated(
-        f"https://ll.thespacedevs.com/2.2/launch/?limit=100&net__gte={today}&mode=detailed",
+        f"https://ll.thespacedevs.com/2.2.0/launch/?limit=100&net__gte={today}&mode=detailed",
         max_pages=4
     )
 
     print("📡 Fetching space events...")
     events = fetch_paginated(
-        f"https://ll.thespacedevs.com/2.2/event/?limit=100&date__gte={thirty_ago}",
+        f"https://ll.thespacedevs.com/2.2.0/event/?limit=100&date__gte={thirty_ago}",
         max_pages=2
     )
 
