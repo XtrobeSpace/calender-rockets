@@ -1,0 +1,33 @@
+name: Nightly Space Data Fetch
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every night at 00:00 UTC
+  workflow_dispatch:        # Allows you to trigger it manually from GitHub UI
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run fetch script
+        run: python scripts/fetch_space_data.py
+
+      - name: Commit and push updated JSON
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/rockets_space_events.json
+          git diff --cached --quiet || git commit -m "chore: nightly space data update $(date -u '+%Y-%m-%d')"
+          git push
