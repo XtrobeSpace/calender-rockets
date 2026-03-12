@@ -1,19 +1,8 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-03-11T06:56:02.835037+00:00",
+  "generated_at": "2026-03-12T01:25:10.342479+00:00",
   "total_events_captured": 613,
   "events": [
-    {
-      "id": "event_1330",
-      "type": "event",
-      "title": "SpaceX Crew-12 Pre-Launch News Conference",
-      "date": "2026-02-09T16:00:00Z",
-      "description": "NASA, SpaceX, and ESA will host a press conference ahead of Crew-12 launch to the International Space Station with the following participants:\r\n- Steve Stich, manager, Commercial Crew Program, NASA\r\n- Dana Weigel, manager, International Space Station Program, NASA\r\n- Andreas Mogensen, Human Exploration Group Leader, ESA\r\n- William Gerstenmaier, vice president, Build and Flight Reliability, SpaceX",
-      "location": "Kennedy Space Center, FL, USA",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20240926072512.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1330/",
-      "source": "Launch Library 2"
-    },
     {
       "id": "event_1331",
       "type": "event",
@@ -101,182 +90,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sls_on_lc-39a_b_image_20260202171722.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1337/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_36551",
-      "type": "news",
-      "title": "Space Force opens secretive space tracking to commercial firms",
-      "date": "2026-03-01T19:08:42Z",
-      "summary": "\nOfficials says commercial data and software can sharpen space threat detection\nThe post Space Force opens secretive space tracking to commercial firms appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/250129-X-IF173-1014-scaled-e1772391694206.jpg?fit=1024%2C576&ssl=1",
-      "link": "https://spacenews.com/space-force-opens-secretive-space-tracking-to-commercial-firms/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36553",
-      "type": "news",
-      "title": "Shareholder Advisory Firms Disagree on Avio Bylaw Amendments",
-      "date": "2026-03-01T19:08:45Z",
-      "summary": "Proxy adviser Glass Lewis has recommended that Avio shareholders vote in favour of a set of proposed bylaw amendments that would reduce the maximum size of the company’s board of directors. The recommendation comes after a separate proxy adviser, Institutional Shareholder Services (ISS), recommended against the proposed changes, setting up a tense run-up to a […]\nThe post Shareholder Advisory Firms Disagree on Avio Bylaw Amendments appeared first on European Spaceflight.",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/03/Shareholder-Advisory-Firms-Disagree-on-Avio-Bylaw-Amendments.webp",
-      "link": "https://europeanspaceflight.com/shareholder-advisory-firms-disagree-on-avio-bylaw-amendments/",
-      "news_site": "European Spaceflight",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36554",
-      "type": "news",
-      "title": "What’s Happening in Space Policy March 1-7, 2026",
-      "date": "2026-03-01T22:10:38Z",
-      "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of March 1-7, 2026 and any insight we can offer about them. The Senate is in session this week. […]",
-      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/03/sls-versions-300x140.jpg",
-      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-1-7-2026/",
-      "news_site": "SpacePolicyOnline.com",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36555",
-      "type": "news",
-      "title": "NASA outlines objectives for Mars communications orbiter",
-      "date": "2026-03-02T00:26:37Z",
-      "summary": "\nNASA has provided new details about its plans to procure a Mars communications orbiter funded under last year’s budget reconciliation bill as companies continue positioning themselves to bid on it.\nThe post NASA outlines objectives for Mars communications orbiter appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rocketlab-mtn.jpeg?fit=1024%2C606&ssl=1",
-      "link": "https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36563",
-      "type": "news",
-      "title": "Scoria Cones on Earth and Mars",
-      "date": "2026-03-02T05:01:00Z",
-      "summary": "The hill-shaped features are a sign of explosive volcanic activity—a rarity on the Red Planet.",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scoria-cones-on-earth-and-mars/scoriaconespansharpdem_oli_20250619.jpg",
-      "link": "https://science.nasa.gov/earth/earth-observatory/scoria-cones-on-earth-and-mars/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36556",
-      "type": "news",
-      "title": "ESA announces 100 million euro satellite-mobile convergence initiative",
-      "date": "2026-03-02T08:00:00Z",
-      "summary": "\nThe European Space Agency announced up to $118 million in funding March 2 for projects promising to accelerate the convergence of satellite and terrestrial communications.\nThe post ESA announces 100 million euro satellite-mobile convergence initiative appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/5G-Skytower-LEO-satellite-copyright-Thales-Alenia-Space-scaled.jpg?fit=1024%2C683&ssl=1",
-      "link": "https://spacenews.com/esa-announces-100-million-euro-satellite-mobile-convergence-initiative/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36557",
-      "type": "news",
-      "title": "Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity",
-      "date": "2026-03-02T08:10:00Z",
-      "summary": "\nOpen Cosmos shed more light on its proposed sovereign broadband constellation for Europe March 2, branding the Ka-band network ConnectedCosmos while leaving how it will meet mid-2026 deployment deadlines in the dark.\nThe post Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/ConnectedCosmos-scaled.png?fit=1024%2C576&ssl=1",
-      "link": "https://spacenews.com/open-cosmos-unveils-vision-for-imagery-linked-sovereign-satellite-connectivity/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36569",
-      "type": "news",
-      "title": "MaiaSpace Pushes Inaugural Launch of Maia Rocket to 2027",
-      "date": "2026-03-02T10:35:13Z",
-      "summary": "During an event at the Guiana Space Centre on 24 February, ArianeGroup subsidiary MaiaSpace announced that the inaugural flight of its two-stage Maia rocket will take place in 2027, slipping from a previously expected late-2026 launch. Founded in 2022, MaiaSpace is developing a two-stage partially reusable rocket that will be capable of delivering up to […]\r\nThe post MaiaSpace Pushes Inaugural Launch of Maia Rocket to 2027 appeared first on European Spaceflight.",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/03/MaiaSpace-Pushes-Inaugural-Launch-of-Maia-Rocket-to-2027.webp",
-      "link": "https://europeanspaceflight.com/maiaspace-pushes-inaugural-launch-of-maia-rocket-to-2027/",
-      "news_site": "European Spaceflight",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36558",
-      "type": "news",
-      "title": "Space Force rethinks satellite ground station strategy",
-      "date": "2026-03-02T12:00:00Z",
-      "summary": "\nInstead of customized development, Space Force will seek commercially derived ground stations\nThe post Space Force rethinks satellite ground station strategy appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/7084913-scaled.jpg?fit=1024%2C576&ssl=1",
-      "link": "https://spacenews.com/space-force-rethinks-satellite-ground-station-strategy/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36559",
-      "type": "news",
-      "title": "World Space Week 2025 Set Record With 50,000 Events in 102 Countries",
-      "date": "2026-03-02T13:00:00Z",
-      "summary": "\nMarch 2, 2026 Houston, Texas – World Space Week 2025 recorded nearly 50,000 activities across 102 nations, marking the highest global participation in its history, World Space Week Association announced […]\nThe post World Space Week 2025 Set Record With 50,000 Events in 102 Countries appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/Copy-of-Copy-of-World-Space-Week-Association-01-1-scaled.png?fit=1024%2C1024&ssl=1",
-      "link": "https://spacenews.com/world-space-week-2025-set-record-with-50000-events-in-102-countries/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36560",
-      "type": "news",
-      "title": "Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding",
-      "date": "2026-03-02T13:58:30Z",
-      "summary": "America succeeds in space when American companies compete.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/KSC-20200119-PH-KLS01_0182medium.jpg",
-      "link": "https://arstechnica.com/space/2026/03/former-nasa-chief-turned-ula-lobbyist-seeks-law-to-limit-spacex-funding/",
-      "news_site": "Arstechnica",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36561",
-      "type": "news",
-      "title": "Hardware is no longer the problem holding back space-based data centers — the supply chain is",
-      "date": "2026-03-02T14:00:00Z",
-      "summary": "\nOrbital and lunar data centers are often framed as engineering challenges or launch economics problems. Those matter, but they are not the limiting factor. The real bottleneck is the absence of a procurement and logistics architecture capable of sourcing, qualifying, transporting, assembling and sustaining the technologies these systems require. If companies are going to realize […]\nThe post Hardware is no longer the problem holding back space-based data centers — the supply chain is appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/rsz_spacebilt-scaled.webp?fit=1024%2C576&ssl=1",
-      "link": "https://spacenews.com/hardware-is-no-longer-the-problem-holding-back-space-based-data-centers-the-supply-chain-is/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36601",
-      "type": "news",
-      "title": "Follow the Celeste launch campaign",
-      "date": "2026-03-02T14:21:00Z",
-      "summary": "The first two satellites of ESA’s Celeste LEO-PNT demonstration mission are scheduled to lift off no earlier than 24 March, aboard Rocket Lab’s Electron rocket from the company’s Māhia Launch Complex in New Zealand.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/celeste_in-orbit_demonstration_satellites/27139829-1-eng-GB/Celeste_in-orbit_demonstration_satellites_card_full.jpg",
-      "link": "https://www.esa.int/Applications/Satellite_navigation/Follow_the_Celeste_launch_campaign",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36562",
-      "type": "news",
-      "title": "Pentagon details cyber, space ‘first mover’ role in Iran operations",
-      "date": "2026-03-02T14:50:04Z",
-      "summary": "\nU.S. Cyber Command and U.S. Space Command have ‘continuously layered effects to disrupt, disorient and confuse the enemy’\nThe post Pentagon details cyber, space ‘first mover’ role in Iran operations appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-02-at-8.42.35-AM-e1772462677648.png?fit=1024%2C467&ssl=1",
-      "link": "https://spacenews.com/pentagon-details-cyber-space-first-mover-role-in-iran-operations/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36564",
-      "type": "news",
-      "title": "Stargazing into the future of SSA",
-      "date": "2026-03-02T16:00:00Z",
-      "summary": "\nSpaceX has disrupted the launch business with the Falcon 9 and the satellite communications business with Starlink. Now it may be taking aim at the emerging space situational awareness (SSA) field. In late January, SpaceX announced Stargaze, a new SSA service. Stargaze uses data from star tracker cameras on its Starlink satellites to track satellites […]\nThe post Stargazing into the future of SSA appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/stargaze.jpeg?fit=1024%2C501&ssl=1",
-      "link": "https://spacenews.com/stargazing-into-the-future-of-ssa/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36566",
-      "type": "news",
-      "title": "NASA, JAXA to Cover HTV-X1 Spacecraft Departure from Space Station",
-      "date": "2026-03-02T16:50:30Z",
-      "summary": "After delivering about 12,000 pounds of supplies, scientific investigations, hardware, and other cargo to the International Space Station for NASA and its international partners, JAXA’s (Japan Aerospace Exploration Agency’s) uncrewed HTV‑X1 cargo spacecraft is scheduled to depart Friday, March 6. Watch NASA’s live coverage beginning at 11:45 a.m. EST on NASA+, Amazon Prime, and the […]",
-      "image": "https://images-assets.nasa.gov/image/iss073e0988452/iss073e0988452~large.jpg",
-      "link": "https://www.nasa.gov/news-release/nasa-jaxa-to-cover-htv-x1-spacecraft-departure-from-space-station/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_36565",
@@ -422,17 +235,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36580",
-      "type": "news",
-      "title": "Hubble & Euclid zoom into cosmic eye",
-      "date": "2026-03-03T14:00:00Z",
-      "summary": "This video takes the viewer on a journey through space to one of the most visually remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/hubble_euclid_zoom_into_cosmic_eye/27133712-1-eng-GB/Hubble_Euclid_zoom_into_cosmic_eye_card_full.png",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Hubble_Euclid_zoom_into_cosmic_eye",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36579",
       "type": "news",
       "title": "Hubble & Euclid zoom into cosmic eye",
@@ -440,6 +242,17 @@
       "summary": "For this month’s ESA/Hubble Picture of the Month, NASA/ESA's Hubble Space Telescope is joined by ESA’s Euclid to create a new view of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543.",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/hubble_euclid_zoom_into_cat_s_eye_nebula/27132978-1-eng-GB/Hubble_Euclid_zoom_into_Cat_s_Eye_Nebula_card_full.jpg",
       "link": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_zoom_into_cosmic_eye",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36580",
+      "type": "news",
+      "title": "Hubble & Euclid zoom into cosmic eye",
+      "date": "2026-03-03T14:00:00Z",
+      "summary": "This video takes the viewer on a journey through space to one of the most visually remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/hubble_euclid_zoom_into_cosmic_eye/27133712-1-eng-GB/Hubble_Euclid_zoom_into_cosmic_eye_card_full.png",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Hubble_Euclid_zoom_into_cosmic_eye",
       "news_site": "ESA",
       "source": "Spaceflight News API"
     },
@@ -873,17 +686,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36625",
-      "type": "news",
-      "title": "Danish Mani mission to chart lunar terrain in 3D",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Berlin, Germany (SPX) Mar 05, 2026\r\n\r\n\r\nThe University of Copenhagen will lead Denmark's first lunar mission, a European Space Agency project that will map the Moon's surface in three dimensions to support future landings and base construction. \r\n\r\nThe Mani satellite will orbit the Moon's north and south polar regions, acquiring high-resolution images that can be combined into detailed elevation models. \r\n\r\nBy imaging the same are",
-      "image": "https://www.spxdaily.com/images-bg/denmark-mani-satellite-lunar-mapper-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36631",
       "type": "news",
       "title": "NASA and DOE plan fission power plant on Moon by 2030",
@@ -891,17 +693,6 @@
       "summary": "Los Angeles CA (SPX) Jan 15, 2026\n\n\nNASA and the U.S. Department of Energy have renewed their long standing partnership to develop a fission surface power system that can operate on the Moon as part of the Artemis campaign and future missions to Mars. The agencies plan to deploy a lunar surface reactor by 2030 to support sustained human and robotic activities and to advance U.S. leadership in space exploration and commerce.",
       "image": "https://www.spxdaily.com/images-bg/lunar-spix-3-bg.jpg",
       "link": "https://www.spacedaily.com/reports/NASA_and_DOE_plan_fission_power_plant_on_Moon_by_2030_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36621",
-      "type": "news",
-      "title": "Lunar impacts limit late delivery of Earth ocean water",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Washington DC (SPX) Mar 05, 2026\n\n\nA long-standing idea in planetary science proposes that water rich meteorites arriving late in Earth history delivered a major share of the planet's water inventory. A new study led by researchers at Universities Space Research Association and the University of New Mexico uses the Moon's surface record to impose strict limits on that scenario, concluding that impacts over the last 4 billion year",
-      "image": "https://www.spxdaily.com/images-bg/moon-apollo-17-jack-schmitt-station-6-north-massif-ridge-taurus-littrow-valley-lunar-rover-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Lunar_impacts_limit_late_delivery_of_Earth_ocean_water_999.html",
       "news_site": "SpaceDaily",
       "source": "Spaceflight News API"
     },
@@ -917,6 +708,17 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_36625",
+      "type": "news",
+      "title": "Danish Mani mission to chart lunar terrain in 3D",
+      "date": "2026-03-05T09:54:43Z",
+      "summary": "Berlin, Germany (SPX) Mar 05, 2026\r\n\r\n\r\nThe University of Copenhagen will lead Denmark's first lunar mission, a European Space Agency project that will map the Moon's surface in three dimensions to support future landings and base construction. \r\n\r\nThe Mani satellite will orbit the Moon's north and south polar regions, acquiring high-resolution images that can be combined into detailed elevation models. \r\n\r\nBy imaging the same are",
+      "image": "https://www.spxdaily.com/images-bg/denmark-mani-satellite-lunar-mapper-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "news_36629",
       "type": "news",
       "title": "Networks ready to keep Artemis II crew connected around the Moon",
@@ -924,50 +726,6 @@
       "summary": "Los Angeles CA (SPX) Jan 30, 2026\r\n\r\n\r\nNASA is preparing a pair of global communications networks to keep the four-person Artemis II crew connected with Earth as they travel from low Earth orbit to a loop around the Moon and back. The mission will fly astronauts aboard the Orion spacecraft and Space Launch System rocket as part of the agency's broader effort to build a sustained human presence in deep space and eventually send crews",
       "image": "https://www.spxdaily.com/images-bg/artemis-orion-full-moon-flyby-bg.jpg",
       "link": "https://www.spacedaily.com/reports/Networks_ready_to_keep_Artemis_II_crew_connected_around_the_Moon_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36628",
-      "type": "news",
-      "title": "Chinese astronauts hone extreme cave survival skills",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nTwenty-eight astronauts and trainees have completed China's first cave-survival training program, a nearly monthlong exercise run by the Astronaut Center of China in Chongqing's Wulong district. \n\nThe course included more than 10 core activities such as environmental monitoring, cave mapping, simulated communication with ground control, and a series of psychological and behavioral drills in",
-      "image": "https://www.spxdaily.com/images-bg/china-astronaut-cave-training-first-analog-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36624",
-      "type": "news",
-      "title": "Lunar dust model maps how charged grains stick to spacecraft",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nResearchers from Beijing Institute of Technology, China Academy of Space Technology, and the Chinese Academy of Sciences have developed a theoretical model that links electrostatic forces and contact mechanics to describe how low-velocity charged lunar dust particles either adhere to or escape from spacecraft surfaces within a surrounding plasma sheath. The work aims to clarify mechanisms that d",
-      "image": "https://www.spxdaily.com/images-bg/lunar-surface-charged-dust-particles-spacecraft-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36627",
-      "type": "news",
-      "title": "Lunar spacecraft exhaust could obscure clues to origins of life",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Washington DC (SPX) Mar 05, 2026\n\n\nOver half of the exhaust methane from lunar spacecraft could end up contaminating areas of the moon that might otherwise yield clues about the origins of earthly life, according to a recent study. The pollution could unfold rapidly regardless of a spacecraft's touchdown site; even for a landing at the South Pole, methane molecules may \"hop\" across the lunar surface to the North Pole in under two",
-      "image": "https://www.spxdaily.com/images-bg/intuitive-machines-iloa-lunar-descent-ilo-x-broken-landing-legs-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Lunar_spacecraft_exhaust_could_obscure_clues_to_origins_of_life_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36623",
-      "type": "news",
-      "title": "Lunar dust study links space weathering to changes in Moon ultraviolet brightness",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Los Angeles CA (SPX) Mar 05, 2026\n\n\nSAN ANTONIO - Southwest Research Institute (SwRI) scientists working with researchers at UT San Antonio have analyzed Apollo lunar soil samples to determine how space weathering alters the Moon's surface and affects its far-ultraviolet (FUV) reflectance. The team examined how exposure to solar wind and micrometeoroid impacts over long periods changes the FUV spectral response of lunar grains, us",
-      "image": "https://www.spxdaily.com/images-bg/lunar-moon-apollo-11-grain-rims-weathering-ultraviolet-reflectance-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Lunar_dust_study_links_space_weathering_to_changes_in_Moon_ultraviolet_brightness_999.html",
       "news_site": "SpaceDaily",
       "source": "Spaceflight News API"
     },
@@ -983,6 +741,28 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_36627",
+      "type": "news",
+      "title": "Lunar spacecraft exhaust could obscure clues to origins of life",
+      "date": "2026-03-05T09:54:43Z",
+      "summary": "Washington DC (SPX) Mar 05, 2026\n\n\nOver half of the exhaust methane from lunar spacecraft could end up contaminating areas of the moon that might otherwise yield clues about the origins of earthly life, according to a recent study. The pollution could unfold rapidly regardless of a spacecraft's touchdown site; even for a landing at the South Pole, methane molecules may \"hop\" across the lunar surface to the North Pole in under two",
+      "image": "https://www.spxdaily.com/images-bg/intuitive-machines-iloa-lunar-descent-ilo-x-broken-landing-legs-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Lunar_spacecraft_exhaust_could_obscure_clues_to_origins_of_life_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36621",
+      "type": "news",
+      "title": "Lunar impacts limit late delivery of Earth ocean water",
+      "date": "2026-03-05T09:54:43Z",
+      "summary": "Washington DC (SPX) Mar 05, 2026\n\n\nA long-standing idea in planetary science proposes that water rich meteorites arriving late in Earth history delivered a major share of the planet's water inventory. A new study led by researchers at Universities Space Research Association and the University of New Mexico uses the Moon's surface record to impose strict limits on that scenario, concluding that impacts over the last 4 billion year",
+      "image": "https://www.spxdaily.com/images-bg/moon-apollo-17-jack-schmitt-station-6-north-massif-ridge-taurus-littrow-valley-lunar-rover-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Lunar_impacts_limit_late_delivery_of_Earth_ocean_water_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "news_36630",
       "type": "news",
       "title": "Northrop Grumman Boosters Set For First Crewed Lunar Voyage Of Artemis Era",
@@ -990,6 +770,39 @@
       "summary": "Los Angeles CA (SPX) Jan 29, 2026\r\n\r\n\r\nTwo Northrop Grumman five segment solid rocket boosters are taking their place on the launch pad as NASA prepares for the first crewed flight of the Space Launch System rocket under the Artemis II mission from Pad 39B at Kennedy Space Center in Florida, targeted for early February 2026. \r\n\r\nThe twin solid rocket boosters stand 177 feet tall and each produces 3.6 million pounds of thrust at lif",
       "image": "https://www.spxdaily.com/images-bg/artemis-ii-full-stack-crawler-dawn-bg.jpg",
       "link": "https://www.spacedaily.com/reports/Northrop_Grumman_Boosters_Set_For_First_Crewed_Lunar_Voyage_Of_Artemis_Era_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36623",
+      "type": "news",
+      "title": "Lunar dust study links space weathering to changes in Moon ultraviolet brightness",
+      "date": "2026-03-05T09:54:43Z",
+      "summary": "Los Angeles CA (SPX) Mar 05, 2026\n\n\nSAN ANTONIO - Southwest Research Institute (SwRI) scientists working with researchers at UT San Antonio have analyzed Apollo lunar soil samples to determine how space weathering alters the Moon's surface and affects its far-ultraviolet (FUV) reflectance. The team examined how exposure to solar wind and micrometeoroid impacts over long periods changes the FUV spectral response of lunar grains, us",
+      "image": "https://www.spxdaily.com/images-bg/lunar-moon-apollo-11-grain-rims-weathering-ultraviolet-reflectance-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Lunar_dust_study_links_space_weathering_to_changes_in_Moon_ultraviolet_brightness_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36624",
+      "type": "news",
+      "title": "Lunar dust model maps how charged grains stick to spacecraft",
+      "date": "2026-03-05T09:54:43Z",
+      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nResearchers from Beijing Institute of Technology, China Academy of Space Technology, and the Chinese Academy of Sciences have developed a theoretical model that links electrostatic forces and contact mechanics to describe how low-velocity charged lunar dust particles either adhere to or escape from spacecraft surfaces within a surrounding plasma sheath. The work aims to clarify mechanisms that d",
+      "image": "https://www.spxdaily.com/images-bg/lunar-surface-charged-dust-particles-spacecraft-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36628",
+      "type": "news",
+      "title": "Chinese astronauts hone extreme cave survival skills",
+      "date": "2026-03-05T09:54:43Z",
+      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nTwenty-eight astronauts and trainees have completed China's first cave-survival training program, a nearly monthlong exercise run by the Astronaut Center of China in Chongqing's Wulong district. \n\nThe course included more than 10 core activities such as environmental monitoring, cave mapping, simulated communication with ground control, and a series of psychological and behavioral drills in",
+      "image": "https://www.spxdaily.com/images-bg/china-astronaut-cave-training-first-analog-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html",
       "news_site": "SpaceDaily",
       "source": "Spaceflight News API"
     },
@@ -1654,17 +1467,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36691",
-      "type": "news",
-      "title": "Hostage to the Moon - How Artemis Became Industrial Welfare in a Space Suit - Part 2",
-      "date": "2026-03-09T05:07:26Z",
-      "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA says it has finally found the \"back to basics\" recipe to get Americans back on the Moon by 2028. A new intermediate mission, standardized hardware, a faster launch cadence: on paper, the Artemis overhaul looks like a sober course correction after years of drift.",
-      "image": "https://www.spxdaily.com/images-bg/lunar-spix-2-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Hostage_to_the_Moon_How_Artemis_Became_Industrial_Welfare_in_a_Space_Suit_Part_2_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36690",
       "type": "news",
       "title": "Course Correction or Controlled Crash? Inside NASA's Artemis Overhaul - Part 1",
@@ -1676,17 +1478,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36692",
-      "type": "news",
-      "title": "Apollo Cosplay on a 21st-Century Clock - Why Artemis Keeps Slipping Toward 2029 - Part 3",
-      "date": "2026-03-09T05:07:26Z",
-      "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA's latest reboot of the Artemis Moon program comes with familiar language: 'back to basics,' 'muscle memory,' 'step-by-step,' and an explicit nod to the Mercury-Gemini-Apollo playbook. The agency wants to fly more often, change hardware less, and build up capability incrementally, just like the 1960s. The problem is that Artemis is trying to cosplay Apollo in a world with very different politics, partners and rivals - and the gaps are showing.",
-      "image": "https://www.spxdaily.com/images-bg/lunar-apollo-15-landing-site-lander-buggy-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Apollo_Cosplay_on_a_21st_Century_Clock_Why_Artemis_Keeps_Slipping_Toward_2029_Part_3_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36693",
       "type": "news",
       "title": "Changing the Rules Mid-Race - How Artemis Lets Washington Redefine \"Winning\" at the Moon - Part 4",
@@ -1694,6 +1485,28 @@
       "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nIn classic Washington style, the United States has found a way to keep 'winning' the new Moon race even as its flagship program slips, bloats and mutates. With the latest Artemis overhaul, NASA isn't just re-planning a mission sequence - it's helping Trump's America quietly rewrite the rules of the game so that almost any outcome can be spun as victory.",
       "image": "https://www.spxdaily.com/images-bg/trump-musk-tesla-whitehouse-wapo-pool-bg.jpg",
       "link": "https://www.spacedaily.com/reports/Changing_the_Rules_Mid_Race_How_Artemis_Lets_Washington_Redefine_Winning_at_the_Moon_Part_4_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36691",
+      "type": "news",
+      "title": "Hostage to the Moon - How Artemis Became Industrial Welfare in a Space Suit - Part 2",
+      "date": "2026-03-09T05:07:26Z",
+      "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA says it has finally found the \"back to basics\" recipe to get Americans back on the Moon by 2028. A new intermediate mission, standardized hardware, a faster launch cadence: on paper, the Artemis overhaul looks like a sober course correction after years of drift.",
+      "image": "https://www.spxdaily.com/images-bg/lunar-spix-2-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Hostage_to_the_Moon_How_Artemis_Became_Industrial_Welfare_in_a_Space_Suit_Part_2_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36692",
+      "type": "news",
+      "title": "Apollo Cosplay on a 21st-Century Clock - Why Artemis Keeps Slipping Toward 2029 - Part 3",
+      "date": "2026-03-09T05:07:26Z",
+      "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA's latest reboot of the Artemis Moon program comes with familiar language: 'back to basics,' 'muscle memory,' 'step-by-step,' and an explicit nod to the Mercury-Gemini-Apollo playbook. The agency wants to fly more often, change hardware less, and build up capability incrementally, just like the 1960s. The problem is that Artemis is trying to cosplay Apollo in a world with very different politics, partners and rivals - and the gaps are showing.",
+      "image": "https://www.spxdaily.com/images-bg/lunar-apollo-15-landing-site-lander-buggy-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Apollo_Cosplay_on_a_21st_Century_Clock_Why_Artemis_Keeps_Slipping_Toward_2029_Part_3_999.html",
       "news_site": "SpaceDaily",
       "source": "Spaceflight News API"
     },
@@ -2241,7 +2054,7 @@
       "type": "news",
       "title": "Launch Preview: Falcon 9 to dominate another busy week of missions",
       "date": "2026-03-10T21:11:28Z",
-      "summary": "Eight launches are scheduled worldwide this week, with Falcon 9 again dominating the launch schedule.…\nThe post Launch Preview: Falcon 9 to dominate another busy week of missions appeared first on NASASpaceFlight.com.",
+      "summary": "Eight launches are scheduled worldwide this week, with Falcon 9 again dominating the launch schedule.…\r\nThe post Launch Preview: Falcon 9 to dominate another busy week of missions appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-8-2023-Falcon-9-Starlink-6-27-Streak-Shot.jpg",
       "link": "https://www.nasaspaceflight.com/2026/03/launch-preview-031026/",
       "news_site": "NASASpaceflight",
@@ -2263,7 +2076,7 @@
       "type": "news",
       "title": "Starlab Space fully books commercial payload space on planned space station",
       "date": "2026-03-10T23:11:13Z",
-      "summary": "\nThe Starlab commercial space station has fully booked its commercial payload space as the joint venture developing it awaits the next phase of a NASA program.\nThe post Starlab Space fully books commercial payload space on planned space station appeared first on SpaceNews.",
+      "summary": "The Starlab commercial space station has fully booked its commercial payload space as the joint venture developing it awaits the next phase of a NASA program.\r\nThe post Starlab Space fully books commercial payload space on planned space station appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Starlab_-_External_Config_2025_-_04.png?fit=1024%2C576&ssl=1",
       "link": "https://spacenews.com/starlab-space-fully-books-commercial-payload-space-on-planned-space-station/",
       "news_site": "SpaceNews",
@@ -2336,21 +2149,197 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "launch_6f2868b8-1000-48e5-893b-700c1371b4fb",
+      "id": "news_36795",
+      "type": "news",
+      "title": "Cyprus First to Use EU GOVSATCOM Secure Communications Service",
+      "date": "2026-03-11T09:39:15Z",
+      "summary": "The European Union’s space agency, EUSPA, announced on 10 March that Cyprus has become the first country to use its GOVSATCOM secure communications service for “safety and security purposes along the south-eastern borders of the Union.” GOVSATCOM was initially announced in 2018 and became operational in January 2026, with the initial service pooling capacity from […]\nThe post Cyprus First to Use EU GOVSATCOM Secure Communications Service appeared first on European Spaceflight.",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/03/Cyprus-First-to-Use-EU-GOVSATCOM-Secure-Communications-Service.webp",
+      "link": "https://europeanspaceflight.com/cyprus-first-to-use-eu-govsatcom-secure-communications-service/",
+      "news_site": "European Spaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36785",
+      "type": "news",
+      "title": "The tiny lens antenna with big potential",
+      "date": "2026-03-11T10:00:00Z",
+      "summary": "Every day, we rely on satellite navigation – so much so that it has become a target for disruption. As our dependence on the technology grows, so do the risks associated with its interruption. Some antennas offer protection from the most common types of interference, but they are bulky and expensive to manufacture. A PhD researcher’s project explores an alternative: a football-sized, 3D-printed lens antenna that could provide resilience for satellite navigation while staying simple and cheap.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/10/multi-beam_satellite_navigation_antenna_test/26904240-1-eng-GB/Multi-beam_satellite_navigation_antenna_test_card_full.jpg",
+      "link": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_tiny_lens_antenna_with_big_potential",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36786",
+      "type": "news",
+      "title": "Large Series C signals scale-up of China’s laser satellite communications sector",
+      "date": "2026-03-11T10:00:34Z",
+      "summary": "\nShanghai-based laser communications startup BlueStar Optical Domain has raised funding in the region of $70 million, highlighting growing demand from China’s emerging satellite internet constellations.\nThe post Large Series C signals scale-up of China’s laser satellite communications sector appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/BlueStar-Optical-Domain-full-domain-art.jpg?fit=1024%2C572&ssl=1",
+      "link": "https://spacenews.com/large-series-c-signals-scale-up-of-chinas-laser-satellite-communications-sector/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36787",
+      "type": "news",
+      "title": "Telesat expands Canadian landing station footprint for Lightspeed",
+      "date": "2026-03-11T11:49:11Z",
+      "summary": "\nTelesat has gained access to more land across Canada to set up landing stations ahead of plans to deploy pathfinders for its Lightspeed broadband constellation in December.\nThe post Telesat expands Canadian landing station footprint for Lightspeed appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/Screenshot-2025-09-03-at-3.52.51-PM-e1756929287487.png?fit=1024%2C462&ssl=1",
+      "link": "https://spacenews.com/telesat-expands-canadian-landing-station-footprint-for-lightspeed/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36788",
+      "type": "news",
+      "title": "NASA disqualifies X-ray telescope from Probe mission competition",
+      "date": "2026-03-11T12:18:32Z",
+      "summary": "\nNASA has disqualified one of the two proposals for a large astrophysics mission, a decision the project’s leader blames on upheaval within the agency last year.\nThe post NASA disqualifies X-ray telescope from Probe mission competition appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/axis-probe.jpeg?fit=1024%2C785&ssl=1",
+      "link": "https://spacenews.com/nasa-disqualifies-x-ray-telescope-from-probe-mission-competition/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36789",
+      "type": "news",
+      "title": "Space Force officially terminates AeroVironment contract for satellite control antennas",
+      "date": "2026-03-11T12:21:07Z",
+      "summary": "\nThe company says it will rework its BADGER antenna design and compete for the follow-on effort\nThe post Space Force officially terminates AeroVironment contract for satellite control antennas appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/av-badger-1.jpg?fit=1024%2C539&ssl=1",
+      "link": "https://spacenews.com/space-force-officially-terminates-aerovironment-contract-for-satellite-control-antennas/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36790",
+      "type": "news",
+      "title": "The perils of political impatience in the Artemis program",
+      "date": "2026-03-11T13:00:00Z",
+      "summary": "\nRecent engineering setbacks, specifically regarding helium system issues associated with the improper flow of helium into the Space Launch System (SLS) rocket’s upper stage, and persistent hydrogen leaks, have forced NASA to delay the crewed Artemis 2 mission to no earlier than April. While frustrating for the public, these delays are a necessary byproduct of […]\nThe post The perils of political impatience in the Artemis program appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/art2-260129.jpeg?fit=1024%2C683&ssl=1",
+      "link": "https://spacenews.com/the-perils-of-political-impatience-in-the-artemis-program/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36791",
+      "type": "news",
+      "title": "Telescopes Team Up for New View of Cat’s Eye Nebula",
+      "date": "2026-03-11T15:53:43Z",
+      "summary": "This March 3, 2026, image combines views from ESA’s (European Space Agency) Euclid and NASA’s Hubble Space Telescope to feature one of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543. This extraordinary planetary nebula lies 4,400 light-years away in the constellation Draco and has captivated astronomers for decades […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/hubble-euclid-catseye-2026-pubtiff-4k-potm2602c.jpg",
+      "link": "https://www.nasa.gov/image-article/telescopes-team-up-for-new-view-of-cats-eye-nebula/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36793",
+      "type": "news",
+      "title": "About University Innovation Project (UI)",
+      "date": "2026-03-11T17:00:00Z",
+      "summary": "NASA’s University Innovation (UI) project funds university-led innovation to address the agency’s Aeronautics Research Mission Directorate’s system-level challenges via independent, NASA-alternate-path, multi-disciplinary awards. Strategic Goals The UI portfolio’s strategic goals in descending order of importance are: 1.    Assist in achieving aviation outcomes defined in the ARMD Strategic Implementation Plan through NASA-complementary research. 2.    Transition research […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2020/11/uli-books.jpg",
+      "link": "https://www.nasa.gov/directorates/armd/tacp/ui/about-ui/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36792",
+      "type": "news",
+      "title": "Missile strike hits SES teleport in Israel",
+      "date": "2026-03-11T18:57:37Z",
+      "summary": "\nSatellite operator SES said a missile “targeted and struck” its teleport facility in Israel March 9 as tensions spill across the region amid ongoing Israeli and U.S. military operations against Iran.\nThe post Missile strike hits SES teleport in Israel appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/SES_Betzdorf_2020_03_0.jpg?fit=1024%2C682&ssl=1",
+      "link": "https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36794",
+      "type": "news",
+      "title": "2026 William T. Pecora Award Nominations Now Being Accepted",
+      "date": "2026-03-11T20:18:22Z",
+      "summary": "The William T. Pecora Award is presented annually to individuals or teams using satellite or aerial remote sensing that make outstanding contributions toward understanding the Earth (land, oceans, and air), educating the next generation of scientists, informing decision-makers, or supporting natural or human-induced disaster response. Both national and international nominations are welcome.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2026/03/WTPecora_PressPhoto1970.jpg",
+      "link": "https://science.nasa.gov/missions/landsat/2026-william-t-pecora-award-nominations-now-being-accepted/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36796",
+      "type": "news",
+      "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
+      "date": "2026-03-11T22:04:42Z",
+      "summary": "Will it really take \"centuries\" for SpaceX to deploy its megaconstellation?",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/brendan-carr-1751402466.jpg",
+      "link": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
+      "news_site": "Arstechnica",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36797",
+      "type": "news",
+      "title": "New crew arrivals and science highlight February aboard the ISS",
+      "date": "2026-03-11T22:38:16Z",
+      "summary": "Following the early departure of Crew-11 in mid-January due to a medical concern, the International…\nThe post New crew arrivals and science highlight February aboard the ISS appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/IMG_2855.jpeg",
+      "link": "https://www.nasaspaceflight.com/2026/03/iss-roundup-022026/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36798",
+      "type": "news",
+      "title": "Report criticizes delays in Artemis lunar lander development",
+      "date": "2026-03-11T22:57:28Z",
+      "summary": "\nNASA’s approach to managing the development of crewed lunar landers for Artemis has successfully controlled costs but not schedule, raising questions about NASA’s desire to accelerate those efforts.\nThe post Report criticizes delays in Artemis lunar lander development appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/lunarlanders.jpeg?fit=1024%2C638&ssl=1",
+      "link": "https://spacenews.com/report-criticizes-delays-in-artemis-lunar-lander-development/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36799",
+      "type": "news",
+      "title": "Enpulsion raises $26 million",
+      "date": "2026-03-12T00:21:11Z",
+      "summary": "\nEnpulsion, an Austrian company that produces satellite electric propulsion systems, has raised its first significant outside funding to increase production and potentially acquire other companies.\nThe post Enpulsion raises $26 million appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/enpulsion.jpeg?fit=1024%2C733&ssl=1",
+      "link": "https://spacenews.com/enpulsion-raises-26-million/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "launch_3f6de963-7197-48aa-a49f-6c944cbf85e9",
       "type": "launch",
-      "title": "Falcon 9 Block 5 | Starlink Group 10-48",
-      "date": "2026-03-12T10:00:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "Starlink Group 10-48",
-      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
+      "title": "Firefly Alpha | Stairway to Seven",
+      "date": "2026-03-12T00:50:00Z",
+      "provider": "Firefly Aerospace",
+      "rocket": "Firefly Alpha",
+      "mission": "Stairway to Seven",
+      "description": "Firefly Alpha's Flight 7 will be a test flight and return-To-Flight for the launch vehicle after its April 2025 launch failure. It will test and validate key systems ahead of Firefly’s Block II configuration upgrade on Flight 8 that’s designed to enhance reliability and manufacturability across the vehicle.\r\n\r\nFlight 7 will be the last flown in Alpha’s current configuration and will test multiple Block II subsystems, including the in-house avionics and thermal improvements, to gain flight heritage and validate lessons learned ahead of the full configuration upgrade on Flight 8.",
+      "pad": "Space Launch Complex 2W",
+      "status": "Launch in Flight",
       "probability": null,
-      "webcast": "https://www.youtube.com/watch?v=d_g_YYUhtLU",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/6f2868b8-1000-48e5-893b-700c1371b4fb/",
+      "webcast": "https://www.youtube.com/watch?v=nyVbmoRXcvc",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/3f6de963-7197-48aa-a49f-6c944cbf85e9/",
       "source": "Launch Library 2"
+    },
+    {
+      "id": "news_36800",
+      "type": "news",
+      "title": "The Post-Capacity Era of Satellite Connectivity",
+      "date": "2026-03-12T01:10:51Z",
+      "summary": "\nParis, February 2026 — Novaspace’s Capacity Pricing Trends, 8th Edition finds the satellite connectivity market has entered a Post‑Capacity Era, where bandwidth is no longer the basis of differentiation. Starlink’s vertical integration and cost […]\nThe post The Post-Capacity Era of Satellite Connectivity appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1",
+      "link": "https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
     },
     {
       "id": "event_1338",
@@ -2409,6 +2398,23 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_6f2868b8-1000-48e5-893b-700c1371b4fb",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | Starlink Group 10-48",
+      "date": "2026-03-13T10:00:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "Starlink Group 10-48",
+      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "pad": "Space Launch Complex 40",
+      "status": "Go for Launch",
+      "probability": 90,
+      "webcast": "https://www.youtube.com/watch?v=d_g_YYUhtLU",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/6f2868b8-1000-48e5-893b-700c1371b4fb/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_d44f47c7-5e3e-40fb-9d10-b6e851acf81a",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 17-31",
@@ -2426,23 +2432,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_f5df8e48-7612-4757-bd1b-cdb5b5a1936b",
-      "type": "launch",
-      "title": "Falcon 9 Block 5 | Starlink Group 10-46",
-      "date": "2026-03-15T11:11:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "Starlink Group 10-46",
-      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": "https://x.com/i/broadcasts/1NGaraovVYVJj",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/f5df8e48-7612-4757-bd1b-cdb5b5a1936b/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_f8766455-2b03-4629-a36e-b931c8b4a6c5",
       "type": "launch",
       "title": "Long March 6A | Unknown Payload",
@@ -2457,6 +2446,23 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/f8766455-2b03-4629-a36e-b931c8b4a6c5/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_f5df8e48-7612-4757-bd1b-cdb5b5a1936b",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | Starlink Group 10-46",
+      "date": "2026-03-16T10:49:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "Starlink Group 10-46",
+      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "pad": "Space Launch Complex 40",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": "https://x.com/i/broadcasts/1NGaraovVYVJj",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/f5df8e48-7612-4757-bd1b-cdb5b5a1936b/",
       "source": "Launch Library 2"
     },
     {
@@ -2652,6 +2658,23 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_8a9f7ce9-4ab5-4227-95f1-9f328def8828",
+      "type": "launch",
+      "title": "Atlas V 551 | Amazon Leo (LA-05)",
+      "date": "2026-03-30T07:31:00Z",
+      "provider": "United Launch Alliance",
+      "rocket": "Atlas V 551",
+      "mission": "Amazon Leo (LA-05)",
+      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.",
+      "pad": "Space Launch Complex 41",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520551_image_20190224012316.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/8a9f7ce9-4ab5-4227-95f1-9f328def8828/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
       "type": "launch",
       "title": "Soyuz-5 | Demo Flight",
@@ -2683,23 +2706,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_3f6de963-7197-48aa-a49f-6c944cbf85e9",
-      "type": "launch",
-      "title": "Firefly Alpha | Stairway to Seven",
-      "date": "2026-03-31T00:00:00Z",
-      "provider": "Firefly Aerospace",
-      "rocket": "Firefly Alpha",
-      "mission": "Stairway to Seven",
-      "description": "Firefly Alpha's Flight 7 will be a test flight and return-To-Flight for the launch vehicle after its April 2025 launch failure. It will test and validate key systems ahead of Firefly’s Block II configuration upgrade on Flight 8 that’s designed to enhance reliability and manufacturability across the vehicle.\r\n\r\nFlight 7 will be the last flown in Alpha’s current configuration and will test multiple Block II subsystems, including the in-house avionics and thermal improvements, to gain flight heritage and validate lessons learned ahead of the full configuration upgrade on Flight 8.",
-      "pad": "Space Launch Complex 2W",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": "https://www.youtube.com/watch?v=nyVbmoRXcvc",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/3f6de963-7197-48aa-a49f-6c944cbf85e9/",
       "source": "Launch Library 2"
     },
     {
@@ -3099,23 +3105,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_07e945c1-2ec6-4d29-a500-1afbe920440f",
-      "type": "launch",
-      "title": "Atlas V N22 | Starliner-1",
-      "date": "2026-04-30T00:00:00Z",
-      "provider": "United Launch Alliance",
-      "rocket": "Atlas V N22",
-      "mission": "Starliner-1",
-      "description": "Starliner-1 is the first operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Due to problems with the Starliner spacecraft's RCS attitude control system during the Crew Flight Test mission in 2024, this mission has been re-scoped to not carry a crew by NASA. It will instead deliver necessary cargo to the orbital laboratory and allow in-flight validation of the system upgrades implemented following the Crew Flight Test mission last year.",
-      "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/07e945c1-2ec6-4d29-a500-1afbe920440f/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_4cc237b2-c61a-491e-9532-466cce81f524",
       "type": "launch",
       "title": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
@@ -3422,6 +3411,23 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_1e79a5e9-c02c-470f-882f-884120100fef",
+      "type": "launch",
+      "title": "Long March 10B | Demo Flight",
+      "date": "2026-06-30T00:00:00Z",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 10B",
+      "mission": "Demo Flight",
+      "description": "First test launch of CASC’s Long March 10B rocket.",
+      "pad": "Commercial LC-2",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": null,
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/1e79a5e9-c02c-470f-882f-884120100fef/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
       "type": "launch",
       "title": "Themis Demonstrator | T1H-1",
@@ -3487,23 +3493,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rfa_one_image_20230117001619.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/91b13c6c-4525-496d-997b-3521bb6a4cd8/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_29c2b843-540d-40da-b200-d4892d74e140",
-      "type": "launch",
-      "title": "Atlas V N22 | Starliner-2",
-      "date": "2026-06-30T00:00:00Z",
-      "provider": "United Launch Alliance",
-      "rocket": "Atlas V N22",
-      "mission": "Starliner-2",
-      "description": "Starliner-2 is the second crewed operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-      "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/29c2b843-540d-40da-b200-d4892d74e140/",
       "source": "Launch Library 2"
     },
     {
@@ -4282,23 +4271,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_a4297716-feaa-44f4-abd3-c34aaeabc641",
-      "type": "launch",
-      "title": "Atlas V N22 | Starliner-3",
-      "date": "2026-12-31T00:00:00Z",
-      "provider": "United Launch Alliance",
-      "rocket": "Atlas V N22",
-      "mission": "Starliner-3",
-      "description": "Starliner-3 is the third crewed operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-      "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/a4297716-feaa-44f4-abd3-c34aaeabc641/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_0c26b3d4-43e3-4c1a-8976-592ff319bc51",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Nova-C IM-3",
@@ -4401,23 +4373,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_8a9f7ce9-4ab5-4227-95f1-9f328def8828",
-      "type": "launch",
-      "title": "Atlas V 551 | Amazon Leo (LA-05)",
-      "date": "2026-12-31T00:00:00Z",
-      "provider": "United Launch Alliance",
-      "rocket": "Atlas V 551",
-      "mission": "Amazon Leo (LA-05)",
-      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.",
-      "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520551_image_20190224012316.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/8a9f7ce9-4ab5-4227-95f1-9f328def8828/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_7e89e423-6f47-40a0-b075-c6fc1d9cf228",
       "type": "launch",
       "title": "Atlas V 551 | Amazon Leo (LA-06)",
@@ -4466,6 +4421,40 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520551_image_20190224012316.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/9eb09815-c237-4fdd-9057-5b161131240c/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_07e945c1-2ec6-4d29-a500-1afbe920440f",
+      "type": "launch",
+      "title": "Atlas V N22 | Starliner-1",
+      "date": "2026-12-31T00:00:00Z",
+      "provider": "United Launch Alliance",
+      "rocket": "Atlas V N22",
+      "mission": "Starliner-1",
+      "description": "Starliner-1 is the first operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program. Due to problems with the Starliner spacecraft's RCS attitude control system during the Crew Flight Test mission in 2024, this mission has been re-scoped to not carry a crew by NASA. It will instead deliver necessary cargo to the orbital laboratory and allow in-flight validation of the system upgrades implemented following the Crew Flight Test mission last year.",
+      "pad": "Space Launch Complex 41",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/07e945c1-2ec6-4d29-a500-1afbe920440f/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_29c2b843-540d-40da-b200-d4892d74e140",
+      "type": "launch",
+      "title": "Atlas V N22 | Starliner-2",
+      "date": "2026-12-31T00:00:00Z",
+      "provider": "United Launch Alliance",
+      "rocket": "Atlas V N22",
+      "mission": "Starliner-2",
+      "description": "Starliner-2 is the second crewed operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
+      "pad": "Space Launch Complex 41",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/29c2b843-540d-40da-b200-d4892d74e140/",
       "source": "Launch Library 2"
     },
     {
@@ -6569,23 +6558,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_24c5a3ac-94e6-4a78-bbc2-43388a2dc5db",
-      "type": "launch",
-      "title": "Atlas V N22 | Starliner-4",
-      "date": "2027-06-30T00:00:00Z",
-      "provider": "United Launch Alliance",
-      "rocket": "Atlas V N22",
-      "mission": "Starliner-4",
-      "description": "Starliner-4 is the fourth crewed operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-      "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/24c5a3ac-94e6-4a78-bbc2-43388a2dc5db/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "event_398",
       "type": "event",
       "title": "Lucy Trojan Asteroid (3548) Eurybates & Queta Flyby",
@@ -6639,23 +6611,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/f3a1a032-5cca-4733-9ca8-04a5a1dba222/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_f1fef4f8-e7e2-47e8-b75a-0b2e25b75817",
-      "type": "launch",
-      "title": "Atlas V N22 | Starliner-5",
-      "date": "2027-09-30T00:00:00Z",
-      "provider": "United Launch Alliance",
-      "rocket": "Atlas V N22",
-      "mission": "Starliner-5",
-      "description": "Starliner-5 is the fifth crewed operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-      "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/f1fef4f8-e7e2-47e8-b75a-0b2e25b75817/",
       "source": "Launch Library 2"
     },
     {
@@ -6843,6 +6798,40 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/dd8476ff-c4b0-49bb-a13d-0fbd06edc4b4/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_a4297716-feaa-44f4-abd3-c34aaeabc641",
+      "type": "launch",
+      "title": "Atlas V N22 | Starliner-3",
+      "date": "2027-12-31T00:00:00Z",
+      "provider": "United Launch Alliance",
+      "rocket": "Atlas V N22",
+      "mission": "Starliner-3",
+      "description": "Starliner-3 is the third crewed operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
+      "pad": "Space Launch Complex 41",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/a4297716-feaa-44f4-abd3-c34aaeabc641/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_24c5a3ac-94e6-4a78-bbc2-43388a2dc5db",
+      "type": "launch",
+      "title": "Atlas V N22 | Starliner-4",
+      "date": "2027-12-31T00:00:00Z",
+      "provider": "United Launch Alliance",
+      "rocket": "Atlas V N22",
+      "mission": "Starliner-4",
+      "description": "Starliner-4 is the fourth crewed operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
+      "pad": "Space Launch Complex 41",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/24c5a3ac-94e6-4a78-bbc2-43388a2dc5db/",
       "source": "Launch Library 2"
     },
     {
@@ -7723,23 +7712,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_366dce38-e39c-4358-8b11-40c97b6e282b",
-      "type": "launch",
-      "title": "Atlas V N22 | Starliner-6",
-      "date": "2028-09-30T00:00:00Z",
-      "provider": "United Launch Alliance",
-      "rocket": "Atlas V N22",
-      "mission": "Starliner-6",
-      "description": "Starliner-6 is the sixth crewed operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-      "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/366dce38-e39c-4358-8b11-40c97b6e282b/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_26881916-98e7-40bc-954c-88ad6ac7a050",
       "type": "launch",
       "title": "Unknown | ExoMars 2028 Rosalind Franklin rover",
@@ -8020,6 +7992,40 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/9398a799-ee31-4366-ab50-fc828d993796/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_f1fef4f8-e7e2-47e8-b75a-0b2e25b75817",
+      "type": "launch",
+      "title": "Atlas V N22 | Starliner-5",
+      "date": "2028-12-31T00:00:00Z",
+      "provider": "United Launch Alliance",
+      "rocket": "Atlas V N22",
+      "mission": "Starliner-5",
+      "description": "Starliner-5 is the fifth crewed operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
+      "pad": "Space Launch Complex 41",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/f1fef4f8-e7e2-47e8-b75a-0b2e25b75817/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_366dce38-e39c-4358-8b11-40c97b6e282b",
+      "type": "launch",
+      "title": "Atlas V N22 | Starliner-6",
+      "date": "2028-12-31T00:00:00Z",
+      "provider": "United Launch Alliance",
+      "rocket": "Atlas V N22",
+      "mission": "Starliner-6",
+      "description": "Starliner-6 is the sixth crewed operational flight of a Starliner spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
+      "pad": "Space Launch Complex 41",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_v_n22_image_20210813082339.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/366dce38-e39c-4358-8b11-40c97b6e282b/",
       "source": "Launch Library 2"
     },
     {
