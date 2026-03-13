@@ -1,7 +1,7 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-03-12T01:25:10.342479+00:00",
-  "total_events_captured": 613,
+  "generated_at": "2026-03-13T01:28:50.569475+00:00",
+  "total_events_captured": 612,
   "events": [
     {
       "id": "event_1331",
@@ -92,105 +92,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "news_36565",
-      "type": "news",
-      "title": "Sunglint on Atlantic Ocean",
-      "date": "2026-03-02T16:54:04Z",
-      "summary": "Sunlight beams off a partly cloudy Atlantic Ocean just after sunrise as the International Space Station orbited 263 miles above on March 5, 2025. This is an example of sunglint, an optical phenomenon that occurs when sunlight reflects off the surface of water at the same angle that a satellite sensor views it. The result is […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/02/iss072e695136orig.jpg",
-      "link": "https://www.nasa.gov/image-article/sunglint-on-atlantic-ocean/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36567",
-      "type": "news",
-      "title": "Collaborating Through Data: Inside the PSI Users Group",
-      "date": "2026-03-02T17:30:01Z",
-      "summary": "About the PSI Users Group The Physical Sciences Informatics (PSI) Users Group is a recurring Webex forum that brings together researchers, open-science practitioners, and collaborators from across the physical sciences community. Designed to foster collaboration, knowledge-sharing, and data-driven discovery, each meeting provides participants with a platform to directly engage with leading researchers and PIs. Each […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/bps-general/bps-data_osdr_psi/PSI_Patch_Logo_111x128.png",
-      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/collaborating-through-data-inside-the-psi-users-group/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36568",
-      "type": "news",
-      "title": "Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement",
-      "date": "2026-03-02T20:00:00Z",
-      "summary": "\nMarch 2, 2026 – Washington, D.C.— The Commercial Space Federation (CSF) today announced that Kelli Kedis Ogborn will join the organization as a Strategic Advisor for Global Markets and Industry […]\nThe post Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/commercial-space-federation-square.png?fit=1024%2C1024&ssl=1",
-      "link": "https://spacenews.com/kelli-kedis-ogborn-joining-commercial-space-federation-as-strategic-advisor-for-global-markets-and-industry-engagement/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36570",
-      "type": "news",
-      "title": "What’s Up: March 2026 Skywatching Tips from NASA",
-      "date": "2026-03-02T20:45:51Z",
-      "summary": "What are some skywatching highlights in March 2026? A total lunar eclipse blood moon takes centre stage, Venus and Saturn cozy up for a conjunction, and we celebrate the vernal equinox.",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/march/Blood%20Moon_Trevor%20Dobson%20via%20Flick_CC%20BY-NC-ND%202.0.jpg",
-      "link": "https://science.nasa.gov/solar-system/whats-up-march-2026-skywatching-tips-from-nasa/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36571",
-      "type": "news",
-      "title": "Launch Preview: Japan to launch Kairos as Falcon 9 launches Starlink missions",
-      "date": "2026-03-02T22:20:29Z",
-      "summary": "Five missions are expected to launch this week, with Falcon 9 scheduled to launch four…\r\nThe post Launch Preview: Japan to launch Kairos as Falcon 9 launches Starlink missions appeared first on NASASpaceFlight.com.",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/IMG_0463.jpeg",
-      "link": "https://www.nasaspaceflight.com/2026/03/launch-preview-030226/",
-      "news_site": "NASASpaceflight",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36572",
-      "type": "news",
-      "title": "Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028",
-      "date": "2026-03-02T22:37:43Z",
-      "summary": "\nDeutsche Telekom plans to deliver Europe’s first direct-to-smartphone services via upgraded Starlink satellites in 2028, aiming to use MSS spectrum to bring 5G speeds to remote areas across 10 countries.\nThe post Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028 appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/DT-and-Starlink-Mobile-scaled.jpg?fit=1024%2C768&ssl=1",
-      "link": "https://spacenews.com/deutsche-telekom-aims-to-bring-starlink-mobile-v2-to-europe-in-2028/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36573",
-      "type": "news",
-      "title": "Smoke Rises Over Big Cypress National Preserve",
-      "date": "2026-03-03T05:00:00Z",
-      "summary": "The National fire has burned tens of thousands of acres within the Florida preserve, fueled by vegetation dried by prolonged drought and killed by recent frost.",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/smoke-rises-over-big-cypress-national-preserve/floridafire_amo_20260225.jpg",
-      "link": "https://science.nasa.gov/earth/earth-observatory/smoke-rises-over-big-cypress-national-preserve/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36574",
-      "type": "news",
-      "title": "Self-repairing spacecraft could change future missions",
-      "date": "2026-03-03T07:51:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/self-healable_cassandra_demonstrator/27135634-2-eng-GB/Self-healable_Cassandra_demonstrator_card_full.jpg",
-      "link": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Self-repairing_spacecraft_could_change_future_missions",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36575",
-      "type": "news",
-      "title": "Antarctica retreat study signals future ice loss",
-      "date": "2026-03-03T08:25:00Z",
-      "summary": "The ice along Antarctica’s ‘grounding lines’ has been largely stable over the past 30 years – but ice has retreated by more than 40 km in some areas, a new study based on satellite data finds.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/grounding_line_retreat_on_west_antarctica_1992-2025/27134422-5-eng-GB/Grounding_line_retreat_on_West_Antarctica_1992-2025_card_full.jpg",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctica_retreat_study_signals_future_ice_loss",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "event_1328",
       "type": "event",
       "title": "Total Lunar Eclipse",
@@ -200,149 +101,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/total_lunar_ecl_image_20221108082109.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1328/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_36576",
-      "type": "news",
-      "title": "Spectrum showdown",
-      "date": "2026-03-03T12:00:00Z",
-      "summary": "\nAs satellite communications constellations grow in size and number, they are also competing for a scarce and increasingly valuable resource: spectrum, the bands of radio frequencies that are crucial for communications and broadband service — and for tracking weather. The pace is intensifying as companies race to expand global communications networks, raising alarms at some […]\nThe post Spectrum showdown appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Weather_System_Follow-on_Microwave_satellite.jpeg?fit=876%2C1024&ssl=1",
-      "link": "https://spacenews.com/spectrum-showdown/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36585",
-      "type": "news",
-      "title": "Infinite Orbits Goes on Spending Spree After Securing €40 Million",
-      "date": "2026-03-03T12:42:07Z",
-      "summary": "In less than a week, Infinite Orbits announced two acquisitions, agreeing to purchase LMO’s Luxembourg-based operations in late February and UK-based Lúnasa Space in early March. The back-to-back deals come less than four months after the company closed an oversubscribed €40 million financing round in November 2025. Toulouse-based Infinite Orbits is developing Endurance, a satellite […]\nThe post Infinite Orbits Goes on Spending Spree After Securing €40 Million appeared first on European Spaceflight.",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/03/Infinite-Orbits-Goes-on-Spending-Spree-After-Securing-40-Million-Euros.webp",
-      "link": "https://europeanspaceflight.com/infinite-orbits-goes-on-spending-spree-after-securing-e40-million/",
-      "news_site": "European Spaceflight",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36577",
-      "type": "news",
-      "title": "Redwire unveils new solar array",
-      "date": "2026-03-03T12:50:51Z",
-      "summary": "\nRedwire has introduced a new solar array product designed for mass-produced satellites that require high performance while minimizing mass.\nThe post Redwire unveils new solar array appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/redwire-elsa.jpeg?fit=1024%2C576&ssl=1",
-      "link": "https://spacenews.com/redwire-unveils-new-solar-array/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36579",
-      "type": "news",
-      "title": "Hubble & Euclid zoom into cosmic eye",
-      "date": "2026-03-03T14:00:00Z",
-      "summary": "For this month’s ESA/Hubble Picture of the Month, NASA/ESA's Hubble Space Telescope is joined by ESA’s Euclid to create a new view of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/hubble_euclid_zoom_into_cat_s_eye_nebula/27132978-1-eng-GB/Hubble_Euclid_zoom_into_Cat_s_Eye_Nebula_card_full.jpg",
-      "link": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_zoom_into_cosmic_eye",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36580",
-      "type": "news",
-      "title": "Hubble & Euclid zoom into cosmic eye",
-      "date": "2026-03-03T14:00:00Z",
-      "summary": "This video takes the viewer on a journey through space to one of the most visually remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/hubble_euclid_zoom_into_cosmic_eye/27133712-1-eng-GB/Hubble_Euclid_zoom_into_cosmic_eye_card_full.png",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Hubble_Euclid_zoom_into_cosmic_eye",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36578",
-      "type": "news",
-      "title": "Two Observatories, One Cosmic Eye: Hubble and Euclid View Cat’s Eye Nebula",
-      "date": "2026-03-03T14:00:09Z",
-      "summary": "This new NASA/ESA Hubble Space Telescope image features one of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula, also known as NGC 6543. This extraordinary planetary nebula lies in the constellation Draco and has captivated astronomers for decades with its elaborate and multilayered structure. Observations with ESA’s Gaia mission place the nebula at 4,400 light-years away. […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/planetary/cats_eye_2026/Hubble_Euclid_CatsEye_2026_PubTiff_4K_potm2602c.tif",
-      "link": "https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36581",
-      "type": "news",
-      "title": "As Moon interest heats up, two companies unveil plans for a lunar \"harvester\"",
-      "date": "2026-03-03T15:00:21Z",
-      "summary": "\"Ultimately, we want to build a fleet of electric harvesters.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/FLEX-Exc.4k3_closeup.jpg",
-      "link": "https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/",
-      "news_site": "Arstechnica",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36582",
-      "type": "news",
-      "title": "When space is hot, Washington holds a match",
-      "date": "2026-03-03T16:00:00Z",
-      "summary": "\nA lesson from private equity investing in defense and space technology is that while the sector has become trendy among investors, success in the long run depends on sustained government engagement\nThe post When space is hot, Washington holds a match appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/congress-in-space.png?fit=1024%2C512&ssl=1",
-      "link": "https://spacenews.com/when-space-is-hot-washington-holds-a-match/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36583",
-      "type": "news",
-      "title": "NASA Invites Proposals to Lease Land Parcels at Sandusky Facility",
-      "date": "2026-03-03T18:29:23Z",
-      "summary": "NASA’s Glenn Research Center is seeking proposals to lease select land parcels at its Neil Armstrong Test Facility in Sandusky, Ohio. Proposals are due by 5 p.m. EST on July 2, 2026. The parcels are part of an area of land that currently serves as a buffer for ongoing NASA operations. The solicitation includes the […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/grc-2024-c-11142.jpg",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36584",
-      "type": "news",
-      "title": "Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork",
-      "date": "2026-03-03T18:40:37Z",
-      "summary": "Written by Ashley Stroupe, Operations Systems Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Friday, Feb. 27, 2026 This week we had three planning sessions, exploring the eastern side of the boxwork unit. As a Rover Planner on Monday, I worked on the arm and drive activities, while on Friday I served as the […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/february/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04820_opgs_edr_fcam_FLB_825378820EDR_F1202030FHAZ00200M_.jpg",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36586",
-      "type": "news",
-      "title": "Artemis II: What’s on the Menu?",
-      "date": "2026-03-03T21:00:25Z",
-      "summary": "The food flying aboard Artemis II is designed to support crew health and performance during the mission around the Moon. With no resupply, refrigeration, or late-load capability, all meals must be carefully selected to remain safe, shelf-stable, and easy to prepare and consume in NASA’s Orion spacecraft. Food selections are developed in coordination with space […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/02/np-2026-01-001-jsc-artemis-ii-crew-menu-infographic-2-23-26.png",
-      "link": "https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36587",
-      "type": "news",
-      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
-      "date": "2026-03-03T21:18:24Z",
-      "summary": "The Starlink 10-40 mission includes the 600th Starlink satellite launched so far in 2026. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a launch window that opens at 1:58 a.m. EST (0658 UTC).",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2025/06/20250605_Falcon-9_night_pad_file-678x416.jpg",
-      "link": "https://spaceflightnow.com/2026/03/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/",
-      "news_site": "Spaceflight Now",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36588",
-      "type": "news",
-      "title": "NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture",
-      "date": "2026-03-03T21:50:18Z",
-      "summary": "To achieve the national goal of landing American astronauts on the surface of the Moon and maintaining U.S. superiority in exploration and discovery, NASA announced Feb. 27 it is increasing its cadence of missions under the Artemis program, standardizing the SLS (Space Launch System) rocket configuration, and adding a new mission. The plans were shared […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/02/55081705156-0055a0332d-k.jpg",
-      "link": "https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_36589",
@@ -697,57 +455,24 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36622",
+      "id": "news_36623",
       "type": "news",
-      "title": "Ancient impact may explain moons contrasting sides",
+      "title": "Lunar dust study links space weathering to changes in Moon ultraviolet brightness",
       "date": "2026-03-05T09:54:43Z",
-      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nFor decades scientists have puzzled over why the moons two hemispheres look so different despite sharing a common origin in the early solar system. \n\nThe near side that always faces Earth is dominated by dark flat volcanic plains called maria that create the familiar man in the moon pattern seen with the naked eye. In contrast the far side has a much thicker crust and appears as a rugged hea",
-      "image": "https://www.spxdaily.com/images-bg/lunar-south-pole-aitken-basin-darker-area-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Ancient_impact_may_explain_moons_contrasting_sides_999.html",
+      "summary": "Los Angeles CA (SPX) Mar 05, 2026\n\n\nSAN ANTONIO - Southwest Research Institute (SwRI) scientists working with researchers at UT San Antonio have analyzed Apollo lunar soil samples to determine how space weathering alters the Moon's surface and affects its far-ultraviolet (FUV) reflectance. The team examined how exposure to solar wind and micrometeoroid impacts over long periods changes the FUV spectral response of lunar grains, us",
+      "image": "https://www.spxdaily.com/images-bg/lunar-moon-apollo-11-grain-rims-weathering-ultraviolet-reflectance-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Lunar_dust_study_links_space_weathering_to_changes_in_Moon_ultraviolet_brightness_999.html",
       "news_site": "SpaceDaily",
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36625",
+      "id": "news_36628",
       "type": "news",
-      "title": "Danish Mani mission to chart lunar terrain in 3D",
+      "title": "Chinese astronauts hone extreme cave survival skills",
       "date": "2026-03-05T09:54:43Z",
-      "summary": "Berlin, Germany (SPX) Mar 05, 2026\r\n\r\n\r\nThe University of Copenhagen will lead Denmark's first lunar mission, a European Space Agency project that will map the Moon's surface in three dimensions to support future landings and base construction. \r\n\r\nThe Mani satellite will orbit the Moon's north and south polar regions, acquiring high-resolution images that can be combined into detailed elevation models. \r\n\r\nBy imaging the same are",
-      "image": "https://www.spxdaily.com/images-bg/denmark-mani-satellite-lunar-mapper-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36629",
-      "type": "news",
-      "title": "Networks ready to keep Artemis II crew connected around the Moon",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Los Angeles CA (SPX) Jan 30, 2026\r\n\r\n\r\nNASA is preparing a pair of global communications networks to keep the four-person Artemis II crew connected with Earth as they travel from low Earth orbit to a loop around the Moon and back. The mission will fly astronauts aboard the Orion spacecraft and Space Launch System rocket as part of the agency's broader effort to build a sustained human presence in deep space and eventually send crews",
-      "image": "https://www.spxdaily.com/images-bg/artemis-orion-full-moon-flyby-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Networks_ready_to_keep_Artemis_II_crew_connected_around_the_Moon_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36626",
-      "type": "news",
-      "title": "Origami style lunar rover wheel expands to climb steep caves",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nA joint team from the Korea Advanced Institute of Science and Technology KAIST and the Unmanned Exploration Laboratory UEL has developed a transformable airless wheel designed to help small rovers access steep lunar pits and lava tubes. The wheel targets subsurface sites considered promising for future human habitats because they shield against cosmic radiation and extreme temperature swings.",
-      "image": "https://www.spxdaily.com/images-bg/kaist-uel-origami-airless-wheel-lunar-cave-robot-rover-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Origami_style_lunar_rover_wheel_expands_to_climb_steep_caves_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36627",
-      "type": "news",
-      "title": "Lunar spacecraft exhaust could obscure clues to origins of life",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Washington DC (SPX) Mar 05, 2026\n\n\nOver half of the exhaust methane from lunar spacecraft could end up contaminating areas of the moon that might otherwise yield clues about the origins of earthly life, according to a recent study. The pollution could unfold rapidly regardless of a spacecraft's touchdown site; even for a landing at the South Pole, methane molecules may \"hop\" across the lunar surface to the North Pole in under two",
-      "image": "https://www.spxdaily.com/images-bg/intuitive-machines-iloa-lunar-descent-ilo-x-broken-landing-legs-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Lunar_spacecraft_exhaust_could_obscure_clues_to_origins_of_life_999.html",
+      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nTwenty-eight astronauts and trainees have completed China's first cave-survival training program, a nearly monthlong exercise run by the Astronaut Center of China in Chongqing's Wulong district. \n\nThe course included more than 10 core activities such as environmental monitoring, cave mapping, simulated communication with ground control, and a series of psychological and behavioral drills in",
+      "image": "https://www.spxdaily.com/images-bg/china-astronaut-cave-training-first-analog-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html",
       "news_site": "SpaceDaily",
       "source": "Spaceflight News API"
     },
@@ -763,6 +488,28 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_36625",
+      "type": "news",
+      "title": "Danish Mani mission to chart lunar terrain in 3D",
+      "date": "2026-03-05T09:54:43Z",
+      "summary": "Berlin, Germany (SPX) Mar 05, 2026\r\n\r\n\r\nThe University of Copenhagen will lead Denmark's first lunar mission, a European Space Agency project that will map the Moon's surface in three dimensions to support future landings and base construction. \r\n\r\nThe Mani satellite will orbit the Moon's north and south polar regions, acquiring high-resolution images that can be combined into detailed elevation models. \r\n\r\nBy imaging the same are",
+      "image": "https://www.spxdaily.com/images-bg/denmark-mani-satellite-lunar-mapper-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36626",
+      "type": "news",
+      "title": "Origami style lunar rover wheel expands to climb steep caves",
+      "date": "2026-03-05T09:54:43Z",
+      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nA joint team from the Korea Advanced Institute of Science and Technology KAIST and the Unmanned Exploration Laboratory UEL has developed a transformable airless wheel designed to help small rovers access steep lunar pits and lava tubes. The wheel targets subsurface sites considered promising for future human habitats because they shield against cosmic radiation and extreme temperature swings.",
+      "image": "https://www.spxdaily.com/images-bg/kaist-uel-origami-airless-wheel-lunar-cave-robot-rover-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Origami_style_lunar_rover_wheel_expands_to_climb_steep_caves_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "news_36630",
       "type": "news",
       "title": "Northrop Grumman Boosters Set For First Crewed Lunar Voyage Of Artemis Era",
@@ -770,17 +517,6 @@
       "summary": "Los Angeles CA (SPX) Jan 29, 2026\r\n\r\n\r\nTwo Northrop Grumman five segment solid rocket boosters are taking their place on the launch pad as NASA prepares for the first crewed flight of the Space Launch System rocket under the Artemis II mission from Pad 39B at Kennedy Space Center in Florida, targeted for early February 2026. \r\n\r\nThe twin solid rocket boosters stand 177 feet tall and each produces 3.6 million pounds of thrust at lif",
       "image": "https://www.spxdaily.com/images-bg/artemis-ii-full-stack-crawler-dawn-bg.jpg",
       "link": "https://www.spacedaily.com/reports/Northrop_Grumman_Boosters_Set_For_First_Crewed_Lunar_Voyage_Of_Artemis_Era_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36623",
-      "type": "news",
-      "title": "Lunar dust study links space weathering to changes in Moon ultraviolet brightness",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Los Angeles CA (SPX) Mar 05, 2026\n\n\nSAN ANTONIO - Southwest Research Institute (SwRI) scientists working with researchers at UT San Antonio have analyzed Apollo lunar soil samples to determine how space weathering alters the Moon's surface and affects its far-ultraviolet (FUV) reflectance. The team examined how exposure to solar wind and micrometeoroid impacts over long periods changes the FUV spectral response of lunar grains, us",
-      "image": "https://www.spxdaily.com/images-bg/lunar-moon-apollo-11-grain-rims-weathering-ultraviolet-reflectance-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Lunar_dust_study_links_space_weathering_to_changes_in_Moon_ultraviolet_brightness_999.html",
       "news_site": "SpaceDaily",
       "source": "Spaceflight News API"
     },
@@ -796,13 +532,35 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36628",
+      "id": "news_36627",
       "type": "news",
-      "title": "Chinese astronauts hone extreme cave survival skills",
+      "title": "Lunar spacecraft exhaust could obscure clues to origins of life",
       "date": "2026-03-05T09:54:43Z",
-      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nTwenty-eight astronauts and trainees have completed China's first cave-survival training program, a nearly monthlong exercise run by the Astronaut Center of China in Chongqing's Wulong district. \n\nThe course included more than 10 core activities such as environmental monitoring, cave mapping, simulated communication with ground control, and a series of psychological and behavioral drills in",
-      "image": "https://www.spxdaily.com/images-bg/china-astronaut-cave-training-first-analog-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html",
+      "summary": "Washington DC (SPX) Mar 05, 2026\n\n\nOver half of the exhaust methane from lunar spacecraft could end up contaminating areas of the moon that might otherwise yield clues about the origins of earthly life, according to a recent study. The pollution could unfold rapidly regardless of a spacecraft's touchdown site; even for a landing at the South Pole, methane molecules may \"hop\" across the lunar surface to the North Pole in under two",
+      "image": "https://www.spxdaily.com/images-bg/intuitive-machines-iloa-lunar-descent-ilo-x-broken-landing-legs-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Lunar_spacecraft_exhaust_could_obscure_clues_to_origins_of_life_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36629",
+      "type": "news",
+      "title": "Networks ready to keep Artemis II crew connected around the Moon",
+      "date": "2026-03-05T09:54:43Z",
+      "summary": "Los Angeles CA (SPX) Jan 30, 2026\r\n\r\n\r\nNASA is preparing a pair of global communications networks to keep the four-person Artemis II crew connected with Earth as they travel from low Earth orbit to a loop around the Moon and back. The mission will fly astronauts aboard the Orion spacecraft and Space Launch System rocket as part of the agency's broader effort to build a sustained human presence in deep space and eventually send crews",
+      "image": "https://www.spxdaily.com/images-bg/artemis-orion-full-moon-flyby-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Networks_ready_to_keep_Artemis_II_crew_connected_around_the_Moon_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36622",
+      "type": "news",
+      "title": "Ancient impact may explain moons contrasting sides",
+      "date": "2026-03-05T09:54:43Z",
+      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nFor decades scientists have puzzled over why the moons two hemispheres look so different despite sharing a common origin in the early solar system. \n\nThe near side that always faces Earth is dominated by dark flat volcanic plains called maria that create the familiar man in the moon pattern seen with the naked eye. In contrast the far side has a much thicker crust and appears as a rugged hea",
+      "image": "https://www.spxdaily.com/images-bg/lunar-south-pole-aitken-basin-darker-area-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Ancient_impact_may_explain_moons_contrasting_sides_999.html",
       "news_site": "SpaceDaily",
       "source": "Spaceflight News API"
     },
@@ -829,17 +587,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36637",
-      "type": "news",
-      "title": "Training for the εpsilon mission",
-      "date": "2026-03-05T12:00:00Z",
-      "summary": "ESA astronaut Sophie Adenot began her training at the European Astronaut Centre in Cologne, Germany, where she studied spacecraft systems and crew operations — learning to think and act as an astronaut. Alongside this, she conditioned her body for spaceflight and prepared for the physical and operational demands of her mission.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/training_for_the_epsilon_mission/27139185-1-eng-GB/Training_for_the_epsilon_mission_card_full.png",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Training_for_the_epsilon_mission",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36634",
       "type": "news",
       "title": "Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator",
@@ -848,6 +595,17 @@
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/54994400611_22a997c7bb_o-scaled.jpg?fit=1024%2C680&ssl=1",
       "link": "https://spacenews.com/jared-isaacman-on-rebuilding-artemis-and-what-hes-learned-during-his-first-months-as-nasa-administrator/",
       "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36637",
+      "type": "news",
+      "title": "Training for the εpsilon mission",
+      "date": "2026-03-05T12:00:00Z",
+      "summary": "ESA astronaut Sophie Adenot began her training at the European Astronaut Centre in Cologne, Germany, where she studied spacecraft systems and crew operations — learning to think and act as an astronaut. Alongside this, she conditioned her body for spaceflight and prepared for the physical and operational demands of her mission.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/training_for_the_epsilon_mission/27139185-1-eng-GB/Training_for_the_epsilon_mission_card_full.png",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Training_for_the_epsilon_mission",
+      "news_site": "ESA",
       "source": "Spaceflight News API"
     },
     {
@@ -1467,17 +1225,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36690",
-      "type": "news",
-      "title": "Course Correction or Controlled Crash? Inside NASA's Artemis Overhaul - Part 1",
-      "date": "2026-03-09T05:07:26Z",
-      "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA says it has finally found the 'back to basics' recipe to get Americans back on the Moon by 2028. A new intermediate mission, standardized hardware, a faster launch cadence: on paper, the Artemis overhaul looks like a sober course correction after years of drift. Look a little closer, though, and the same changes read like a managed soft-landing for a program that is structurally broken and",
-      "image": "https://www.spxdaily.com/images-bg/nasa-administrator-jared-isaacman-corridor-of-portraits-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Course_Correction_or_Controlled_Crash_Inside_NASAs_Artemis_Overhaul_Part_1_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36693",
       "type": "news",
       "title": "Changing the Rules Mid-Race - How Artemis Lets Washington Redefine \"Winning\" at the Moon - Part 4",
@@ -1507,6 +1254,17 @@
       "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA's latest reboot of the Artemis Moon program comes with familiar language: 'back to basics,' 'muscle memory,' 'step-by-step,' and an explicit nod to the Mercury-Gemini-Apollo playbook. The agency wants to fly more often, change hardware less, and build up capability incrementally, just like the 1960s. The problem is that Artemis is trying to cosplay Apollo in a world with very different politics, partners and rivals - and the gaps are showing.",
       "image": "https://www.spxdaily.com/images-bg/lunar-apollo-15-landing-site-lander-buggy-bg.jpg",
       "link": "https://www.spacedaily.com/reports/Apollo_Cosplay_on_a_21st_Century_Clock_Why_Artemis_Keeps_Slipping_Toward_2029_Part_3_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36690",
+      "type": "news",
+      "title": "Course Correction or Controlled Crash? Inside NASA's Artemis Overhaul - Part 1",
+      "date": "2026-03-09T05:07:26Z",
+      "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA says it has finally found the 'back to basics' recipe to get Americans back on the Moon by 2028. A new intermediate mission, standardized hardware, a faster launch cadence: on paper, the Artemis overhaul looks like a sober course correction after years of drift. Look a little closer, though, and the same changes read like a managed soft-landing for a program that is structurally broken and",
+      "image": "https://www.spxdaily.com/images-bg/nasa-administrator-jared-isaacman-corridor-of-portraits-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Course_Correction_or_Controlled_Crash_Inside_NASAs_Artemis_Overhaul_Part_1_999.html",
       "news_site": "SpaceDaily",
       "source": "Spaceflight News API"
     },
@@ -1599,17 +1357,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36701",
-      "type": "news",
-      "title": "Voyager Technologies invests in Max Space",
-      "date": "2026-03-09T13:00:00Z",
-      "summary": "\nVoyager Technologies is investing in Max Space to help accelerate a partnership between the two companies on developing lunar habitats.\nThe post Voyager Technologies invests in Max Space appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/voyager-maxspace-lander.jpeg?fit=1024%2C575&ssl=1",
-      "link": "https://spacenews.com/voyager-technologies-invests-in-max-space/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36700",
       "type": "news",
       "title": "GNSS resilience is an economic and security priority",
@@ -1617,6 +1364,17 @@
       "summary": "\nModern society has become profoundly reliant on Global Navigation Satellite Systems (GNSS). These systems support aviation safety, emergency services, finance, communications, energy networks and an expanding array of autonomous and industrial systems. Yet despite this reliance, GNSS remains inherently fragile: low‑power signals transmitted from medium Earth orbit are surprisingly easy to degrade, and the consequences […]\nThe post GNSS resilience is an economic and security priority appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/GsORnFRXgAAAKKd-scaled.jpeg?fit=1024%2C683&ssl=1",
       "link": "https://spacenews.com/gnss-resilience-is-an-economic-and-security-priority/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36701",
+      "type": "news",
+      "title": "Voyager Technologies invests in Max Space",
+      "date": "2026-03-09T13:00:00Z",
+      "summary": "\nVoyager Technologies is investing in Max Space to help accelerate a partnership between the two companies on developing lunar habitats.\nThe post Voyager Technologies invests in Max Space appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/voyager-maxspace-lander.jpeg?fit=1024%2C575&ssl=1",
+      "link": "https://spacenews.com/voyager-technologies-invests-in-max-space/",
       "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
@@ -1863,17 +1621,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36759",
-      "type": "news",
-      "title": "Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo",
-      "date": "2026-03-10T13:00:00Z",
-      "summary": "\nDenver-based Lux Aeterna has secured $10 million in seed funding to develop a reusable satellite designed to survive atmospheric reentry and fly again with new payloads, starting with a demonstration flight slated for early 2027.\nThe post Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/reusability-demo.jpg?fit=1024%2C683&ssl=1",
-      "link": "https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36758",
       "type": "news",
       "title": "Starliner and Artemis: commercial label vs. commercial discipline",
@@ -1881,6 +1628,17 @@
       "summary": "\nNASA’s Commercial Crew Program was supposed to be the template: services-based procurement, private ownership of hardware and competition between providers. Yet NASA has now formally designated Boeing’s 2024 Starliner crewed test flight as a Type A mishap — its most serious category — and leadership has been explicit that the most troubling failure was not […]\nThe post Starliner and Artemis: commercial label vs. commercial discipline appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/f9-20260207.jpeg?fit=1024%2C541&ssl=1",
       "link": "https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36759",
+      "type": "news",
+      "title": "Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo",
+      "date": "2026-03-10T13:00:00Z",
+      "summary": "\nDenver-based Lux Aeterna has secured $10 million in seed funding to develop a reusable satellite designed to survive atmospheric reentry and fly again with new payloads, starting with a demonstration flight slated for early 2027.\nThe post Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/reusability-demo.jpg?fit=1024%2C683&ssl=1",
+      "link": "https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/",
       "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
@@ -2116,17 +1874,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36782",
-      "type": "news",
-      "title": "A Most Unusual Lake",
-      "date": "2026-03-11T04:01:00Z",
-      "summary": "Lake Unter-See in Antarctica, sealed beneath thick ice, contains unusually high levels of dissolved oxygen and cone-shaped microbial reefs resembling some of Earth’s oldest fossils.",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-most-unusual-lake/lakeuntersee_oli2_20260216.jpg",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36783",
       "type": "news",
       "title": "Anduril to acquire space-tracking firm ExoAnalytic Solutions",
@@ -2135,6 +1882,17 @@
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-26-at-10.57.30-AM.png?fit=1024%2C627&ssl=1",
       "link": "https://spacenews.com/anduril-to-acquire-space-tracking-firm-exoanalytic-solutions/",
       "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36782",
+      "type": "news",
+      "title": "A Most Unusual Lake",
+      "date": "2026-03-11T04:01:00Z",
+      "summary": "Lake Unter-See in Antarctica, sealed beneath thick ice, contains unusually high levels of dissolved oxygen and cone-shaped microbial reefs resembling some of Earth’s oldest fossils.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-most-unusual-lake/lakeuntersee_oli2_20260216.jpg",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/",
+      "news_site": "NASA",
       "source": "Spaceflight News API"
     },
     {
@@ -2226,6 +1984,17 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_36805",
+      "type": "news",
+      "title": "ESA rolls out new costing software for its suppliers",
+      "date": "2026-03-11T15:50:00Z",
+      "summary": "The European Space Agency (ESA) will release new software called ECOS version 6 on 30 March 2026 when all companies doing business with ESA will be required to use this version for use in their financial proposals for ESA Tender Actions.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/esa_costing_software_ecos_6/27145531-5-eng-GB/ESA_costing_software_ECOS_6_card_full.png",
+      "link": "https://www.esa.int/About_Us/Business_with_ESA/ESA_rolls_out_new_costing_software_for_its_suppliers",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "news_36791",
       "type": "news",
       "title": "Telescopes Team Up for New View of Cat’s Eye Nebula",
@@ -2285,7 +2054,7 @@
       "type": "news",
       "title": "New crew arrivals and science highlight February aboard the ISS",
       "date": "2026-03-11T22:38:16Z",
-      "summary": "Following the early departure of Crew-11 in mid-January due to a medical concern, the International…\nThe post New crew arrivals and science highlight February aboard the ISS appeared first on NASASpaceFlight.com.",
+      "summary": "Following the early departure of Crew-11 in mid-January due to a medical concern, the International…\r\nThe post New crew arrivals and science highlight February aboard the ISS appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/IMG_2855.jpeg",
       "link": "https://www.nasaspaceflight.com/2026/03/iss-roundup-022026/",
       "news_site": "NASASpaceflight",
@@ -2296,7 +2065,7 @@
       "type": "news",
       "title": "Report criticizes delays in Artemis lunar lander development",
       "date": "2026-03-11T22:57:28Z",
-      "summary": "\nNASA’s approach to managing the development of crewed lunar landers for Artemis has successfully controlled costs but not schedule, raising questions about NASA’s desire to accelerate those efforts.\nThe post Report criticizes delays in Artemis lunar lander development appeared first on SpaceNews.",
+      "summary": "NASA’s approach to managing the development of crewed lunar landers for Artemis has successfully controlled costs but not schedule, raising questions about NASA’s desire to accelerate those efforts.\r\nThe post Report criticizes delays in Artemis lunar lander development appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/lunarlanders.jpeg?fit=1024%2C638&ssl=1",
       "link": "https://spacenews.com/report-criticizes-delays-in-artemis-lunar-lander-development/",
       "news_site": "SpaceNews",
@@ -2314,23 +2083,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "launch_3f6de963-7197-48aa-a49f-6c944cbf85e9",
-      "type": "launch",
-      "title": "Firefly Alpha | Stairway to Seven",
-      "date": "2026-03-12T00:50:00Z",
-      "provider": "Firefly Aerospace",
-      "rocket": "Firefly Alpha",
-      "mission": "Stairway to Seven",
-      "description": "Firefly Alpha's Flight 7 will be a test flight and return-To-Flight for the launch vehicle after its April 2025 launch failure. It will test and validate key systems ahead of Firefly’s Block II configuration upgrade on Flight 8 that’s designed to enhance reliability and manufacturability across the vehicle.\r\n\r\nFlight 7 will be the last flown in Alpha’s current configuration and will test multiple Block II subsystems, including the in-house avionics and thermal improvements, to gain flight heritage and validate lessons learned ahead of the full configuration upgrade on Flight 8.",
-      "pad": "Space Launch Complex 2W",
-      "status": "Launch in Flight",
-      "probability": null,
-      "webcast": "https://www.youtube.com/watch?v=nyVbmoRXcvc",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/3f6de963-7197-48aa-a49f-6c944cbf85e9/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "news_36800",
       "type": "news",
       "title": "The Post-Capacity Era of Satellite Connectivity",
@@ -2339,6 +2091,50 @@
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1",
       "link": "https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/",
       "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36801",
+      "type": "news",
+      "title": "Dust Outbreak Reaches Europe",
+      "date": "2026-03-12T04:01:00Z",
+      "summary": "Clouds of dust lofted from the Sahara Desert brought hazy skies and muddy rain to Western Europe.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154772/tarimbasindust_vir2_20250901.jpg",
+      "link": "https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36802",
+      "type": "news",
+      "title": "Firefly Alpha returns to flight",
+      "date": "2026-03-12T04:09:13Z",
+      "summary": "Firefly Aerospace’s Alpha rocket successfully returned to flight March 11, launching a technology demonstration mission more than 10 months after the rocket’s previous launch failed.\r\nThe post Firefly Alpha returns to flight appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&ssl=1",
+      "link": "https://spacenews.com/firefly-alpha-returns-to-flight/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36803",
+      "type": "news",
+      "title": "Thales Alenia Space Selects US Provider to Develop Lunar Habitat Wheels",
+      "date": "2026-03-12T08:08:13Z",
+      "summary": "Thales Alenia Space has awarded a contract to US-based Astrobotic to develop the wheels for the Multi-Purpose Habitation module, a mobile lunar habitat under development for the Italian Space Agency (ASI). In 2020, ASI and NASA signed a joint statement of intent to cooperate on the development of a lunar habitat that could support crewed […]\nThe post Thales Alenia Space Selects US Provider to Develop Lunar Habitat Wheels appeared first on European Spaceflight.",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/03/Thales-Alenia-Space-Selects-US-Provider-to-Develop-Lunar-Habitat-Wheels.webp",
+      "link": "https://europeanspaceflight.com/thales-alenia-space-selects-us-provider-to-develop-lunar-habitat-wheels/",
+      "news_site": "European Spaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36804",
+      "type": "news",
+      "title": "Former NASA astronaut Jeanette Epps visits ESTEC",
+      "date": "2026-03-12T08:30:00Z",
+      "summary": "From the ESA Blogs.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/former_nasa_astronaut_jeanette_epps_visits_estec/27150191-1-eng-GB/Former_NASA_astronaut_Jeanette_Epps_visits_ESTEC_card_full.jpg",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Former_NASA_astronaut_Jeanette_Epps_visits_ESTEC",
+      "news_site": "ESA",
       "source": "Spaceflight News API"
     },
     {
@@ -2353,6 +2149,138 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "news_36806",
+      "type": "news",
+      "title": "Mantis Space emerges from stealth with $10 million for solar-power constellation",
+      "date": "2026-03-12T12:00:00Z",
+      "summary": "\nSAN FRANCISCO – Mantis Space, a New Mexico startup planning a constellation to supply solar power to spacecraft, emerged from stealth March 12 with $10 million in seed funding. “We are building a constellation of satellites that deliver power directly to solar arrays that exist in the market today and bringing products to market that […]\nThe post Mantis Space emerges from stealth with $10 million for solar-power constellation appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_1im_mantis_webrender_wide_01_wbg_v02.png?fit=879%2C494&ssl=1",
+      "link": "https://spacenews.com/mantis-space-emerges-from-stealth-with-10-million-for-solar-power-constellation/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36807",
+      "type": "news",
+      "title": "Astranis taps retired Gen. John Hyten to lead advisory board",
+      "date": "2026-03-12T13:00:00Z",
+      "summary": "\nHyten has called for greater use of commercial technology and faster acquisition cycles\nThe post Astranis taps retired Gen. John Hyten to lead advisory board  appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/419A4719-scaled-e1773252632992.jpg?fit=1024%2C596&ssl=1",
+      "link": "https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36808",
+      "type": "news",
+      "title": "York Space acquires satellite propulsion manufacturer Orbion Space",
+      "date": "2026-03-12T13:00:00Z",
+      "summary": "\nThe Denver-based satellite manufacturer says the acquisition supports its strategy of building an ‘integrated space ecosystem’\nThe post York Space acquires satellite propulsion manufacturer Orbion Space appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Orbion-Acquisition-Image.png?fit=1024%2C683&ssl=1",
+      "link": "https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36810",
+      "type": "news",
+      "title": "CELESTE pre-launch media briefing",
+      "date": "2026-03-12T14:00:00Z",
+      "summary": "Watch the replay of the CELESTE pre-launch media briefing. The briefing covered the mission details of the ahead of the inaugural launch of ESA’s Celeste LEO-PNT in-orbit demonstration constellation. The first two satellites are scheduled to lift off no earlier than 24 March aboard Rocket Lab’s Electron rocket from New Zealand.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/celeste_pre-launch_media_briefing/27152196-1-eng-GB/CELESTE_pre-launch_media_briefing_card_full.png",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/CELESTE_pre-launch_media_briefing",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36809",
+      "type": "news",
+      "title": "Efficient Large Displacement/Large Rotation Dynamic Simulations Using Nonlinear Dynamic Substructures",
+      "date": "2026-03-12T14:24:33Z",
+      "summary": "Download PDF: Efficient Large Displacement/Large Rotation Dynamic Simulations Using Nonlinear Dynamic Substructures Utilizing reduced-order dynamic math models (DMM) in linear system-level dynamic analyses is a well-known practice that enables extreme computational efficiencies. But what about nonlinear system dynamics? Reduced-order DMMs have found their way into contact dynamics. The engineer must look no further than the […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/figure-1.png",
+      "link": "https://www.nasa.gov/general/efficient-large-displacement-large-rotation-dynamic-simulations-using-nonlinear-dynamic-substructures/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36811",
+      "type": "news",
+      "title": "The new wave of industry coming for the LEO frontier",
+      "date": "2026-03-12T14:57:50Z",
+      "summary": "\nIn this episode of the SpaceNews Space Minds podcast, host David Ariosto talks with Jonathan Cirtain, CEO and President of Axiom Space. They discuss the challenges — and wonders — […]\nThe post The new wave of industry coming for the LEO frontier appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/space-minds-podcast-axiom-space-1920-1080-scaled.jpg?fit=1024%2C576&ssl=1",
+      "link": "https://spacenews.com/the-new-wave-of-industry-coming-for-the-leo-frontier/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36814",
+      "type": "news",
+      "title": "Help Galaxy Zoo: Tidal Tales Open Cosmic Storybook",
+      "date": "2026-03-12T15:41:54Z",
+      "summary": "Galaxies carry the imprints of past encounters. When they pass near one another or collide, gravity pulls their stars into long tails, thin streams, and faint shells – features that preserve the history of these dramatic events. Thanks to deep, high-resolution images from the Euclid space telescope, an ESA (European Space Agency) mission with critical contributions from NASA, we can now see these delicate structures more clearly than ever before in unprecedented numbers.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/Euclid_GalazyZoo_TidalTales.png",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-tidal-tales-open-cosmic-storybook/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36812",
+      "type": "news",
+      "title": "Webb Spots Details in Nearby Spiral Galaxy",
+      "date": "2026-03-12T15:56:51Z",
+      "summary": "Stars peek through the dusty, winding arms of NGC 5134, a spiral galaxy located 65 million light-years away, in this Feb. 20, 2026, image from NASA’s James Webb Space Telescope. Webb’s Mid-Infrared Instrument collects the mid-infrared light emitted by the warm dust speckled through the galaxy’s clouds, tracing the clumps and strands of dusty gas. […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/55106628191-948b435cbd-o.jpg",
+      "link": "https://www.nasa.gov/image-article/webb-spots-details-in-nearby-spiral-galaxy/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36813",
+      "type": "news",
+      "title": "Firefly Sends off Alpha Block I with FLTA007",
+      "date": "2026-03-12T15:57:08Z",
+      "summary": "Firefly Aerospace completed a successful return to flight on Wednesday, March 11, bringing their Alpha rocket back online after a mishap in April of last year.",
+      "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/03/55141876077_7901017302_6k.jpg",
+      "link": "https://www.spacescout.info/2026/03/firefly-sends-off-alpha-block-i-with-flta007/",
+      "news_site": "Space Scout",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36815",
+      "type": "news",
+      "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
+      "date": "2026-03-12T16:10:25Z",
+      "summary": "\nA Vienna-based startup has raised $4 million to scale a software platform that generates synthetic satellite data for training AI models to detect environmental and operational risks.\nThe post Another Earth raises $4 million to boost AI training with synthetic satellite data appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Another-Earth.jpg?fit=1024%2C768&ssl=1",
+      "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36816",
+      "type": "news",
+      "title": "Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images",
+      "date": "2026-03-12T16:41:27Z",
+      "summary": "With the first images from the spacecraft now in hand, the team behind NASA’s Star-Planet Activity Research CubeSat, or SPARCS, is ready to begin charting the energetic lives of the galaxy’s most common stars to help answer one of humanity’s most profound questions: Which distant worlds beyond our solar system might be habitable?  Initial, or […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/1-pia26731-sparcs-first-light-20260309-0837.png",
+      "link": "https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36817",
+      "type": "news",
+      "title": "Voyager opens defense and space tech hub in Long Beach",
+      "date": "2026-03-12T18:00:00Z",
+      "summary": "\nNew facility to support electronics and software development for missile defense and space programs\nThe post Voyager opens defense and space tech hub in Long Beach appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Voyager-Long-Beach-Exterior-Top-View-Courtesy-Voyager-Technologies-scaled.jpg?fit=1024%2C683&ssl=1",
+      "link": "https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "event_1340",
       "type": "event",
       "title": "Artemis II Flight Readiness Review News Conference",
@@ -2364,51 +2292,72 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_2e3e33a1-b87d-4d52-a7e7-8cc5a28046fd",
-      "type": "launch",
-      "title": "Long March 8A | Unknown Payload",
-      "date": "2026-03-12T19:45:00Z",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 8A",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
-      "pad": "Commercial LC-1",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/2e3e33a1-b87d-4d52-a7e7-8cc5a28046fd/",
-      "source": "Launch Library 2"
+      "id": "news_36820",
+      "type": "news",
+      "title": "About Integrated Aviation Systems Program (IASP)",
+      "date": "2026-03-12T21:00:00Z",
+      "summary": "The Integrated Aviation Systems Program (IASP) conducts research and integrated, systems-level demonstrations in a flight environment to prove, mature and transition them into future aircraft and systems. The program aims to determine feasibility and accelerate development of less mature technologies, and for more mature technologies, execute highly complex flight demonstrations to prove and accelerate technology […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/iasp-cover-03a.jpeg",
+      "link": "https://www.nasa.gov/directorates/armd/iasp/about-iasp/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
     },
     {
-      "id": "launch_1d24bfe7-d524-41f0-85de-09e967618710",
-      "type": "launch",
-      "title": "Long March 2D | Unknown Payload",
-      "date": "2026-03-12T22:30:00Z",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 2D",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
-      "pad": "Launch Complex 3 (LC-3/LA-1)",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/1d24bfe7-d524-41f0-85de-09e967618710/",
-      "source": "Launch Library 2"
+      "id": "news_36818",
+      "type": "news",
+      "title": "NASA to Cover Upcoming US Spacewalks 94, 95 Outside Space Station",
+      "date": "2026-03-12T21:09:16Z",
+      "summary": "NASA astronauts will conduct a pair of spacewalks beginning Wednesday, March 18, outside of the International Space Station to prepare for the installation of two roll-out solar arrays. Experts from NASA will preview the spacewalks during a news conference at 2 p.m. EDT, Monday, March 16, at the agency’s Johnson Space Center in Houston. Watch […]",
+      "image": "https://images-assets.nasa.gov/image/iss073e0008485/iss073e0008485~large.jpg",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-upcoming-us-spacewalks-94-95-outside-space-station/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36822",
+      "type": "news",
+      "title": "About Low Boom Flight Demonstrator (LBFD) Project",
+      "date": "2026-03-12T22:00:00Z",
+      "summary": "The Low Boom Flight Demonstrator project (LBFD) is part of NASA’s effort to help enable new aircraft noise standards that are required to open the market to commercial supersonic flight over land. The federal government banned all civilian supersonic flights over land more than fifty years ago due to sonic boom noise. If new standards are established, the U.S. aviation […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2025/12/afrc2025-0168-038orig.jpg",
+      "link": "https://www.nasa.gov/directorates/armd/iasp/armd-iasp-lbfd/about-lbfd/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36819",
+      "type": "news",
+      "title": "China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase",
+      "date": "2026-03-12T22:23:52Z",
+      "summary": "\nChina’s Tianwen-3 Mars sample return mission is entering flight hardware development, targeting a late 2028 launch to seek out biosignatures on the Red Planet.\nThe post China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/mars-northern-hemisphere-medium-res-Tianwen1-26march2021-cnsa-pec-scaled.jpg?fit=1024%2C768&ssl=1",
+      "link": "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36821",
+      "type": "news",
+      "title": "NASA Now Targeting April 1 for Artemis II’s Launch Around The Moon",
+      "date": "2026-03-12T22:38:00Z",
+      "summary": "NASA announced today they are targeting April 1 at 6:24 pm Eastern Daylight Time for sending the Artemis II crew around the Moon. In preparation, their Space Launch System rocket […]",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-2-April-dates-297x300.jpg",
+      "link": "https://spacepolicyonline.com/news/nasa-now-targeting-april-1-for-artemis-ii-launch-around-the-moon/",
+      "news_site": "SpacePolicyOnline.com",
+      "source": "Spaceflight News API"
     },
     {
       "id": "launch_6f2868b8-1000-48e5-893b-700c1371b4fb",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 10-48",
-      "date": "2026-03-13T10:00:00Z",
+      "date": "2026-03-13T12:06:50Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "Starlink Group 10-48",
       "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
       "pad": "Space Launch Complex 40",
       "status": "Go for Launch",
-      "probability": 90,
+      "probability": 80,
       "webcast": "https://www.youtube.com/watch?v=d_g_YYUhtLU",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/6f2868b8-1000-48e5-893b-700c1371b4fb/",
@@ -2418,7 +2367,7 @@
       "id": "launch_d44f47c7-5e3e-40fb-9d10-b6e851acf81a",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 17-31",
-      "date": "2026-03-13T10:58:00Z",
+      "date": "2026-03-13T14:33:50Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "Starlink Group 17-31",
@@ -2446,6 +2395,23 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/f8766455-2b03-4629-a36e-b931c8b4a6c5/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_9819a575-468b-41a3-b254-fe2db68889a4",
+      "type": "launch",
+      "title": "Kuaizhou 1A | Unknown Payload",
+      "date": "2026-03-16T04:10:00Z",
+      "provider": "ExPace",
+      "rocket": "Kuaizhou 1A",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "pad": "Launch Area 95A",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_1a_lau_image_20251206092920.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/9819a575-468b-41a3-b254-fe2db68889a4/",
       "source": "Launch Library 2"
     },
     {
@@ -2494,17 +2460,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "event_1308",
-      "type": "event",
-      "title": "US EVA-94",
-      "date": "2026-03-18T00:00:00Z",
-      "description": "NASA astronauts Jessica Meir and Chris Williams will exit the station’s Quest airlock to prepare the 2A power channel for future installation of International Space Station Roll-Out Solar Arrays. Once installed, the array will provide additional power for the orbital laboratory, including critical support of its safe and controlled deorbit.",
-      "location": "International Space Station",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/us2520eva-52_image_20190318200748.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1308/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_890f714a-aa3c-487f-ae81-b7e654276cd5",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 10-33",
@@ -2519,6 +2474,28 @@
       "webcast": "https://x.com/i/broadcasts/1AGRnaooqRyGl",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/890f714a-aa3c-487f-ae81-b7e654276cd5/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "event_1308",
+      "type": "event",
+      "title": "US EVA-94",
+      "date": "2026-03-18T12:00:00Z",
+      "description": "NASA astronauts Jessica Meir and Chris Williams will exit the station’s Quest airlock to prepare the 2A power channel for future installation of International Space Station Roll-Out Solar Arrays. Once installed, the array will provide additional power for the orbital laboratory, including critical support of its safe and controlled deorbit.",
+      "location": "International Space Station",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/us2520eva-52_image_20190318200748.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/event/1308/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "event_1336",
+      "type": "event",
+      "title": "Artemis II SLS Rollout #2",
+      "date": "2026-03-19T00:00:00Z",
+      "description": "NASA will roll out their second fully stacked Space Launch System (SLS) rocket back to LC-39B after a rollback from the pad to investigate issues with the upper stage helium tanks. The rollout is expected to take up to 12 hours.",
+      "location": "Kennedy Space Center, FL, USA",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_roll_image_20260127022614.jpg",
+      "link": "https://ll.thespacedevs.com/2.2.0/event/1336/",
       "source": "Launch Library 2"
     },
     {
@@ -2576,13 +2553,13 @@
       "id": "launch_cf34aee7-a118-433b-8337-05b2c6892815",
       "type": "launch",
       "title": "Soyuz 2.1a | Progress MS-33 (94P)",
-      "date": "2026-03-22T11:59:00Z",
+      "date": "2026-03-22T11:59:49Z",
       "provider": "Russian Federal Space Agency (ROSCOSMOS)",
       "rocket": "Soyuz 2.1a",
       "mission": "Progress MS-33 (94P)",
       "description": "Progress resupply mission to the International Space Station.",
       "pad": "31/6",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "probability": null,
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
@@ -2638,6 +2615,17 @@
       "webcast": "https://x.com/i/broadcasts/1qxvvkLyqjwxB",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/37dd4870-43df-4a28-9d14-0e088ddc1d2a/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "event_1342",
+      "type": "event",
+      "title": "Progress MS-33 Docking",
+      "date": "2026-03-24T13:35:23Z",
+      "description": "The Progress MS-33 spacecraft is scheduled to autonomously dock to the Poisk module of the ISS.",
+      "location": "International Space Station",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/progress2520ms-112520docking_image_20190318202147.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/event/1342/",
       "source": "Launch Library 2"
     },
     {
@@ -2998,17 +2986,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "event_1336",
-      "type": "event",
-      "title": "Artemis II SLS Rollout #2",
-      "date": "2026-03-31T00:00:00Z",
-      "description": "NASA will roll out their second fully stacked Space Launch System (SLS) rocket back to LC-39B after a rollback from the pad to investigate issues with the upper stage helium tanks. The rollout is expected to take up to 12 hours.",
-      "location": "Kennedy Space Center, FL, USA",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_roll_image_20260127022614.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1336/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "event_1309",
       "type": "event",
       "title": "US EVA-95",
@@ -3029,7 +3006,7 @@
       "mission": "Artemis II",
       "description": "Artemis II is the first crewed mission as part of the Artemis program. Artemis II will send a crew of 4 - 3 Americans and 1 Canadian around the moon and return them back to Earth.\r\n\r\nThe mission will test the core systems of NASA's Orion spacecraft including the critical life support system, among other systems which could not be tested during Artemis I due to the lack of crew onboard.",
       "pad": "Launch Complex 39B",
-      "status": "To Be Confirmed",
+      "status": "Go for Launch",
       "probability": null,
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/space_launch_sy_image_20220331082429.jpeg",
