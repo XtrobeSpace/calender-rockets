@@ -1,7 +1,7 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-03-15T01:52:15.357664+00:00",
-  "total_events_captured": 613,
+  "generated_at": "2026-03-16T01:54:12.083629+00:00",
+  "total_events_captured": 612,
   "events": [
     {
       "id": "event_1326",
@@ -90,61 +90,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/total_lunar_ecl_image_20221108082109.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1328/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_36624",
-      "type": "news",
-      "title": "Lunar dust model maps how charged grains stick to spacecraft",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Tokyo, Japan (SPX) Mar 05, 2026\n\n\nResearchers from Beijing Institute of Technology, China Academy of Space Technology, and the Chinese Academy of Sciences have developed a theoretical model that links electrostatic forces and contact mechanics to describe how low-velocity charged lunar dust particles either adhere to or escape from spacecraft surfaces within a surrounding plasma sheath. The work aims to clarify mechanisms that d",
-      "image": "https://www.spxdaily.com/images-bg/lunar-surface-charged-dust-particles-spacecraft-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36621",
-      "type": "news",
-      "title": "Lunar impacts limit late delivery of Earth ocean water",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Washington DC (SPX) Mar 05, 2026\n\n\nA long-standing idea in planetary science proposes that water rich meteorites arriving late in Earth history delivered a major share of the planet's water inventory. A new study led by researchers at Universities Space Research Association and the University of New Mexico uses the Moon's surface record to impose strict limits on that scenario, concluding that impacts over the last 4 billion year",
-      "image": "https://www.spxdaily.com/images-bg/moon-apollo-17-jack-schmitt-station-6-north-massif-ridge-taurus-littrow-valley-lunar-rover-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Lunar_impacts_limit_late_delivery_of_Earth_ocean_water_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36629",
-      "type": "news",
-      "title": "Networks ready to keep Artemis II crew connected around the Moon",
-      "date": "2026-03-05T09:54:43Z",
-      "summary": "Los Angeles CA (SPX) Jan 30, 2026\r\n\r\n\r\nNASA is preparing a pair of global communications networks to keep the four-person Artemis II crew connected with Earth as they travel from low Earth orbit to a loop around the Moon and back. The mission will fly astronauts aboard the Orion spacecraft and Space Launch System rocket as part of the agency's broader effort to build a sustained human presence in deep space and eventually send crews",
-      "image": "https://www.spxdaily.com/images-bg/artemis-orion-full-moon-flyby-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Networks_ready_to_keep_Artemis_II_crew_connected_around_the_Moon_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36632",
-      "type": "news",
-      "title": "ESA’s Mars orbiters watch solar superstorm hit the Red Planet",
-      "date": "2026-03-05T10:00:00Z",
-      "summary": "What happens when a solar superstorm hits Mars? Thanks to the European Space Agency’s Mars orbiters, we now know: glitching spacecraft and a supercharged upper atmosphere.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/coronal_mass_ejection_on_27_may_20242/26171283-1-eng-GB/Coronal_mass_ejection_on_27_May_2024_card_full.gif",
-      "link": "https://www.esa.int/Science_Exploration/Space_Science/ESA_s_Mars_orbiters_watch_solar_superstorm_hit_the_Red_Planet",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36633",
-      "type": "news",
-      "title": "Lunar Link antennas complete testing",
-      "date": "2026-03-05T10:12:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/lunar_link_antennas_complete_testing/27141710-1-eng-GB/Lunar_Link_antennas_complete_testing_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Lunar_Link_antennas_complete_testing",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_36634",
@@ -807,17 +752,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36690",
-      "type": "news",
-      "title": "Course Correction or Controlled Crash? Inside NASA's Artemis Overhaul - Part 1",
-      "date": "2026-03-09T05:07:26Z",
-      "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA says it has finally found the 'back to basics' recipe to get Americans back on the Moon by 2028. A new intermediate mission, standardized hardware, a faster launch cadence: on paper, the Artemis overhaul looks like a sober course correction after years of drift. Look a little closer, though, and the same changes read like a managed soft-landing for a program that is structurally broken and",
-      "image": "https://www.spxdaily.com/images-bg/nasa-administrator-jared-isaacman-corridor-of-portraits-bg.jpg",
-      "link": "https://www.spacedaily.com/reports/Course_Correction_or_Controlled_Crash_Inside_NASAs_Artemis_Overhaul_Part_1_999.html",
-      "news_site": "SpaceDaily",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36693",
       "type": "news",
       "title": "Changing the Rules Mid-Race - How Artemis Lets Washington Redefine \"Winning\" at the Moon - Part 4",
@@ -825,6 +759,17 @@
       "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nIn classic Washington style, the United States has found a way to keep 'winning' the new Moon race even as its flagship program slips, bloats and mutates. With the latest Artemis overhaul, NASA isn't just re-planning a mission sequence - it's helping Trump's America quietly rewrite the rules of the game so that almost any outcome can be spun as victory.",
       "image": "https://www.spxdaily.com/images-bg/trump-musk-tesla-whitehouse-wapo-pool-bg.jpg",
       "link": "https://www.spacedaily.com/reports/Changing_the_Rules_Mid_Race_How_Artemis_Lets_Washington_Redefine_Winning_at_the_Moon_Part_4_999.html",
+      "news_site": "SpaceDaily",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36690",
+      "type": "news",
+      "title": "Course Correction or Controlled Crash? Inside NASA's Artemis Overhaul - Part 1",
+      "date": "2026-03-09T05:07:26Z",
+      "summary": "Los Angeles CA (SPX) Mar 09, 2026\n\nNASA says it has finally found the 'back to basics' recipe to get Americans back on the Moon by 2028. A new intermediate mission, standardized hardware, a faster launch cadence: on paper, the Artemis overhaul looks like a sober course correction after years of drift. Look a little closer, though, and the same changes read like a managed soft-landing for a program that is structurally broken and",
+      "image": "https://www.spxdaily.com/images-bg/nasa-administrator-jared-isaacman-corridor-of-portraits-bg.jpg",
+      "link": "https://www.spacedaily.com/reports/Course_Correction_or_Controlled_Crash_Inside_NASAs_Artemis_Overhaul_Part_1_999.html",
       "news_site": "SpaceDaily",
       "source": "Spaceflight News API"
     },
@@ -1181,17 +1126,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36758",
-      "type": "news",
-      "title": "Starliner and Artemis: commercial label vs. commercial discipline",
-      "date": "2026-03-10T13:00:00Z",
-      "summary": "\nNASA’s Commercial Crew Program was supposed to be the template: services-based procurement, private ownership of hardware and competition between providers. Yet NASA has now formally designated Boeing’s 2024 Starliner crewed test flight as a Type A mishap — its most serious category — and leadership has been explicit that the most troubling failure was not […]\nThe post Starliner and Artemis: commercial label vs. commercial discipline appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/f9-20260207.jpeg?fit=1024%2C541&ssl=1",
-      "link": "https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36759",
       "type": "news",
       "title": "Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo",
@@ -1199,6 +1133,17 @@
       "summary": "\nDenver-based Lux Aeterna has secured $10 million in seed funding to develop a reusable satellite designed to survive atmospheric reentry and fly again with new payloads, starting with a demonstration flight slated for early 2027.\nThe post Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/reusability-demo.jpg?fit=1024%2C683&ssl=1",
       "link": "https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36758",
+      "type": "news",
+      "title": "Starliner and Artemis: commercial label vs. commercial discipline",
+      "date": "2026-03-10T13:00:00Z",
+      "summary": "\nNASA’s Commercial Crew Program was supposed to be the template: services-based procurement, private ownership of hardware and competition between providers. Yet NASA has now formally designated Boeing’s 2024 Starliner crewed test flight as a Type A mishap — its most serious category — and leadership has been explicit that the most troubling failure was not […]\nThe post Starliner and Artemis: commercial label vs. commercial discipline appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/f9-20260207.jpeg?fit=1024%2C541&ssl=1",
+      "link": "https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/",
       "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
@@ -2347,36 +2292,74 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_f8766455-2b03-4629-a36e-b931c8b4a6c5",
-      "type": "launch",
-      "title": "Long March 6A | Unknown Payload",
-      "date": "2026-03-15T13:20:00Z",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 6A",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
-      "pad": "Launch Complex 9A",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/f8766455-2b03-4629-a36e-b931c8b4a6c5/",
-      "source": "Launch Library 2"
+      "id": "news_36863",
+      "type": "news",
+      "title": "Raytheon contract for protected satellite communications terminals raised by $2 billion",
+      "date": "2026-03-15T13:14:06Z",
+      "summary": "\nThe contract supports communications terminals used in the U.S. nuclear command-and-control architecture\nThe post Raytheon contract for protected satellite communications terminals raised by $2 billion appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/9335717-scaled.jpg?fit=1024%2C683&ssl=1",
+      "link": "https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36864",
+      "type": "news",
+      "title": "Strait of Hormuz crisis drives demand for commercial geospatial intelligence",
+      "date": "2026-03-15T15:06:01Z",
+      "summary": "\nAnalysts are relying on tools that fuse satellite imagery, ship data and open-source reporting into real-time insight\nThe post Strait of Hormuz crisis drives demand for commercial geospatial intelligence appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-15-at-10.59.03-AM.png?fit=1024%2C526&ssl=1",
+      "link": "https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36865",
+      "type": "news",
+      "title": "OSTP taking on space policy coordination work in place of National Space Council",
+      "date": "2026-03-15T16:04:52Z",
+      "summary": "\nIn the absence of the National Space Council, the White House Office of Science and Technology Policy (OSTP) has taken on a lead role in coordinating national space policy.\nThe post OSTP taking on space policy coordination work in place of National Space Council appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/NSC_meeting-scaled.jpg?fit=1024%2C576&ssl=1",
+      "link": "https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36866",
+      "type": "news",
+      "title": "What’s Happening in Space Policy March 15-22, 2026",
+      "date": "2026-03-15T20:38:34Z",
+      "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of March 15-22, 2026 and any insight we can offer about them. The House and Senate […]",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-II-back-to-VAB-Feb-25-26-300x200.jpg",
+      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-15-22-2026/",
+      "news_site": "SpacePolicyOnline.com",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36867",
+      "type": "news",
+      "title": "Starcloud files plans for 88,000-satellite constellation",
+      "date": "2026-03-15T22:32:15Z",
+      "summary": "\nAn orbital data center startup is seeking approval from the Federal Communications Commission for a constellation of as many as 88,000 satellites.\nThe post Starcloud files plans for 88,000-satellite constellation appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg?fit=1024%2C566&ssl=1",
+      "link": "https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
     },
     {
       "id": "launch_9819a575-468b-41a3-b254-fe2db68889a4",
       "type": "launch",
-      "title": "Kuaizhou 1A | Unknown Payload",
+      "title": "Kuaizhou 11 | Unknown Payload",
       "date": "2026-03-16T04:10:00Z",
       "provider": "ExPace",
-      "rocket": "Kuaizhou 1A",
+      "rocket": "Kuaizhou 11",
       "mission": "Unknown Payload",
       "description": "Details TBD.",
       "pad": "Launch Area 95A",
       "status": "Go for Launch",
       "probability": null,
       "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_1a_lau_image_20251206092920.jpeg",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_11_lif_image_20240520155835.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/9819a575-468b-41a3-b254-fe2db68889a4/",
       "source": "Launch Library 2"
     },
