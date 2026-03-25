@@ -1,7 +1,7 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-03-24T01:28:18.811855+00:00",
-  "total_events_captured": 614,
+  "generated_at": "2026-03-25T01:45:38.328827+00:00",
+  "total_events_captured": 615,
   "events": [
     {
       "id": "event_1335",
@@ -81,116 +81,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "news_36807",
-      "type": "news",
-      "title": "Astranis taps retired Gen. John Hyten to lead advisory board",
-      "date": "2026-03-12T13:00:00Z",
-      "summary": "\nHyten has called for greater use of commercial technology and faster acquisition cycles\nThe post Astranis taps retired Gen. John Hyten to lead advisory board  appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/419A4719-scaled-e1773252632992.jpg?fit=1024%2C596&ssl=1",
-      "link": "https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36810",
-      "type": "news",
-      "title": "CELESTE pre-launch media briefing",
-      "date": "2026-03-12T14:00:00Z",
-      "summary": "Watch the replay of the CELESTE pre-launch media briefing. The briefing covered the mission details of the ahead of the inaugural launch of ESA’s Celeste LEO-PNT in-orbit demonstration constellation. The first two satellites are scheduled to lift off no earlier than 24 March aboard Rocket Lab’s Electron rocket from New Zealand.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/celeste_pre-launch_media_briefing/27152196-1-eng-GB/CELESTE_pre-launch_media_briefing_card_full.png",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/CELESTE_pre-launch_media_briefing",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36809",
-      "type": "news",
-      "title": "Efficient Large Displacement/Large Rotation Dynamic Simulations Using Nonlinear Dynamic Substructures",
-      "date": "2026-03-12T14:24:33Z",
-      "summary": "Download PDF: Efficient Large Displacement/Large Rotation Dynamic Simulations Using Nonlinear Dynamic Substructures Utilizing reduced-order dynamic math models (DMM) in linear system-level dynamic analyses is a well-known practice that enables extreme computational efficiencies. But what about nonlinear system dynamics? Reduced-order DMMs have found their way into contact dynamics. The engineer must look no further than the […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/figure-1.png",
-      "link": "https://www.nasa.gov/general/efficient-large-displacement-large-rotation-dynamic-simulations-using-nonlinear-dynamic-substructures/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36811",
-      "type": "news",
-      "title": "The new wave of industry coming for the LEO frontier",
-      "date": "2026-03-12T14:57:50Z",
-      "summary": "\nIn this episode of the SpaceNews Space Minds podcast, host David Ariosto talks with Jonathan Cirtain, CEO and President of Axiom Space. They discuss the challenges — and wonders — […]\nThe post The new wave of industry coming for the LEO frontier appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/space-minds-podcast-axiom-space-1920-1080-scaled.jpg?fit=1024%2C576&ssl=1",
-      "link": "https://spacenews.com/the-new-wave-of-industry-coming-for-the-leo-frontier/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36814",
-      "type": "news",
-      "title": "Help Galaxy Zoo: Tidal Tales Open Cosmic Storybook",
-      "date": "2026-03-12T15:41:54Z",
-      "summary": "Galaxies carry the imprints of past encounters. When they pass near one another or collide, gravity pulls their stars into long tails, thin streams, and faint shells – features that preserve the history of these dramatic events. Thanks to deep, high-resolution images from the Euclid space telescope, an ESA (European Space Agency) mission with critical contributions from NASA, we can now see these delicate structures more clearly than ever before in unprecedented numbers.",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/Euclid_GalazyZoo_TidalTales.png",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-tidal-tales-open-cosmic-storybook/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36812",
-      "type": "news",
-      "title": "Webb Spots Details in Nearby Spiral Galaxy",
-      "date": "2026-03-12T15:56:51Z",
-      "summary": "Stars peek through the dusty, winding arms of NGC 5134, a spiral galaxy located 65 million light-years away, in this Feb. 20, 2026, image from NASA’s James Webb Space Telescope. Webb’s Mid-Infrared Instrument collects the mid-infrared light emitted by the warm dust speckled through the galaxy’s clouds, tracing the clumps and strands of dusty gas. […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/55106628191-948b435cbd-o.jpg",
-      "link": "https://www.nasa.gov/image-article/webb-spots-details-in-nearby-spiral-galaxy/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36813",
-      "type": "news",
-      "title": "Firefly Sends off Alpha Block I with FLTA007",
-      "date": "2026-03-12T15:57:08Z",
-      "summary": "Firefly Aerospace completed a successful return to flight on Wednesday, March 11, bringing their Alpha rocket back online after a mishap in April of last year.",
-      "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/03/55141876077_7901017302_6k.jpg",
-      "link": "https://www.spacescout.info/2026/03/firefly-sends-off-alpha-block-i-with-flta007/",
-      "news_site": "Space Scout",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36815",
-      "type": "news",
-      "title": "Another Earth raises $4 million to boost AI training with synthetic satellite data",
-      "date": "2026-03-12T16:10:25Z",
-      "summary": "\nA Vienna-based startup has raised $4 million to scale a software platform that generates synthetic satellite data for training AI models to detect environmental and operational risks.\nThe post Another Earth raises $4 million to boost AI training with synthetic satellite data appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Another-Earth.jpg?fit=1024%2C768&ssl=1",
-      "link": "https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36816",
-      "type": "news",
-      "title": "Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images",
-      "date": "2026-03-12T16:41:27Z",
-      "summary": "With the first images from the spacecraft now in hand, the team behind NASA’s Star-Planet Activity Research CubeSat, or SPARCS, is ready to begin charting the energetic lives of the galaxy’s most common stars to help answer one of humanity’s most profound questions: Which distant worlds beyond our solar system might be habitable?  Initial, or […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/1-pia26731-sparcs-first-light-20260309-0837.png",
-      "link": "https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36817",
-      "type": "news",
-      "title": "Voyager opens defense and space tech hub in Long Beach",
-      "date": "2026-03-12T18:00:00Z",
-      "summary": "\nNew facility to support electronics and software development for missile defense and space programs\nThe post Voyager opens defense and space tech hub in Long Beach appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Voyager-Long-Beach-Exterior-Top-View-Courtesy-Voyager-Technologies-scaled.jpg?fit=1024%2C683&ssl=1",
-      "link": "https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "event_1340",
       "type": "event",
       "title": "Artemis II Flight Readiness Review News Conference",
@@ -200,226 +90,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sls_on_lc-39a_b_image_20260202171722.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1340/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_36820",
-      "type": "news",
-      "title": "About Integrated Aviation Systems Program (IASP)",
-      "date": "2026-03-12T21:00:00Z",
-      "summary": "The Integrated Aviation Systems Program (IASP) conducts research and integrated, systems-level demonstrations in a flight environment to prove, mature and transition them into future aircraft and systems. The program aims to determine feasibility and accelerate development of less mature technologies, and for more mature technologies, execute highly complex flight demonstrations to prove and accelerate technology […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/iasp-cover-03a.jpeg",
-      "link": "https://www.nasa.gov/directorates/armd/iasp/about-iasp/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36818",
-      "type": "news",
-      "title": "NASA to Cover Upcoming US Spacewalks 94, 95 Outside Space Station",
-      "date": "2026-03-12T21:09:16Z",
-      "summary": "NASA astronauts will conduct a pair of spacewalks beginning Wednesday, March 18, outside of the International Space Station to prepare for the installation of two roll-out solar arrays. Experts from NASA will preview the spacewalks during a news conference at 2 p.m. EDT, Monday, March 16, at the agency’s Johnson Space Center in Houston. Watch […]",
-      "image": "https://images-assets.nasa.gov/image/iss073e0008485/iss073e0008485~large.jpg",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-upcoming-us-spacewalks-94-95-outside-space-station/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36822",
-      "type": "news",
-      "title": "About Low Boom Flight Demonstrator (LBFD) Project",
-      "date": "2026-03-12T22:00:00Z",
-      "summary": "The Low Boom Flight Demonstrator project (LBFD) is part of NASA’s effort to help enable new aircraft noise standards that are required to open the market to commercial supersonic flight over land. The federal government banned all civilian supersonic flights over land more than fifty years ago due to sonic boom noise. If new standards are established, the U.S. aviation […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2025/12/afrc2025-0168-038orig.jpg",
-      "link": "https://www.nasa.gov/directorates/armd/iasp/armd-iasp-lbfd/about-lbfd/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36819",
-      "type": "news",
-      "title": "China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase",
-      "date": "2026-03-12T22:23:52Z",
-      "summary": "China’s Tianwen-3 Mars sample return mission is entering flight hardware development, targeting a late 2028 launch to seek out biosignatures on the Red Planet.\r\nThe post China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/05/mars-northern-hemisphere-medium-res-Tianwen1-26march2021-cnsa-pec-scaled.jpg?fit=1024%2C768&ssl=1",
-      "link": "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36821",
-      "type": "news",
-      "title": "NASA Now Targeting April 1 for Artemis II’s Launch Around The Moon",
-      "date": "2026-03-12T22:38:00Z",
-      "summary": "NASA announced today they are targeting April 1 at 6:24 pm Eastern Daylight Time for sending the Artemis II crew around the Moon. In preparation, their Space Launch System rocket […]",
-      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/03/Artemis-2-April-dates-297x300.jpg",
-      "link": "https://spacepolicyonline.com/news/nasa-now-targeting-april-1-for-artemis-ii-launch-around-the-moon/",
-      "news_site": "SpacePolicyOnline.com",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36823",
-      "type": "news",
-      "title": "Live coverage: SpaceX to launch Friday morning Starlink mission from Cape Canaveral",
-      "date": "2026-03-13T02:08:35Z",
-      "summary": "The Starlink 10-48 mission will add another 29 broadband internet satellites to the company’s constellation in low Earth orbit. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled for 8:10 a.m. EDT (1210 UTC).",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2024/10/20241022_Starlink_6-61_prelaunch_AB-1-678x445.jpg",
-      "link": "https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-friday-morning-starlink-mission-from-cape-canaveral/",
-      "news_site": "Spaceflight Now",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36824",
-      "type": "news",
-      "title": "Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base",
-      "date": "2026-03-13T02:57:21Z",
-      "summary": "The Starlink 17-31 mission is SpaceX’s 26th mission supporting its broadband internet satellite constellation so far in 2026. Liftoff from pad 4 East at Vandenberg Space Force Base is scheduled for 7:33:50 a.m. PDT (10:33:50 a.m. EDT / 1433:50 UTC).",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2025/09/20250818_Starlink_G17_5_Vertical.jpg",
-      "link": "https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/",
-      "news_site": "Spaceflight Now",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36825",
-      "type": "news",
-      "title": "Eruption at Mayon",
-      "date": "2026-03-13T04:01:00Z",
-      "summary": "Activity at the volcano in the Philippines sent lava and pyroclastic flows down the volcano’s flanks and prompted evacuations in nearby communities.",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/eruption-at-mayon/mayonvolcano_oli_20260226.jpg",
-      "link": "https://science.nasa.gov/earth/earth-observatory/eruption-at-mayon/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36826",
-      "type": "news",
-      "title": "NASA working toward April 1 launch of Artemis 2",
-      "date": "2026-03-13T08:32:09Z",
-      "summary": "NASA is pushing ahead with an Artemis 2 launch as soon as April 1 after completing repairs to a helium line that required rolling the rocket back from the pad.\r\nThe post NASA working toward April 1 launch of Artemis 2 appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/sls-icps-feb2026.jpeg?fit=1024%2C716&ssl=1",
-      "link": "https://spacenews.com/nasa-working-toward-april-1-launch-of-artemis-2/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36827",
-      "type": "news",
-      "title": "Earth from Space: Maritime highways in the Øresund Strait",
-      "date": "2026-03-13T09:00:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/earth_from_space_maritime_highways_in_the_oeresund_strait/27152823-1-eng-GB/Earth_from_Space_Maritime_highways_in_the_OEresund_Strait_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Maritime_highways_in_the_OEresund_Strait",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36831",
-      "type": "news",
-      "title": "A cosmic ray simulator for extreme science on Earth",
-      "date": "2026-03-13T09:44:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/a_cosmic_ray_simulator_for_extreme_science_on_earth/27153024-1-eng-GB/A_cosmic_ray_simulator_for_extreme_science_on_Earth_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/A_cosmic_ray_simulator_for_extreme_science_on_Earth",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36828",
-      "type": "news",
-      "title": "A cosmic rays simulator for extreme science on Earth",
-      "date": "2026-03-13T09:44:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/a_cosmic_rays_simulator_for_extreme_science_on_earth/27153024-1-eng-GB/A_cosmic_rays_simulator_for_extreme_science_on_Earth_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/A_cosmic_rays_simulator_for_extreme_science_on_Earth",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36829",
-      "type": "news",
-      "title": "Plato readies for space-like tests",
-      "date": "2026-03-13T10:00:00Z",
-      "summary": "The European Space Agency’s mission to discover Earth-like exoplanets, Plato, is now sealed in the Large Space Simulator (LSS) chamber at ESA’s Test Centre for a series of vital tests under space‑like conditions.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/plato_readies_for_space-like_tests/27151050-1-eng-GB/Plato_readies_for_space-like_tests_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Plato_readies_for_space-like_tests",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36830",
-      "type": "news",
-      "title": "Senate committee advances NASA deputy administrator nominee",
-      "date": "2026-03-13T10:16:41Z",
-      "summary": "\nThe Senate Commerce Committee voted March 12 to send the nomination of Matt Anderson as NASA deputy administrator to the full Senate.\nThe post Senate committee advances NASA deputy administrator nominee appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/NHQ202603050016-large.jpg?fit=1024%2C731&ssl=1",
-      "link": "https://spacenews.com/senate-committee-advances-nasa-deputy-administrator-nominee/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36833",
-      "type": "news",
-      "title": "China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions",
-      "date": "2026-03-13T10:58:31Z",
-      "summary": "China resumed orbital launch activity Thursday with a pair of missions lifting off from Hainan and Xichang spaceports, launching satellite internet and technology test satellites.\r\nThe post China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Guowang-group20-CZ8A-HCSLC-12march2026-casc.jpg?fit=1024%2C661&ssl=1",
-      "link": "https://spacenews.com/china-ends-month-long-launch-hiatus-with-separate-guowang-and-shiyan-30-satellite-missions/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36832",
-      "type": "news",
-      "title": "Q&A: Rebecca Evernden on UK space strategy",
-      "date": "2026-03-13T11:00:00Z",
-      "summary": "\nSpaceNews caught up with Rebecca Evernden, the recently appointed Director of the new UK Space Agency, at Space Comm Expo in London. This interview has been edited for brevity and clarity. SpaceNews: Which do you see as strategic areas for UKSA to focus on to achieve economic growth and national security for the U.K.? Rebecca […]\nThe post Q&A: Rebecca Evernden on UK space strategy appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Screenshot-2026-03-10-124803.png?fit=1024%2C556&ssl=1",
-      "link": "https://spacenews.com/qa-rebecca-evernden-on-uk-space-strategy/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36857",
-      "type": "news",
-      "title": "Isar Aerospace to Launch Astroscale ELSA-M Orbital Debris Removal Mission",
-      "date": "2026-03-13T12:23:48Z",
-      "summary": "Tokyo-headquartered Astroscale Holdings has selected Isar Aerospace to launch its ELSA-M orbital debris removal demonstration mission no earlier than 2028. Isar Aerospace is preparing for the second flight of its two-stage rocket, Spectrum, after the first flight failed shortly after liftoff in early 2025. The launch is currently scheduled for no earlier than 19 March […]\r\nThe post Isar Aerospace to Launch Astroscale ELSA-M Orbital Debris Removal Mission appeared first on European Spaceflight.",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/03/Isar-Aerospace-to-Launch-Astroscale-ELSA-M-Orbital-Debris-Removal-Mission.webp",
-      "link": "https://europeanspaceflight.com/isar-aerospace-to-launch-astroscale-elsa-m-orbital-debris-removal-mission/",
-      "news_site": "European Spaceflight",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36834",
-      "type": "news",
-      "title": "Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race",
-      "date": "2026-03-13T13:00:00Z",
-      "summary": "\nKazakhstan is approaching a moment of strategic truth. It can either become Eurasia’s indispensable broker of space, AI and advanced technology solutions or risk being used as a pawn in a geopolitical power competition it does not control. To be sure, Kazakhstan’s position has complex dependencies: Its historical ties with Russia’s cultural, education and science […]\nThe post Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/54438534828_8cdc88e28f_o-scaled.jpg?fit=1024%2C378&ssl=1",
-      "link": "https://spacenews.com/kazakhstan-must-choose-be-eurasias-tech-broker-or-become-a-pawn-in-the-new-global-space-race/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36835",
-      "type": "news",
-      "title": "Week in images: 09-13 March 2026",
-      "date": "2026-03-13T14:10:00Z",
-      "summary": "Week in images: 09-13 March 2026",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/plato_readies_for_space-like_tests/27151050-1-eng-GB/Plato_readies_for_space-like_tests_card_full.jpg",
-      "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_March_2026",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36836",
-      "type": "news",
-      "title": "Astronauts’ Perspectives on NESC Contributions to Mission Safety and Success",
-      "date": "2026-03-13T14:48:43Z",
-      "summary": "The exact date when the crew of Space Shuttle Columbia was lost is readily recalled by Patrick Forrester, as it likely would be for any NASA employee in service that Saturday morning when the Shuttle broke up during reentry. Forrester had flown to ISS for the first time in 2001 aboard Discovery in support of […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/vande-hei.png",
-      "link": "https://www.nasa.gov/general/astronauts-perspectives-on-nesc-contributions-to-mission-safety-and-success/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_36840",
@@ -1258,17 +928,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36913",
-      "type": "news",
-      "title": "OHB Sweden to build Sterna weather constellation",
-      "date": "2026-03-18T09:00:00Z",
-      "summary": "Thanks to the success of the Arctic Weather Satellite prototype and Eumetsat’s recent greenlight to develop a full constellation of similar satellites called Sterna, the European Space Agency has awarded OHB Sweden with the contract to build 20 satellites.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/07/arctic_weather_satellite_like_a_bird/26215897-1-eng-GB/Arctic_Weather_Satellite_like_a_bird_card_full.png",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/OHB_Sweden_to_build_Sterna_weather_constellation",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36953",
       "type": "news",
       "title": "T-20 days: Smile to launch on 9 April",
@@ -1276,6 +935,17 @@
       "summary": "The Smile mission is set to launch on a Vega-C rocket from Europe’s Spaceport in French Guiana on Thursday 9 April at 08:29 CEST/07:29 BST/03:29 local time. Follow along as we communicate on the final preparations for launch. Journalists are invited to join online media briefings in English, French, Spanish, Italian and German.",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/02/smile_delivered_to_space_artist_impression_gif/27126681-1-eng-GB/Smile_delivered_to_space_artist_impression_GIF_card_full.gif",
       "link": "https://www.esa.int/Science_Exploration/Space_Science/Smile/T-20_days_Smile_to_launch_on_9_April",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36913",
+      "type": "news",
+      "title": "OHB Sweden to build Sterna weather constellation",
+      "date": "2026-03-18T09:00:00Z",
+      "summary": "Thanks to the success of the Arctic Weather Satellite prototype and Eumetsat’s recent greenlight to develop a full constellation of similar satellites called Sterna, the European Space Agency has awarded OHB Sweden with the contract to build 20 satellites.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/07/arctic_weather_satellite_like_a_bird/26215897-1-eng-GB/Arctic_Weather_Satellite_like_a_bird_card_full.png",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/OHB_Sweden_to_build_Sterna_weather_constellation",
       "news_site": "ESA",
       "source": "Spaceflight News API"
     },
@@ -1808,17 +1478,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_36958",
-      "type": "news",
-      "title": "Holistic space observation: the shift from SSA to SDA",
-      "date": "2026-03-20T13:00:00Z",
-      "summary": "\nRecent reporting on SpaceX’s proposal to deploy up to one million satellites in low Earth orbit — paired with a vision of AI-enabled, autonomous orbital infrastructure — marks a decisive moment for the space community. Regardless of whether these numbers ultimately materialize, the direction is unmistakable: space is moving toward unprecedented scale, autonomy and strategic […]\nThe post Holistic space observation: the shift from SSA to SDA appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1",
-      "link": "https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_36957",
       "type": "news",
       "title": "NASA Glenn Opens Applications for Free Summer Engineering Institute",
@@ -1827,6 +1486,17 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/03/grc-2025-c-05567.jpg",
       "link": "https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/",
       "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_36958",
+      "type": "news",
+      "title": "Holistic space observation: the shift from SSA to SDA",
+      "date": "2026-03-20T13:00:00Z",
+      "summary": "\nRecent reporting on SpaceX’s proposal to deploy up to one million satellites in low Earth orbit — paired with a vision of AI-enabled, autonomous orbital infrastructure — marks a decisive moment for the space community. Regardless of whether these numbers ultimately materialize, the direction is unmistakable: space is moving toward unprecedented scale, autonomy and strategic […]\nThe post Holistic space observation: the shift from SSA to SDA appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/space-situational-awareness-ESA-scaled.jpg?fit=1024%2C533&ssl=1",
+      "link": "https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/",
+      "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
     {
@@ -2230,7 +1900,7 @@
       "type": "news",
       "title": "Arianespace to launch Katalyst servicing spacecraft",
       "date": "2026-03-23T15:30:00Z",
-      "summary": "\nKatalyst Space Technologies will launch a geosynchronous orbit servicing spacecraft on an Ariane 6 in 2027.\nThe post Arianespace to launch Katalyst servicing spacecraft appeared first on SpaceNews.",
+      "summary": "Katalyst Space Technologies will launch a geosynchronous orbit servicing spacecraft on an Ariane 6 in 2027.\r\nThe post Arianespace to launch Katalyst servicing spacecraft appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/ariane64-va267.jpeg?fit=1024%2C682&ssl=1",
       "link": "https://spacenews.com/arianespace-to-launch-katalyst-servicing-spacecraft/",
       "news_site": "SpaceNews",
@@ -2318,7 +1988,7 @@
       "type": "news",
       "title": "Amazon Leo targets faster deployment cadence as deadline pressure mounts",
       "date": "2026-03-23T20:39:35Z",
-      "summary": "\nAmazon vowed to double the annual launch rate for its low Earth orbit broadband constellation to more than 20 missions, hinging largely on rockets yet to prove themselves at scale.\nThe post Amazon Leo targets faster deployment cadence as deadline pressure mounts appeared first on SpaceNews.",
+      "summary": "Amazon vowed to double the annual launch rate for its low Earth orbit broadband constellation to more than 20 missions, hinging largely on rockets yet to prove themselves at scale.\r\nThe post Amazon Leo targets faster deployment cadence as deadline pressure mounts appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Amazon-stack.jpeg?fit=1024%2C576&ssl=1",
       "link": "https://spacenews.com/amazon-leo-targets-faster-deployment-cadence-as-deadline-pressure-mounts/",
       "news_site": "SpaceNews",
@@ -2351,10 +2021,87 @@
       "type": "news",
       "title": "Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites",
       "date": "2026-03-23T21:50:46Z",
-      "summary": "The United States, Russia, China, New Zealand, and Norway are all set to host launches…\nThe post Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites appeared first on NASASpaceFlight.com.",
+      "summary": "The United States, Russia, China, New Zealand, and Norway are all set to host launches…\r\nThe post Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/05/julia-streak-1.jpeg",
       "link": "https://www.nasaspaceflight.com/2026/03/launch-preview-032326/",
       "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37010",
+      "type": "news",
+      "title": "Progress on Starbase Pads ahead of Block 3 Starships",
+      "date": "2026-03-24T02:21:59Z",
+      "summary": "In a flurry of ground activity that underscores SpaceX’s relentless drive for launch cadence, engineers…\r\nThe post Progress on Starbase Pads ahead of Block 3 Starships appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-24-02-14-33-568.jpg",
+      "link": "https://www.nasaspaceflight.com/2026/03/progress-starbase-pads-block-3-starships/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37011",
+      "type": "news",
+      "title": "Tropical Cyclone Narelle Crosses Australia",
+      "date": "2026-03-24T04:01:00Z",
+      "summary": "The powerful storm lashed the northern edge of the continent with damaging winds and drenching rain as it made landfall multiple times.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/tropical-cyclone-narelle-crosses-australia/aus_narelle_vir2_20260319.jpg",
+      "link": "https://science.nasa.gov/earth/earth-observatory/tropical-cyclone-narelle-crosses-australia/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37013",
+      "type": "news",
+      "title": "US-Based Katalyst Selects Ariane 6 to Launch Satellite Servicing Spacecraft",
+      "date": "2026-03-24T07:05:02Z",
+      "summary": "Arizona-headquartered space operations company Katalyst Space Technologies has signed a contract with Arianespace to launch its NEXUS-1 satellite servicing spacecraft aboard an Ariane 6 in 2027. The NEXUS-1 spacecraft is designed to operate in geostationary orbit (GEO), docking with satellites to perform a range of in-orbit servicing duties, including installing new hardware, repositioning satellites, and […]\r\nThe post US-Based Katalyst Selects Ariane 6 to Launch Satellite Servicing Spacecraft appeared first on European Spaceflight.",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/03/US-Based-Katalyst-Selects-Ariane-6-to-Launch-Satellite-Servicing-Spacecraft.webp",
+      "link": "https://europeanspaceflight.com/us-based-katalyst-selects-ariane-6-to-launch-satellite-servicing-spacecraft/",
+      "news_site": "European Spaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37012",
+      "type": "news",
+      "title": "XRISM solves famous star’s 50-year mystery",
+      "date": "2026-03-24T08:00:00Z",
+      "summary": "An invisible companion consuming material from the naked-eye star gamma-Cas has been revealed as the culprit for curious X-rays coming from the stellar system. This closes the case on a mystery that has puzzled astronomers for more than fifty years.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/gamma-cas_and_its_hungry_white_dwarf_companion/27166121-1-eng-GB/Gamma-Cas_and_its_hungry_white_dwarf_companion_card_full.jpg",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/XRISM_solves_famous_star_s_50-year_mystery",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37014",
+      "type": "news",
+      "title": "Smile fuelled for launch",
+      "date": "2026-03-24T10:00:00Z",
+      "summary": "From the ESA Blogs.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/smile_fuelled_for_launch/27167641-1-eng-GB/Smile_fuelled_for_launch_card_full.jpg",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Smile_fuelled_for_launch",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37015",
+      "type": "news",
+      "title": "Fusion engine for missile warning lacks a government dataset",
+      "date": "2026-03-24T10:30:00Z",
+      "summary": "\nWASHINGTON – National missile warning and tracking could be improved if all government agencies shared the raw data they gather. “There are agencies that have sensors that can provide data that would be very supplemental to the missile-defense mission, but they designed it for a completely different purpose,” Devin Elder, Northrop Grumman Strategic Space Systems […]\nThe post Fusion engine for missile warning lacks a government dataset appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_screenshot_2026-03-23_at_42429-pm.png?fit=879%2C585&ssl=1",
+      "link": "https://spacenews.com/fusion-engine-for-missile-warning-lacks-a-government-dataset/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37016",
+      "type": "news",
+      "title": "Orbital data centers, part 1: There’s no way this is economically viable, right?",
+      "date": "2026-03-24T11:00:59Z",
+      "summary": "\"This is not physically impossible; it’s only a question of whether this is a rational thing.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/space-datacenter-analysis-two.jpg",
+      "link": "https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/",
+      "news_site": "Arstechnica",
       "source": "Spaceflight News API"
     },
     {
@@ -2369,6 +2116,39 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "news_37027",
+      "type": "news",
+      "title": "Optical Vortex Phase Masks for the Detection of Habitable Worlds",
+      "date": "2026-03-24T13:00:00Z",
+      "summary": "A team of NASA researchers is developing new types of optical masks that could help enable the many orders of magnitude of starlight suppression needed for future space observatories to pick out very faint habitable exoplanets from the far brighter glare of their stellar hosts.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2026/fig1.jpg",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/optical-vortex-phase-masks-for-the-detection-of-habitable-worlds/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37017",
+      "type": "news",
+      "title": "SES targets 28 satellites with K2 Space for next-gen MEO network",
+      "date": "2026-03-24T13:00:14Z",
+      "summary": "\nSES announced plans March 24 to order an initial 28 satellites from manufacturing startup K2 Space for meoSphere, a next-generation MEO network slated to be in operation by 2030.\nThe post SES targets 28 satellites with K2 Space for next-gen MEO network appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/MeoSES-scaled.jpg?fit=1024%2C579&ssl=1",
+      "link": "https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37018",
+      "type": "news",
+      "title": "NASA Unveils Initiatives to Achieve America’s National Space Policy",
+      "date": "2026-03-24T13:01:25Z",
+      "summary": "As part of its “Ignition” event on Tuesday, NASA announced a series of transformative agencywide initiatives designed to achieve President Donald J. Trump’s National Space Policy and advance American leadership in space. These actions reflect the urgency of the moment, but also the tremendous opportunity ahead for world-changing science and discovery. “NASA is committed to […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/moon-base1.jpg",
+      "link": "https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "event_1342",
       "type": "event",
       "title": "Progress MS-33 Docking",
@@ -2378,6 +2158,94 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/progress2520ms-112520docking_image_20190318202147.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1342/",
       "source": "Launch Library 2"
+    },
+    {
+      "id": "news_37019",
+      "type": "news",
+      "title": "NASA’s Water-Hunting Tool Will Help Scout Moon’s South Pole",
+      "date": "2026-03-24T13:59:00Z",
+      "summary": "NASA is joining international partners to hunt for ice on the Moon in support of future human exploration. The agency is providing a water-detecting instrument, the Neutron Spectrometer System (NSS), to the Lunar Polar Exploration (LUPEX) mission led by JAXA (Japan Aerospace Exploration Agency) and ISRO (Indian Space Research Organisation).",
+      "image": "https://images-assets.nasa.gov/image/as17-140-21497/as17-140-21497~large.jpg",
+      "link": "https://www.nasa.gov/solar-system/moon/nasas-water-hunting-tool-will-help-scout-moons-south-pole/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37020",
+      "type": "news",
+      "title": "SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited",
+      "date": "2026-03-24T14:00:00Z",
+      "summary": "\nVictoria, Canada / Daejeon, South Korea – March 24, 2026 – Canadian and international organizations can now access SpaceEye-T imagery and tasking services through Pacific Geomatics Limited, one of the […]\nThe post SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Pacific-Geomatics-Limited.jpg?fit=1024%2C1024&ssl=1",
+      "link": "https://spacenews.com/spaceeye-t-25-cm-satellite-imagery-and-tasking-now-available-through-pacific-geomatics-limited/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37034",
+      "type": "news",
+      "title": "From missions to systems: The architecture enabling a sustained lunar economy",
+      "date": "2026-03-24T14:16:00Z",
+      "summary": "\nThe conversation around humanity’s return to the moon is often viewed through launches, landers and national programs. But, industry leaders say that framework is becoming outdated. Instead, they point to […]\nThe post From missions to systems: The architecture enabling a sustained lunar economy appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/voyager-maxspace-lander-1.jpeg?fit=1024%2C575&ssl=1",
+      "link": "https://spacenews.com/from-missions-to-systems-the-architecture-enabling-a-sustained-lunar-economy/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37021",
+      "type": "news",
+      "title": "NASA Research Proposes Technology to Seek Earth-Like Exoplanets",
+      "date": "2026-03-24T14:18:59Z",
+      "summary": "As NASA seeks to understand the mysteries of the universe, the agency is advancing technologies to locate and explore Earth-like planets far beyond our solar system. A key element of this research involves observing reflected light from exoplanets, which can reveal indicators of Earth-like features such as water and oxygen. However, detecting this faint reflected […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/fullkissteam-photo1.jpg",
+      "link": "https://www.nasa.gov/directorates/stmd/nasa-research-proposes-technology-to-seek-earth-like-exoplanets/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37022",
+      "type": "news",
+      "title": "Space Force officer shares intelligence on threats to space systems",
+      "date": "2026-03-24T15:48:00Z",
+      "summary": "\nWASHINGTON – Electronic warfare is a growing threat to U.S. space systems, according to a March 23 unclassified briefing by U.S. Space Force Chief Master Sergeant Ron Lerch, senior enlisted advisor to the Deputy Chief of Space Operations for Intelligence. During the Satellite 2026 presentation, Lerch discussed technologies designed to disrupt proliferated low-Earth orbit (PLEO) […]\nThe post Space Force officer shares intelligence on threats to space systems appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/LeoLabs1.jpg?fit=893%2C772&ssl=1",
+      "link": "https://spacenews.com/space-force-officer-shares-intelligence-on-threats-to-space-systems/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37023",
+      "type": "news",
+      "title": "NASA halts work on Gateway to develop a lunar base",
+      "date": "2026-03-24T16:09:46Z",
+      "summary": "\nNASA is halting plans to develop the lunar Gateway and instead focusing on the development of a lunar base.\nThe post NASA halts work on Gateway to develop a lunar base appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/moon-base1.webp?fit=800%2C450&ssl=1",
+      "link": "https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37024",
+      "type": "news",
+      "title": "Space Development Agency slows satellite launches to focus on on-orbit performance",
+      "date": "2026-03-24T16:35:34Z",
+      "summary": "\nThe agency’s acting director says checkout, orbit-raising and network testing are pacing the program\nThe post Space Development Agency slows satellite launches to focus on on-orbit performance appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/IMG_0268-scaled-e1774353293196.jpeg?fit=1024%2C776&ssl=1",
+      "link": "https://spacenews.com/space-development-agency-slows-satellite-launches-to-focus-on-on-orbit-performance/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37025",
+      "type": "news",
+      "title": "NASA Rolls Out New Moon Plan",
+      "date": "2026-03-24T16:55:27Z",
+      "summary": "NASA is again revising its plan to return astronauts to the Moon and establish a sustainable presence there.  With the launch of the Artemis II crew around the Moon coming […]",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/03/nasa-plan-15-Moon-phase-plan-300x169.jpg",
+      "link": "https://spacepolicyonline.com/news/nasa-rolls-out-new-moon-plan/",
+      "news_site": "SpacePolicyOnline.com",
+      "source": "Spaceflight News API"
     },
     {
       "id": "event_1380",
@@ -2391,6 +2259,94 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "news_37026",
+      "type": "news",
+      "title": "China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery",
+      "date": "2026-03-24T17:14:20Z",
+      "summary": "\nAstronstone, one of China’s younger launch startups, has secured new funding as it builds toward the first flight of its reusable AS-1 rocket. \nThe post China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/05/astronstone-stainless-steel-common-bulkhead-tank-may2025.jpg?fit=1024%2C766&ssl=1",
+      "link": "https://spacenews.com/chinas-astronstone-raises-29-million-for-reusable-rocket-with-chopstick-style-recovery/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37028",
+      "type": "news",
+      "title": "La NASA presenta iniciativas para cumplir con la política espacial nacional de Estados Unidos",
+      "date": "2026-03-24T18:24:46Z",
+      "summary": "Read this news release in English here. Como parte de su evento “Ignition” (Encendido) celebrado el martes, la NASA anunció una serie de iniciativas transformadoras a nivel de toda la agencia, diseñadas para cumplir con la Política Espacial Nacional del presidente Donald J. Trump y promover el liderazgo estadounidense en el espacio. Estas acciones reflejan […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/moon-base1.jpg",
+      "link": "https://www.nasa.gov/news-release/la-nasa-presenta-iniciativas-para-cumplir-con-la-politica-espacial-nacional-de-estados-unidos/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37029",
+      "type": "news",
+      "title": "NASA unveils Space Reactor-1 Freedom mission to Mars in 2028",
+      "date": "2026-03-24T18:52:39Z",
+      "summary": "In a significant NASA announcement, Administrator Jared Isaacman and agency leaders outlined plans for a…\nThe post NASA unveils Space Reactor-1 Freedom mission to Mars in 2028 appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-24-13-24-00-604.jpg",
+      "link": "https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37030",
+      "type": "news",
+      "title": "OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity",
+      "date": "2026-03-24T18:57:22Z",
+      "summary": "\nWashington, D.C., March 24, 2026 – OrbitsIQ Global (OIQ), an innovator in AI-driven secure connectivity across terrestrial and satellite networks, today announced a major technological milestone achieved in collaboration with […]\nThe post OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/orbitsiq-logo-scaled.png?fit=1024%2C1024&ssl=1",
+      "link": "https://spacenews.com/orbitsiq-global-announces-breakthrough-in-space-based-iot-connectivity/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37031",
+      "type": "news",
+      "title": "NASA kills lunar space station to focus on ambitious Moon base",
+      "date": "2026-03-24T19:01:58Z",
+      "summary": "\"Everyone wants to be on the surface.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Image-from-iOS.jpg",
+      "link": "https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/",
+      "news_site": "Arstechnica",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37032",
+      "type": "news",
+      "title": "Moog taps Redwire to provide solar arrays for Meteor",
+      "date": "2026-03-24T19:24:51Z",
+      "summary": "\nWASHINGTON — Redwire announced the first award for its new solar arrays, a $12.8 million contract from Moog. Under the contract announced March 24, Redwire will deliver Extensible Low-Profile Solar Array  (ELSA) wings for Moog’s Meteor satellite bus ordered by an undisclosed national security customer. ELSA unveiled earlier this month, is designed to provide 50% more […]\nThe post Moog taps Redwire to provide solar arrays for Meteor appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/redwire-elsa.jpeg?fit=1024%2C576&ssl=1",
+      "link": "https://spacenews.com/moog-taps-redwire-to-provide-solar-arrays-for-meteor/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37033",
+      "type": "news",
+      "title": "NASA X-Ray Mission Gets Fresh Look at 2,000-Year-Old Supernova",
+      "date": "2026-03-24T19:57:21Z",
+      "summary": "NASA’s IXPE (Imaging X-ray Polarimetry Explorer) mission has taken a new observation of a supernova, RCW 86, helping fill in a fuller picture of what other telescopes have observed. When astronomers using NASA’s Chandra X-ray Observatory previously targeted RCW 86, they discovered that a large “cavity” region around the system led the supernova to expand […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/rcw86-xray-ixpe-optical.jpg",
+      "link": "https://www.nasa.gov/image-article/nasa-x-ray-mission-gets-fresh-look-at-2000-year-old-supernova/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37035",
+      "type": "news",
+      "title": "3 Ways Students Can Get Involved With Artemis",
+      "date": "2026-03-24T20:41:08Z",
+      "summary": "NASA’s Artemis program will establish a sustainable lunar presence, unlock new scientific discoveries, and develop technologies for spaceflight to Mars and beyond – and students can help shape this new era of space exploration. As America launches this new Golden Age of innovation and exploration, NASA and its partners offer exciting opportunities for students to […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/53799655822-2bf7127061-o-1.jpg",
+      "link": "https://www.nasa.gov/learning-resources/3-ways-students-can-get-involved-with-artemis/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "event_1381",
       "type": "event",
       "title": "Ignition: NASA News Conference",
@@ -2402,21 +2358,37 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_37dd4870-43df-4a28-9d14-0e088ddc1d2a",
-      "type": "launch",
-      "title": "Falcon 9 Block 5 | Starlink Group 17-17",
-      "date": "2026-03-24T23:03:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "Starlink Group 17-17",
-      "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": "https://x.com/i/broadcasts/1qxvvkLyqjwxB",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/37dd4870-43df-4a28-9d14-0e088ddc1d2a/",
-      "source": "Launch Library 2"
+      "id": "news_37036",
+      "type": "news",
+      "title": "Reminders of Where We’ve Been, Where We’re Going",
+      "date": "2026-03-24T20:59:15Z",
+      "summary": "Three Moon rocks are on display during a March 24, 2026, event where NASA announced a series of transformative agencywide initiatives designed to achieve the National Space Policy and advance American leadership in space. NASA leadership provided updates on mission priorities, including sending the first astronauts to the lunar surface in more than 50 years, establishing […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/55166159616-92fbcbb330-o.jpg",
+      "link": "https://www.nasa.gov/image-article/reminders-of-where-weve-been-where-were-going/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37037",
+      "type": "news",
+      "title": "Geopolitical shifts bring opportunities and headaches for satellite execs",
+      "date": "2026-03-24T21:00:01Z",
+      "summary": "\nA shifting geopolitical landscape is driving huge business opportunities for satcoms but also bringing new supply chain and regulatory challenges, industry executives said March 24 at the Satellite Conference in Washington, D.C.\nThe post Geopolitical shifts bring opportunities and headaches for satellite execs appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Satellite-execs-Satshow-20262-scaled.jpg?fit=1024%2C777&ssl=1",
+      "link": "https://spacenews.com/geopolitical-shifts-bring-opportunities-and-headaches-for-satellite-execs/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37038",
+      "type": "news",
+      "title": "NASA PC-12 Aircraft Makes Move to Support Flight Research Across Agency",
+      "date": "2026-03-24T21:49:35Z",
+      "summary": "A NASA Pilatus PC-12 aircraft will now be based at NASA’s Armstrong Flight Research Center in Edwards, California, in order to support flight research efforts across the agency. The PC-12 was acquired in 2022 by NASA’s Glenn Research Center in Cleveland for use in advanced technology development. The PC-12 will continue to support research at […]",
+      "image": "https://images-assets.nasa.gov/image/AFRC2026-0025-18/AFRC2026-0025-18~large.jpg",
+      "link": "https://www.nasa.gov/image-article/nasa-pc-12-aircraft-makes-move-to-support-flight-research-across-agency/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
     },
     {
       "id": "event_1344",
@@ -2430,10 +2402,21 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "news_37039",
+      "type": "news",
+      "title": "NASA outlines ambitious $20 billion plan for moon base",
+      "date": "2026-03-25T00:56:20Z",
+      "summary": "Along with plans for a moon base, senior NASA managers also outlined work to develop nuclear power systems for use on the moon and Mars to keep astronauts, habitats and other equipment warm while providing the electricity needed for research, construction and daily operations. ",
+      "image": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260324_Isaacman_Ignition.jpeg",
+      "link": "https://spaceflightnow.com/2026/03/25/nasa-outlines-ambitious-20-billion-plan-for-moon-base/",
+      "news_site": "Spaceflight Now",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "launch_b0ca3e7a-650e-4af6-bdf9-658e6e114763",
       "type": "launch",
       "title": "Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)",
-      "date": "2026-03-25T09:14:00Z",
+      "date": "2026-03-25T09:37:00Z",
       "provider": "Rocket Lab",
       "rocket": "Electron",
       "mission": "Daughter Of The Stars (LEO-PNT Pathfinder A)",
@@ -2441,7 +2424,7 @@
       "pad": "Rocket Lab Launch Complex 1A",
       "status": "Go for Launch",
       "probability": null,
-      "webcast": "https://www.youtube.com/watch?v=jJxRic-a4SU",
+      "webcast": "https://www.youtube.com/watch?v=XPHoduedWyA",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/b0ca3e7a-650e-4af6-bdf9-658e6e114763/",
       "source": "Launch Library 2"
@@ -2478,6 +2461,23 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/64f098a3-73c2-40ab-b80b-372275149980/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_37dd4870-43df-4a28-9d14-0e088ddc1d2a",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | Starlink Group 17-17",
+      "date": "2026-03-25T23:03:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "Starlink Group 17-17",
+      "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": "https://x.com/i/broadcasts/1qxvvkLyqjwxB",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/37dd4870-43df-4a28-9d14-0e088ddc1d2a/",
       "source": "Launch Library 2"
     },
     {
@@ -2750,7 +2750,7 @@
       "id": "launch_63aa7636-d2b7-457f-a3e6-27e564e42941",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 10-58",
-      "date": "2026-04-02T15:45:00Z",
+      "date": "2026-04-02T11:52:00Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "Starlink Group 10-58",
@@ -2761,6 +2761,23 @@
       "webcast": "https://x.com/i/broadcasts/1dJrPEdyAkkKX",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/63aa7636-d2b7-457f-a3e6-27e564e42941/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_f6c9396f-5f02-49e6-a847-83e4c774e0e9",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | Starlink Group 17-21",
+      "date": "2026-04-05T02:39:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "Starlink Group 17-21",
+      "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": "https://x.com/i/broadcasts/1aJbdbDgyXVKX",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/f6c9396f-5f02-49e6-a847-83e4c774e0e9/",
       "source": "Launch Library 2"
     },
     {
@@ -2832,6 +2849,23 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_7e89e423-6f47-40a0-b075-c6fc1d9cf228",
+      "type": "launch",
+      "title": "Atlas V 551 | Amazon Leo (LA-06)",
+      "date": "2026-04-24T00:00:00Z",
+      "provider": "United Launch Alliance",
+      "rocket": "Atlas V 551",
+      "mission": "Amazon Leo (LA-06)",
+      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n29 satellites are carried on this launch.",
+      "pad": "Space Launch Complex 41",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520551_image_20190224012316.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/7e89e423-6f47-40a0-b075-c6fc1d9cf228/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_33eb7522-d371-4195-addb-c22aeff30c41",
       "type": "launch",
       "title": "Soyuz 2.1a | Progress MS-34 (95P)",
@@ -2852,7 +2886,7 @@
       "id": "launch_7bffe283-a708-427d-ba0d-43ea741453b1",
       "type": "launch",
       "title": "Ariane 64 | Amazon Leo (LE-02)",
-      "date": "2026-04-30T00:00:00Z",
+      "date": "2026-04-28T00:00:00Z",
       "provider": "Arianespace",
       "rocket": "Ariane 64",
       "mission": "Amazon Leo (LE-02)",
@@ -2863,23 +2897,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/7bffe283-a708-427d-ba0d-43ea741453b1/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_7e89e423-6f47-40a0-b075-c6fc1d9cf228",
-      "type": "launch",
-      "title": "Atlas V 551 | Amazon Leo (LA-06)",
-      "date": "2026-04-30T00:00:00Z",
-      "provider": "United Launch Alliance",
-      "rocket": "Atlas V 551",
-      "mission": "Amazon Leo (LA-06)",
-      "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n29 satellites are carried on this launch.",
-      "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520551_image_20190224012316.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/7e89e423-6f47-40a0-b075-c6fc1d9cf228/",
       "source": "Launch Library 2"
     },
     {
