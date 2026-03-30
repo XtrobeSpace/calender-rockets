@@ -1,19 +1,8 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-03-29T01:54:32.486365+00:00",
-  "total_events_captured": 610,
+  "generated_at": "2026-03-30T01:57:23.938910+00:00",
+  "total_events_captured": 612,
   "events": [
-    {
-      "id": "event_1337",
-      "type": "event",
-      "title": "Artemis II Update News Conference",
-      "date": "2026-02-27T15:00:00Z",
-      "description": "With rollback of NASA’s Artemis II SLS (Space Launch System) rocket and Orion spacecraft to the Vehicle Assembly Building complete, the agency will host a news conference from NASA’s Kennedy Space Center in Florida. Leadership will discuss the work ahead for the test flight, as well as provide a broader update on the Artemis campaign.\r\n\r\nNASA participants include:\r\n- Administrator Jared Isaacman\r\n- Associate Administrator Amit Kshatriya\r\n- Lori Glaze, acting associate administrator for Exploration Systems Development Mission Directorate",
-      "location": "Kennedy Space Center",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sls_on_lc-39a_b_image_20260202171722.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1337/",
-      "source": "Launch Library 2"
-    },
     {
       "id": "event_1328",
       "type": "event",
@@ -123,50 +112,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/us2520eva-52_image_20190318200748.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1308/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_36930",
-      "type": "news",
-      "title": "Apex sells satellite for Japanese technology demonstration mission",
-      "date": "2026-03-19T07:00:00Z",
-      "summary": "\nSatellite manufacturer Apex has won a contract from a Japanese company to provide a spacecraft bus for a technology demonstration mission.\nThe post Apex sells satellite for Japanese technology demonstration mission appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/apex-aries-assemblyline.jpeg?fit=1024%2C721&ssl=1",
-      "link": "https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36931",
-      "type": "news",
-      "title": "Gateway blueprint",
-      "date": "2026-03-19T07:19:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/03/gateway_blueprint/24806422-5-eng-GB/Gateway_blueprint_card_full.png",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2023/03/Gateway_blueprint",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36936",
-      "type": "news",
-      "title": "Upcoming ESA–Industry events on CM25 implementation",
-      "date": "2026-03-19T10:30:00Z",
-      "summary": "The European Space Agency, ESA, invites the industrial community to a series of events at which ESA directorates will present the follow-up to the Council Meeting at Ministerial Level 2025, CM25, held in November 2025 in Bremen, Germany.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/12/esa_s_ministerial_council_2025/27051396-2-eng-GB/ESA_s_Ministerial_Council_2025_card_full.jpg",
-      "link": "https://www.esa.int/About_Us/Business_with_ESA/Upcoming_ESA_Industry_events_on_CM25_implementation",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_36932",
-      "type": "news",
-      "title": "ReOrbit sells two small GEO satellites to SLI",
-      "date": "2026-03-19T12:00:00Z",
-      "summary": "\nFinnish satellite manufacturer ReOrbit has signed a contract with asset-financing company SLI for two small geostationary orbit communications satellites.\nThe post ReOrbit sells two small GEO satellites to SLI appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/reorbit-silta.jpeg?fit=1024%2C572&ssl=1",
-      "link": "https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_36933",
@@ -1346,17 +1291,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "event_1344",
-      "type": "event",
-      "title": "RV-X Flight test",
-      "date": "2026-03-25T00:00:00Z",
-      "description": "Using a small experimental aircraft (RV-X) with a diameter of approximately 1.8 m and a height of approximately 7.3 m, flight tests will be conducted at an altitude of approximately 10 m and covering a horizontal distance of approximately 15 m.",
-      "location": "Noshiro Rocket Testing Center",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rv-x_during_ass_image_20260314060633.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1344/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "news_37039",
       "type": "news",
       "title": "NASA outlines ambitious $20 billion plan for moon base",
@@ -1544,17 +1478,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37055",
-      "type": "news",
-      "title": "NASA Webb, Hubble Share Most Comprehensive View of Saturn to Date",
-      "date": "2026-03-25T18:00:00Z",
-      "summary": "NASA’s James Webb Space Telescope and Hubble Space Telescope have teamed up to capture new views of Saturn, revealing the planet in strikingly different ways. Observing in complementary wavelengths of light, the two space observatories provide scientists with a richer, more layered understanding of the gas giant’s atmosphere. Both sense sunlight reflected from Saturn’s banded […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/03/STScI-01KJTK6737FT47YSK9RZ4T5YVM.jpg",
-      "link": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-share-most-comprehensive-view-of-saturn-to-date/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37072",
       "type": "news",
       "title": "Webb & Hubble capture new views of Saturn",
@@ -1563,6 +1486,17 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/saturn_2024_webb_and_hubble_images/27170885-1-eng-GB/Saturn_2024_Webb_and_Hubble_images_card_full.jpg",
       "link": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_capture_new_views_of_Saturn",
       "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37055",
+      "type": "news",
+      "title": "NASA Webb, Hubble Share Most Comprehensive View of Saturn to Date",
+      "date": "2026-03-25T18:00:00Z",
+      "summary": "NASA’s James Webb Space Telescope and Hubble Space Telescope have teamed up to capture new views of Saturn, revealing the planet in strikingly different ways. Observing in complementary wavelengths of light, the two space observatories provide scientists with a richer, more layered understanding of the gas giant’s atmosphere. Both sense sunlight reflected from Saturn’s banded […]",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/03/STScI-01KJTK6737FT47YSK9RZ4T5YVM.jpg",
+      "link": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-share-most-comprehensive-view-of-saturn-to-date/",
+      "news_site": "NASA",
       "source": "Spaceflight News API"
     },
     {
@@ -1852,17 +1786,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37087",
-      "type": "news",
-      "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
-      "date": "2026-03-26T17:00:55Z",
-      "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154112/antarctic_nsidc_20250301.jpg",
-      "link": "https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37085",
       "type": "news",
       "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
@@ -1870,6 +1793,17 @@
       "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154112/antarctic_nsidc_20250301.jpg",
       "link": "https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37087",
+      "type": "news",
+      "title": "Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find",
+      "date": "2026-03-26T17:00:55Z",
+      "summary": "For the second consecutive year, winter sea ice in the Arctic reached a level that matches the lowest peak observed since satellite monitoring began in 1979. On March 15, Arctic sea ice extent reached 5.52 million square miles (14.29 million square kilometers), very close to the 2025 peak of 5.53 million square miles (14.31 million […]",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154112/antarctic_nsidc_20250301.jpg",
+      "link": "https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/",
       "news_site": "NASA",
       "source": "Spaceflight News API"
     },
@@ -2006,6 +1940,17 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_37101",
+      "type": "news",
+      "title": "SBQuantum and Spire to send quantum diamond magnetometer into orbit",
+      "date": "2026-03-27T09:00:00Z",
+      "summary": "\nSAN FRANCISCO – Canadian startup SBQuantum plans to send a quantum diamond magnetometer into low-Earth orbit March 30 on a Spire Global satellite flying on a SpaceX Falcon 9 rideshare. Spire is providing the satellite, ground stations and data processing for SBQuantum’s magnetometer, which is roughly the size of a quart of milk. SBQuantum and […]\nThe post SBQuantum and Spire to send quantum diamond magnetometer into orbit appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_diamant_glow.jpg?fit=879%2C496&ssl=1",
+      "link": "https://spacenews.com/sbquantum-and-spire-to-send-quantum-diamond-magnetometer-into-orbit/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "news_37103",
       "type": "news",
       "title": "Earth from Space: Kimberley, Australia",
@@ -2025,17 +1970,6 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/03/where_spiral_arms_and_star_formation_meet/27171324-1-eng-GB/Where_spiral_arms_and_star_formation_meet_card_full.jpg",
       "link": "https://www.esa.int/ESA_Multimedia/Images/2026/03/Where_spiral_arms_and_star_formation_meet",
       "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37101",
-      "type": "news",
-      "title": "SBQuantum and Spire to send quantum diamond magnetometer into orbit",
-      "date": "2026-03-27T09:00:00Z",
-      "summary": "\nSAN FRANCISCO – Canadian startup SBQuantum plans to send a quantum diamond magnetometer into low-Earth orbit March 30 on a Spire Global satellite flying on a SpaceX Falcon 9 rideshare. Spire is providing the satellite, ground stations and data processing for SBQuantum’s magnetometer, which is roughly the size of a quart of milk. SBQuantum and […]\nThe post SBQuantum and Spire to send quantum diamond magnetometer into orbit appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_diamant_glow.jpg?fit=879%2C496&ssl=1",
-      "link": "https://spacenews.com/sbquantum-and-spire-to-send-quantum-diamond-magnetometer-into-orbit/",
-      "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
     {
@@ -2384,17 +2318,111 @@
       "type": "news",
       "title": "SpaceX to deliver 119 payloads to Sun-synchronous orbit on Transporter 16",
       "date": "2026-03-28T23:48:46Z",
-      "summary": "SpaceX is set to launch 119 payloads to Sun-synchronous orbit from California for the Transporter…\nThe post SpaceX to deliver 119 payloads to Sun-synchronous orbit on Transporter 16 appeared first on NASASpaceFlight.com.",
+      "summary": "SpaceX is set to launch 119 payloads to Sun-synchronous orbit from California for the Transporter…\r\nThe post SpaceX to deliver 119 payloads to Sun-synchronous orbit on Transporter 16 appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/11/20251126_transporter15_hill_00001_98222ff37a-scaled-e1764176839143.jpg",
       "link": "https://www.nasaspaceflight.com/2026/03/transporter-16/",
       "news_site": "NASASpaceflight",
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_37136",
+      "type": "news",
+      "title": "‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings",
+      "date": "2026-03-29T09:37:26Z",
+      "summary": "\nWhile NASA outlined plans to increase the cadence of robotic lunar lander missions at a recent event, it said little about accelerating work on crewed lunar landers.\nThe post ‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/im-5.jpeg?fit=1024%2C576&ssl=1",
+      "link": "https://spacenews.com/shots-on-goal-and-win-the-game-nasas-effort-to-accelerate-lunar-landings/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37137",
+      "type": "news",
+      "title": "What’s Happening in Space Policy March 29-April 4, 2026",
+      "date": "2026-03-29T15:16:40Z",
+      "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of March 29-April 4, 2026 and any insight we can offer about them. The House and Senate are in […]",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/03/A2-crew-arrv-Mar-27-26-Shiflett-300x202.jpg",
+      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-29-april-4-2026/",
+      "news_site": "SpacePolicyOnline.com",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "event_1383",
+      "type": "event",
+      "title": "NASA's Artemis II Crew Q & A from Quarantine",
+      "date": "2026-03-29T15:30:00Z",
+      "description": "Join us as the Artemis II crew answers questions from NASA's Kennedy Space Center, where they're in protective quarantine ahead of their upcoming flight around the Moon.\r\n\r\nFour astronauts — three from NASA and one from the CSA (Canadian Space Agency) — make up the Artemis II crew:\r\n- NASA astronaut Reid Wiseman, Artemis II commander\r\n- NASA astronaut Victor Glover, Artemis II pilot\r\n- NASA astronaut Christina Koch, Artemis II mission specialist\r\n- Canadian Space Agency (CSA) astronaut Jeremy Hansen, Artemis II mission specialist",
+      "location": "Kennedy Space Center",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/nasa_artemis_ii_image_20230403161326.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/event/1383/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "event_1384",
+      "type": "event",
+      "title": "NASA's Artemis II L-3 Countdown Status News Conference (March 29, 2026)",
+      "date": "2026-03-29T18:00:00Z",
+      "description": "NASA experts will provide a status update on Artemis II launch preparations three days before liftoff.",
+      "location": "Kennedy Space Center",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_stat_image_20230801193839.png",
+      "link": "https://ll.thespacedevs.com/2.2.0/event/1384/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "event_1344",
+      "type": "event",
+      "title": "RV-X Flight test",
+      "date": "2026-03-29T21:00:00Z",
+      "description": "Using a small experimental aircraft (RV-X) with a diameter of approximately 1.8 m and a height of approximately 7.3 m, flight tests will be conducted at an altitude of approximately 10 m and covering a horizontal distance of approximately 15 m.",
+      "location": "Noshiro Rocket Testing Center",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rv-x_during_ass_image_20260314060633.jpg",
+      "link": "https://ll.thespacedevs.com/2.2.0/event/1344/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "news_37138",
+      "type": "news",
+      "title": "America’s Rocket Factory comes Full Circle with Artemis",
+      "date": "2026-03-29T21:28:30Z",
+      "summary": "As NASA prepares for its long-awaited return of crewed launches beyond low Earth orbit with…\nThe post America’s Rocket Factory comes Full Circle with Artemis appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/03/NSF-2026-03-29-21-56-43-214.jpg",
+      "link": "https://www.nasaspaceflight.com/2026/03/americas-rocket-factory-artemis/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37139",
+      "type": "news",
+      "title": "Satellite imaging industry’s next challenge: getting systems to talk to each other",
+      "date": "2026-03-29T21:31:45Z",
+      "summary": "\nExecutives say lack of incentives and interoperability slows ‘tipping and cueing’ across vendors\nThe post Satellite imaging industry’s next challenge: getting systems to talk to each other appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/84d29df2069f02561a3177432af8265539dfa528-1920x1080.jpg.jpeg?fit=1024%2C576&ssl=1",
+      "link": "https://spacenews.com/satellite-imaging-industrys-next-challenge-getting-systems-to-talk-to-each-other/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "launch_e3b45caa-2ccc-4937-931b-780edbe58db9",
+      "type": "launch",
+      "title": "Kinetica 2 | Qingzhou Spacecraft Demo Flight",
+      "date": "2026-03-30T11:00:00Z",
+      "provider": "CAS Space",
+      "rocket": "Kinetica 2",
+      "mission": "Qingzhou Spacecraft Demo Flight",
+      "description": "First test launch and mission of CAS Space’s Kinetica-2 rocket and Qingzhou cargo resupply spacecraft for future cargo transport to the Chinese Tiangong Space Station under a commercial contract from the CMSEO.\r\n\r\nThis launch might be carrying a batch of LEO communication satellites for an unidentified customer to polar orbit as secondary payload.",
+      "pad": "Launch Area 140",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica_2_grou_image_20260116124018.jpg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/e3b45caa-2ccc-4937-931b-780edbe58db9/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Transporter 16 (Dedicated SSO Rideshare)",
-      "date": "2026-03-30T10:20:00Z",
+      "date": "2026-03-30T11:02:00Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "Transporter 16 (Dedicated SSO Rideshare)",
@@ -2402,7 +2430,7 @@
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
       "probability": null,
-      "webcast": "https://x.com/i/broadcasts/1kJzDMgwZAvKv",
+      "webcast": "https://www.youtube.com/watch?v=dreQumHRroA",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/fd4ba54a-df30-4318-a79b-2f9d6a38acc5/",
       "source": "Launch Library 2"
@@ -2422,23 +2450,6 @@
       "webcast": "https://x.com/i/broadcasts/1pKdRbaXvLrJW",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/10fbecb2-7624-44bc-85ce-9a22b9b9f2ec/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_e3b45caa-2ccc-4937-931b-780edbe58db9",
-      "type": "launch",
-      "title": "Kinetica 2 | Qingzhou Spacecraft Demo Flight",
-      "date": "2026-03-31T00:00:00Z",
-      "provider": "CAS Space",
-      "rocket": "Kinetica 2",
-      "mission": "Qingzhou Spacecraft Demo Flight",
-      "description": "First test launch and mission of CAS Space’s Kinetica-2 rocket and Qingzhou cargo resupply spacecraft for future cargo transport to the Chinese Tiangong Space Station under a commercial contract from the CMSEO.",
-      "pad": "Launch Area 140",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica_2_grou_image_20260116124018.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/e3b45caa-2ccc-4937-931b-780edbe58db9/",
       "source": "Launch Library 2"
     },
     {
@@ -2514,7 +2525,7 @@
       "description": "Artemis II is the first crewed mission as part of the Artemis program. Artemis II will send a crew of 4 - 3 Americans and 1 Canadian around the moon and return them back to Earth.\r\n\r\nThe mission will test the core systems of NASA's Orion spacecraft including the critical life support system, among other systems which could not be tested during Artemis I due to the lack of crew onboard.",
       "pad": "Launch Complex 39B",
       "status": "Go for Launch",
-      "probability": null,
+      "probability": 80,
       "webcast": "https://www.youtube.com/watch?v=Tf_UjBMIzNo",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/space_launch_sy_image_20220331082429.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/41699701-2ef4-4b0c-ac9d-6757820cde87/",
@@ -2674,6 +2685,34 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_53769468-bfd3-45c7-a52b-46a68ed7510f",
+      "type": "launch",
+      "title": "New Glenn | BlueBird Block 2 #2",
+      "date": "2026-04-10T00:00:00Z",
+      "provider": "Blue Origin",
+      "rocket": "New Glenn",
+      "mission": "BlueBird Block 2 #2",
+      "description": "AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.",
+      "pad": "Launch Complex 36A",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_th_image_20251113164507.jpg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/53769468-bfd3-45c7-a52b-46a68ed7510f/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "event_1382",
+      "type": "event",
+      "title": "Roman Telescope Unveiling News Conference",
+      "date": "2026-04-21T20:00:00Z",
+      "description": "NASA's Nancy Grace Roman Space Telescope recently completed construction and is wrapping up prelaunch testing.\r\n\r\nNASA participants in this briefing include:\r\n\r\n- NASA Administrator Jared Isaacman\r\n- Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters, Washington\r\n- Jamie Dunn, Roman telescope project manager, NASA Goddard\r\n- Julie McEnery, Roman telescope senior project scientist, NASA Goddard",
+      "location": "Goddard Space Flight Center, Greenbelt, MD, USA",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/roman_space_tel_image_20260329083535.webp",
+      "link": "https://ll.thespacedevs.com/2.2.0/event/1382/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_9281afa8-140d-425b-a560-2fa59feef814",
       "type": "launch",
       "title": "Electron | Kakushin Rising (JAXA Rideshare)",
@@ -2790,23 +2829,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/6d2beb1a-6869-4505-9fc1-a4aa224178e2/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_53769468-bfd3-45c7-a52b-46a68ed7510f",
-      "type": "launch",
-      "title": "New Glenn | BlueBird Block 2 #2",
-      "date": "2026-04-30T00:00:00Z",
-      "provider": "Blue Origin",
-      "rocket": "New Glenn",
-      "mission": "BlueBird Block 2 #2",
-      "description": "AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.",
-      "pad": "Launch Complex 36A",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_th_image_20251113164507.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/53769468-bfd3-45c7-a52b-46a68ed7510f/",
       "source": "Launch Library 2"
     },
     {
@@ -3716,6 +3738,23 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_22e117bf-041c-49d5-9d09-7b180036e143",
+      "type": "launch",
+      "title": "Ariane 62 | Metop-SG B1",
+      "date": "2026-10-06T00:00:00Z",
+      "provider": "Arianespace",
+      "rocket": "Ariane 62",
+      "mission": "Metop-SG B1",
+      "description": "Second of EUMETSAT's second generation of Metop weather satellites.",
+      "pad": "Ariane Launch Area 4",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/22e117bf-041c-49d5-9d09-7b180036e143/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_f4c720ce-0cfd-43e6-b8dd-00273073bc01",
       "type": "launch",
       "title": "Electron | StriX Launch 12",
@@ -3939,23 +3978,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/0b85fcca-5252-48d7-9ccb-c10b1da9d183/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_22e117bf-041c-49d5-9d09-7b180036e143",
-      "type": "launch",
-      "title": "Ariane 62 | Metop-SG B1",
-      "date": "2026-12-31T00:00:00Z",
-      "provider": "Arianespace",
-      "rocket": "Ariane 62",
-      "mission": "Metop-SG B1",
-      "description": "Second of EUMETSAT's second generation of Metop weather satellites.",
-      "pad": "Ariane Launch Area 4",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/22e117bf-041c-49d5-9d09-7b180036e143/",
       "source": "Launch Library 2"
     },
     {
