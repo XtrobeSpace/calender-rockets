@@ -1,19 +1,8 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-04-05T01:56:02.677745+00:00",
-  "total_events_captured": 632,
+  "generated_at": "2026-04-06T01:57:31.413293+00:00",
+  "total_events_captured": 631,
   "events": [
-    {
-      "id": "event_352",
-      "type": "event",
-      "title": "HTV-X1 Release & Reentry",
-      "date": "2026-03-06T17:05:00Z",
-      "description": "The JAXA HTV-X1 will be unberthed from the ISS before initiating a destructive reentry into the Earth's atmosphere taking waste along with it.",
-      "location": "International Space Station",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/htv-x_in_space__image_20251122191933.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/352/",
-      "source": "Launch Library 2"
-    },
     {
       "id": "event_1339",
       "type": "event",
@@ -156,72 +145,6 @@
       "image": null,
       "link": "https://ll.thespacedevs.com/2.2.0/event/1381/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_37055",
-      "type": "news",
-      "title": "NASA Webb, Hubble Share Most Comprehensive View of Saturn to Date",
-      "date": "2026-03-25T18:00:00Z",
-      "summary": "NASA’s James Webb Space Telescope and Hubble Space Telescope have teamed up to capture new views of Saturn, revealing the planet in strikingly different ways. Observing in complementary wavelengths of light, the two space observatories provide scientists with a richer, more layered understanding of the gas giant’s atmosphere. Both sense sunlight reflected from Saturn’s banded […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/03/STScI-01KJTK6737FT47YSK9RZ4T5YVM.jpg",
-      "link": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-share-most-comprehensive-view-of-saturn-to-date/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37057",
-      "type": "news",
-      "title": "Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026",
-      "date": "2026-03-25T18:16:23Z",
-      "summary": "\nIRVINE, Calif., March 25, 2026 — Terran Orbital Corporation, a Lockheed Martin company, today announced the introduction of its new star tracker product line at SATSHOW 2026, expanding the company’s […]\nThe post Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026 appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/09/terran-orbital-square.png?fit=1024%2C1024&ssl=1",
-      "link": "https://spacenews.com/terran-orbital-introduces-new-star-tracker-product-line-at-satshow-2026/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37056",
-      "type": "news",
-      "title": "Webb Captures Saturn in Infrared",
-      "date": "2026-03-25T18:33:40Z",
-      "summary": "Saturn’s icy rings glow in this infrared view from NASA’s James Webb Space Telescope released on March 25, 2026. Combining this image with another that NASA’s Hubble Space Telescope captured – also released on the same day – provides scientists with a richer, more layered understanding of the gas giant’s atmosphere. In Webb’s infrared image, […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/03/full-res-for-display-2.png",
-      "link": "https://www.nasa.gov/image-article/webb-captures-saturn-in-infrared/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37058",
-      "type": "news",
-      "title": "We got an audience with the \"Lunar Viceroy\" to talk how NASA will build a Moon base",
-      "date": "2026-03-25T19:21:57Z",
-      "summary": "\"It has been clear that we all need to be focused on one thing, not 10 things.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/55166155011_de999b99d9_k.jpg",
-      "link": "https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/",
-      "news_site": "Arstechnica",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37060",
-      "type": "news",
-      "title": "Office of Space Commerce releases mission authorization proposal",
-      "date": "2026-03-25T19:50:28Z",
-      "summary": "\nThe Office of Space Commerce has rolled out its proposal for a “light touch” approach to mission authorization, the latest attempt in an effort to regulate new commercial space applications.\nThe post Office of Space Commerce releases mission authorization proposal appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/sat2026-jordan.jpeg?fit=1024%2C769&ssl=1",
-      "link": "https://spacenews.com/office-of-space-commerce-releases-mission-authorization-proposal/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37059",
-      "type": "news",
-      "title": "NASA Names Jennifer Lyons as Acting Launch Services Program Manager",
-      "date": "2026-03-25T19:59:37Z",
-      "summary": "NASA has selected Jennifer Lyons as acting program manager for the agency’s Launch Services Program (LSP) based at Kennedy Space Center in Florida. In this role, Lyons will lead NASA’s acquisition and management of domestic commercial launch services for science and robotic exploration missions beginning Wednesday, April 1. Lyons will oversee mission planning, launch vehicle […]",
-      "image": "https://images-assets.nasa.gov/image/KSC-20240617-PH-SPX01_0009/KSC-20240617-PH-SPX01_0009~large.jpg",
-      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-names-jennifer-lyons-as-acting-launch-services-program-manager/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_37063",
@@ -928,17 +851,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37141",
-      "type": "news",
-      "title": "Launch of ESA’s Celeste mission 1",
-      "date": "2026-03-28T10:20:00Z",
-      "summary": "At 10:14 CET on 28 March, the first two satellites of ESA’s Celeste LEO-PNT in-orbit demonstration mission lifted off aboard a Rocket Lab Electron rocket from Māhia, New Zealand.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/launch_of_esa_s_celeste_mission_1/27176624-1-eng-GB/Launch_of_ESA_s_Celeste_mission_1_card_full.png",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Launch_of_ESA_s_Celeste_mission_1",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37130",
       "type": "news",
       "title": "Celeste liftoff",
@@ -946,6 +858,17 @@
       "summary": "At 10:14 CET on 28 March, the first two satellites of ESA’s Celeste LEO-PNT in-orbit demonstration mission lifted off aboard a Rocket Lab Electron rocket from Māhia, New Zealand.",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/celeste_liftoff/27176624-1-eng-GB/Celeste_liftoff_card_full.png",
       "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Celeste_liftoff",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37141",
+      "type": "news",
+      "title": "Launch of ESA’s Celeste mission 1",
+      "date": "2026-03-28T10:20:00Z",
+      "summary": "At 10:14 CET on 28 March, the first two satellites of ESA’s Celeste LEO-PNT in-orbit demonstration mission lifted off aboard a Rocket Lab Electron rocket from Māhia, New Zealand.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/03/launch_of_esa_s_celeste_mission_1/27176624-1-eng-GB/Launch_of_ESA_s_Celeste_mission_1_card_full.png",
+      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/03/Launch_of_ESA_s_Celeste_mission_1",
       "news_site": "ESA",
       "source": "Spaceflight News API"
     },
@@ -1148,17 +1071,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37144",
-      "type": "news",
-      "title": "The race to build orbital data centers is missing its biggest variable: power",
-      "date": "2026-03-30T13:00:00Z",
-      "summary": "\nHere’s the version of the orbital data center story you keep reading: Elon Musk says space will be the cheapest place to run AI within 36 months. LoneStar announces plans for a lunar data center. NVIDIA’s Vera Rubin Space-1 makes headlines. These are real announcements, and they all have one thing in common. Nobody talks about the source of electricity. While […]\nThe post The race to build orbital data centers is missing its biggest variable: power appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/spacex-odc.jpeg?fit=1024%2C623&ssl=1",
-      "link": "https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37145",
       "type": "news",
       "title": "With Voyager’s help, Icarus Robotics to test free-flyer on ISS",
@@ -1166,6 +1078,17 @@
       "summary": "\nSAN FRANCISCO – Voyager Technologies announced plans March 30 to help Icarus Robotics test a free-flying platform, called Joyride, on the International Space Station. Under the agreement, Voyager will handle payload integration, safety certification, coordination of a 2027 launch, on-orbit operations planning and execution for Joyride-1, a technology demonstration. Icarus Robotics was founded in Brooklyn, […]\nThe post With Voyager’s help, Icarus Robotics to test free-flyer on ISS appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/rsz_image_3-27-26_at_1148-am_1.jpg?fit=879%2C462&ssl=1",
       "link": "https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37144",
+      "type": "news",
+      "title": "The race to build orbital data centers is missing its biggest variable: power",
+      "date": "2026-03-30T13:00:00Z",
+      "summary": "\nHere’s the version of the orbital data center story you keep reading: Elon Musk says space will be the cheapest place to run AI within 36 months. LoneStar announces plans for a lunar data center. NVIDIA’s Vera Rubin Space-1 makes headlines. These are real announcements, and they all have one thing in common. Nobody talks about the source of electricity. While […]\nThe post The race to build orbital data centers is missing its biggest variable: power appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/spacex-odc.jpeg?fit=1024%2C623&ssl=1",
+      "link": "https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/",
       "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
@@ -1918,24 +1841,13 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37213",
+      "id": "news_37215",
       "type": "news",
-      "title": "Five things Juice has revealed about Comet 3I/ATLAS already",
+      "title": "Five things Juice has revealed about Comet 3I/ATLAS",
       "date": "2026-04-02T13:00:00Z",
       "summary": "‘Extreme but not exotic,’ – a glimpse at Comet 3I/ATLAS through the eyes of the European Space Agency’s Jupiter Icy Moons Explorer (Juice).",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/comet_3i_atlas_seen_by_juice_s_science_camera_janus/27186903-1-eng-GB/Comet_3I_ATLAS_seen_by_Juice_s_science_camera_JANUS_card_full.gif",
-      "link": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS_already",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37216",
-      "type": "news",
-      "title": "A silicon chip that can do it all",
-      "date": "2026-04-02T13:00:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/a_silicon_chip_that_can_do_it_all/27186499-1-eng-GB/A_silicon_chip_that_can_do_it_all_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS",
       "news_site": "ESA",
       "source": "Spaceflight News API"
     },
@@ -1951,13 +1863,24 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37215",
+      "id": "news_37216",
       "type": "news",
-      "title": "Five things Juice has revealed about Comet 3I/ATLAS",
+      "title": "A silicon chip that can do it all",
+      "date": "2026-04-02T13:00:00Z",
+      "summary": "From the ESA Blogs.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/a_silicon_chip_that_can_do_it_all/27186499-1-eng-GB/A_silicon_chip_that_can_do_it_all_card_full.jpg",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37213",
+      "type": "news",
+      "title": "Five things Juice has revealed about Comet 3I/ATLAS already",
       "date": "2026-04-02T13:00:00Z",
       "summary": "‘Extreme but not exotic,’ – a glimpse at Comet 3I/ATLAS through the eyes of the European Space Agency’s Jupiter Icy Moons Explorer (Juice).",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/comet_3i_atlas_seen_by_juice_s_science_camera_janus/27186903-1-eng-GB/Comet_3I_ATLAS_seen_by_Juice_s_science_camera_JANUS_card_full.gif",
-      "link": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS_already",
       "news_site": "ESA",
       "source": "Spaceflight News API"
     },
@@ -2193,17 +2116,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37235",
-      "type": "news",
-      "title": "A pair of planet-forming discs",
-      "date": "2026-04-03T08:00:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/a_pair_of_planet-forming_discs/27184991-1-eng-GB/A_pair_of_planet-forming_discs_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/A_pair_of_planet-forming_discs",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37236",
       "type": "news",
       "title": "Earth from Space: Eyes on our Moon",
@@ -2211,6 +2123,17 @@
       "summary": "From the ESA Blogs.",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earth_from_space_eyes_on_our_moon/27186197-1-eng-GB/Earth_from_Space_Eyes_on_our_Moon_card_full.jpg",
       "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Eyes_on_our_Moon",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37235",
+      "type": "news",
+      "title": "A pair of planet-forming discs",
+      "date": "2026-04-03T08:00:00Z",
+      "summary": "From the ESA Blogs.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/a_pair_of_planet-forming_discs/27184991-1-eng-GB/A_pair_of_planet-forming_discs_card_full.jpg",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/A_pair_of_planet-forming_discs",
       "news_site": "ESA",
       "source": "Spaceflight News API"
     },
@@ -2512,6 +2435,17 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_37293",
+      "type": "news",
+      "title": "NASA finalizes science plans for Artemis 2 lunar flyby",
+      "date": "2026-04-05T03:29:58Z",
+      "summary": "\nWASHINGTON — As Artemis 2 approaches the moon, a NASA science team is finalizing plans for the observations they want the astronauts to perform during their flyby. At an April 4 briefing, a representative of the mission’s science team said they were working to complete a plan of observations by the astronauts on April 6, […]\nThe post NASA finalizes science plans for Artemis 2 lunar flyby appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art002e004357-large.jpg?fit=1024%2C768&ssl=1",
+      "link": "https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "event_1402",
       "type": "event",
       "title": "Artemis II Live CSA Downlink Event (April 5)",
@@ -2523,10 +2457,54 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "news_37294",
+      "type": "news",
+      "title": "Thinking of You, Earth",
+      "date": "2026-04-05T14:04:33Z",
+      "summary": "On April 4, 2026, NASA astronaut and Artemis II Commander Reid Wiseman peers out of one of the Orion spacecraft’s main cabin windows, looking back at Earth, as the crew travels towards the Moon. The Artemis II astronauts – Wiseman and fellow NASA astronauts Christina Koch and Victor Glover, and CSA (Canadian Space Agency) astronaut […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e008486orig.jpg",
+      "link": "https://www.nasa.gov/image-article/thinking-of-you-earth/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37295",
+      "type": "news",
+      "title": "What’s Happening in Space Policy April 5-11, 2026",
+      "date": "2026-04-05T19:34:43Z",
+      "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of April 5-11, 2026 and any insight we can offer about them.  The House and Senate are in recess […]",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Earth-after-TLI-Apr-2-26-300x200.webp",
+      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-5-11-2026/",
+      "news_site": "SpacePolicyOnline.com",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37296",
+      "type": "news",
+      "title": "NASA stops work on SLS Mobile Launcher 2",
+      "date": "2026-04-05T20:29:48Z",
+      "summary": "\nNASA has stopped work on a second mobile launch platform intended for an upgraded version of the Space Launch System the agency no longer plans to develop.\nThe post NASA stops work on SLS Mobile Launcher 2 appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ml2-march2026.jpeg?fit=1024%2C682&ssl=1",
+      "link": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37297",
+      "type": "news",
+      "title": "Isaacman defends NASA budget proposal despite steep cuts",
+      "date": "2026-04-05T22:20:09Z",
+      "summary": "\nNASA Administrator Jared Isaacman defended a fiscal year 2027 budget proposal that would cut the agency’s budget by nearly 25%.\nThe post Isaacman defends NASA budget proposal despite steep cuts appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55165945281_2a9ea0fb1e_k.jpg?fit=1024%2C727&ssl=1",
+      "link": "https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "event_1392",
       "type": "event",
       "title": "Artemis II Daily Mission Status Briefing (April 5)",
-      "date": "2026-04-05T19:30:00Z",
+      "date": "2026-04-05T22:30:00Z",
       "description": "NASA provides daily Artemis II mission status briefings from NASA’s Johnson Space Center in Houston beginning Thursday, April 2, except for April 6, due to lunar flyby activities.",
       "location": "Johnson Space Center, Houston, TX, USA",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_roll_image_20260127022614.jpg",
@@ -2534,10 +2512,21 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "news_37298",
+      "type": "news",
+      "title": "Artemis astronauts send down Easter message, prep for lunar fly around Monday",
+      "date": "2026-04-05T23:57:02Z",
+      "summary": "Taking time out to send Easter greetings down to Earth, the four Artemis II astronauts closed in on the moon Sunday, already seeing unexpected detail on the surface and giving scientists a taste of things to come during a pass over the lunar far side Monday evening. ",
+      "image": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260405-Wiseman-Window.jpg",
+      "link": "https://spaceflightnow.com/2026/04/05/artemis-astronauts-send-down-easter-message-prep-for-lunar-fly-around-monday/",
+      "news_site": "Spaceflight Now",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "launch_becc7e9c-72cc-4eb5-a638-1af4491a5729",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 17-35",
-      "date": "2026-04-05T23:03:00Z",
+      "date": "2026-04-06T02:56:19Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "Starlink Group 17-35",
@@ -2545,7 +2534,7 @@
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
       "probability": null,
-      "webcast": "https://x.com/i/broadcasts/1lKQRvlyyOaGE",
+      "webcast": "https://www.youtube.com/watch?v=MuPWumVxZbk",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/becc7e9c-72cc-4eb5-a638-1af4491a5729/",
       "source": "Launch Library 2"
@@ -2631,11 +2620,11 @@
     {
       "id": "launch_5ed6ab75-8c5b-4013-93e1-1deb56b14f1d",
       "type": "launch",
-      "title": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24",
+      "title": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
       "date": "2026-04-08T12:51:00Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
-      "mission": "Cygnus CRS-2 NG-24",
+      "mission": "Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
       "description": "This is the 24th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 23rd flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
       "pad": "Space Launch Complex 40",
       "status": "Go for Launch",
@@ -3637,6 +3626,23 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/a0e0f590-1cb4-4b6b-845c-0087633af132/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_a8d8d683-3ab0-40ab-beb0-e66bb55afd91",
+      "type": "launch",
+      "title": "Nebula-1 | Demo Flight",
+      "date": "2026-06-30T00:00:00Z",
+      "provider": "Deep Blue Aerospace",
+      "rocket": "Nebula-1",
+      "mission": "Demo Flight",
+      "description": "First test launch of Deep Blue Aerospace’s Nebula-1 rocket.\r\n\r\nThe test flight profile is reported to be sub-orbital.",
+      "pad": "Land Launch Pad 1",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": null,
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/a8d8d683-3ab0-40ab-beb0-e66bb55afd91/",
       "source": "Launch Library 2"
     },
     {
@@ -5350,23 +5356,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_a8d8d683-3ab0-40ab-beb0-e66bb55afd91",
-      "type": "launch",
-      "title": "Nebula-1 | Demo Flight",
-      "date": "2026-12-31T00:00:00Z",
-      "provider": "Deep Blue Aerospace",
-      "rocket": "Nebula-1",
-      "mission": "Demo Flight",
-      "description": "First test launch of Deep Blue Aerospace’s Nebula-1 rocket.",
-      "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": null,
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/a8d8d683-3ab0-40ab-beb0-e66bb55afd91/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
       "type": "launch",
       "title": "New Glenn | Amazon Leo (New Glenn #1)",
@@ -6510,7 +6499,7 @@
       "status": "To Be Determined",
       "probability": null,
       "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/space_launch_sy_image_20220331082429.jpeg",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/space_launch_sy_image_20260405204639.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/8034d81b-af96-460c-a7b7-5c8e7f1a1d86/",
       "source": "Launch Library 2"
     },
