@@ -1,6 +1,6 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-04-18T01:52:20.352214+00:00",
+  "generated_at": "2026-04-19T02:05:21.227072+00:00",
   "total_events_captured": 631,
   "events": [
     {
@@ -312,58 +312,14 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "news_37361",
+      "id": "news_37364",
       "type": "news",
-      "title": "Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down",
-      "date": "2026-04-09T10:26:44Z",
-      "summary": "\nThe contract supports next-generation GPS IIIF satellites through 2030\nThe post Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/11/GPS_OCX_hero_1.jpg?fit=1024%2C683&ssl=1",
-      "link": "https://spacenews.com/lockheed-martin-wins-105-million-contract-for-gps-ground-control-system-as-ocx-winds-down/",
+      "title": "What returning to lunar space means for human health",
+      "date": "2026-04-09T13:00:00Z",
+      "summary": "Preparing to send astronauts back to the moon is no small feat. Spaceflight exposes the body to both known and unknown risks, some of which are subtle, cumulative, and difficult to predict. When humans were last on the lunar surface in 1972, they stayed for just over three days. On that final mission, Apollo astronauts […]\r\nThe post What returning to lunar space means for human health appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art002e009288-large.jpg?fit=1024%2C683&ssl=1",
+      "link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
       "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37371",
-      "type": "news",
-      "title": "China debuts new launchers, tests orbital servicing and outlines future deep-space missions",
-      "date": "2026-04-09T10:48:10Z",
-      "summary": "CAS Space and Space Pioneer have both debuted new Chinese commercial launchers within days of…\r\nThe post China debuts new launchers, tests orbital servicing and outlines future deep-space missions appeared first on NASASpaceFlight.com.",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/Lijian-2-Kinetica-2-launches-from-Jiuquan-on-March-30-drone-view-CAS-Space.png",
-      "link": "https://www.nasaspaceflight.com/2026/04/china-roundup-202604/",
-      "news_site": "NASASpaceflight",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37362",
-      "type": "news",
-      "title": "Albedo prepares second VLEO mission for 2027 launch",
-      "date": "2026-04-09T11:00:00Z",
-      "summary": "\nSAN FRANCISCO – Albedo, the former Earth-observation startup now focused on satellite manufacturing, announced plans April 9 to send its second spacecraft into very low-Earth orbit (VLEO). Vicinity, scheduled to launch in 2027, will deploy solar arrays to provide far more power than the solar panels mounted on Precision, the bus that housed Albedo’s 2025 […]\nThe post Albedo prepares second VLEO mission for 2027 launch appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_1vicinity.png?fit=879%2C494&ssl=1",
-      "link": "https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37363",
-      "type": "news",
-      "title": "Space Force taps 14 firms for $1.8 billion GEO surveillance program",
-      "date": "2026-04-09T11:26:24Z",
-      "summary": "\nThe companies will compete for contracts to build ‘neighborhood watch’ satellites\nThe post Space Force taps 14 firms for $1.8 billion GEO surveillance program appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/161021-D-ZZ999-998-e1771452020431.jpg?fit=1024%2C550&ssl=1",
-      "link": "https://spacenews.com/space-force-taps-14-firms-for-1-8-billion-geo-surveillance-program/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37367",
-      "type": "news",
-      "title": "Pointing in the (b)right direction",
-      "date": "2026-04-09T12:00:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/pointing_in_the_b_right_direction/27196991-1-eng-GB/Pointing_in_the_b_right_direction_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Pointing_in_the_b_right_direction",
-      "news_site": "ESA",
       "source": "Spaceflight News API"
     },
     {
@@ -374,17 +330,6 @@
       "summary": "\nSpace mobility company Portal Space Systems has raised $50 million to scale up development of its highly maneuverable spacecraft.\nThe post Portal Space Systems raises $50 million to accelerate spacecraft development appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/portal-supernova-starburst.jpeg?fit=1024%2C576&ssl=1",
       "link": "https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37364",
-      "type": "news",
-      "title": "What returning to lunar space means for human health",
-      "date": "2026-04-09T13:00:00Z",
-      "summary": "Preparing to send astronauts back to the moon is no small feat. Spaceflight exposes the body to both known and unknown risks, some of which are subtle, cumulative, and difficult to predict. When humans were last on the lunar surface in 1972, they stayed for just over three days. On that final mission, Apollo astronauts […]\r\nThe post What returning to lunar space means for human health appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art002e009288-large.jpg?fit=1024%2C683&ssl=1",
-      "link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
       "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
@@ -1500,6 +1445,17 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_37495",
+      "type": "news",
+      "title": "Nutrition Research Arrives Aboard Space Station",
+      "date": "2026-04-14T14:00:00Z",
+      "summary": "No matter how far humanity aims to travel or how ambitious the mission, nutrition will play a key role for the crew members on distant worlds. Before planning long-term stays on the Moon, Mars, and beyond, humans must learn to grow and care for plants and other sources of nutrition like algae to keep the […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2024/01/nasa-astronaut-jessica-meir-dines-on-fresh-mizuna-mustard-greens-49025620532-o.jpg",
+      "link": "https://www.nasa.gov/missions/station/iss-research/nutrition-research-arrives-aboard-space-station/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "news_37496",
       "type": "news",
       "title": "NASA’s Webb Redefines Dividing Line Between Planets, Stars",
@@ -1519,17 +1475,6 @@
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/bae.png?fit=1021%2C1024&ssl=1",
       "link": "https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/",
       "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37495",
-      "type": "news",
-      "title": "Nutrition Research Arrives Aboard Space Station",
-      "date": "2026-04-14T14:00:00Z",
-      "summary": "No matter how far humanity aims to travel or how ambitious the mission, nutrition will play a key role for the crew members on distant worlds. Before planning long-term stays on the Moon, Mars, and beyond, humans must learn to grow and care for plants and other sources of nutrition like algae to keep the […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2024/01/nasa-astronaut-jessica-meir-dines-on-fresh-mizuna-mustard-greens-49025620532-o.jpg",
-      "link": "https://www.nasa.gov/missions/station/iss-research/nutrition-research-arrives-aboard-space-station/",
-      "news_site": "NASA",
       "source": "Spaceflight News API"
     },
     {
@@ -2490,6 +2435,17 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_37594",
+      "type": "news",
+      "title": "ESA’s Mars Rover to Launch Aboard SpaceX Falcon Heavy in 2028",
+      "date": "2026-04-17T10:23:56Z",
+      "summary": "NASA has selected a SpaceX Falcon Heavy to launch the European Space Agency’s Rosalind Franklin Mars rover no earlier than late 2028. The US space agency’s responsibility to procure launch services for the rover stems from a May 2024 partnership agreement that tasked NASA with this element of the mission as part of its contributions. […]\nThe post ESA’s Mars Rover to Launch Aboard SpaceX Falcon Heavy in 2028 appeared first on European Spaceflight.",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/04/ESAs-Mars-Rover-to-Launch-Aboard-SpaceX-Falcon-Heavy-in-2028.webp",
+      "link": "https://europeanspaceflight.com/esas-mars-rover-to-launch-aboard-spacex-falcon-heavy-in-2028/",
+      "news_site": "European Spaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "news_37582",
       "type": "news",
       "title": "D2D services are at risk of becoming too complicated and siloed",
@@ -2611,21 +2567,48 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "launch_0727a92f-0a9c-4e01-9bf4-1dc698e17e6b",
-      "type": "launch",
-      "title": "Falcon 9 Block 5 | Starlink Group 17-22",
-      "date": "2026-04-18T16:01:20Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "Starlink Group 17-22",
-      "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": "https://www.youtube.com/watch?v=FVpZ1n7sF9I",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/0727a92f-0a9c-4e01-9bf4-1dc698e17e6b/",
-      "source": "Launch Library 2"
+      "id": "news_37593",
+      "type": "news",
+      "title": "Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission",
+      "date": "2026-04-18T06:45:49Z",
+      "summary": "The Starlink 17-22 will see SpaceX launch 25 broadband internet satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:33:40 a.m. PDT (10:33:40 a.m. EDT / 1433:40 UTC). ",
+      "image": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
+      "link": "https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/",
+      "news_site": "Spaceflight Now",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37595",
+      "type": "news",
+      "title": "Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter",
+      "date": "2026-04-18T21:28:40Z",
+      "summary": "Commercial space station developer Vast has blended fashion with functionality while laying groundwork for the…\nThe post Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-18-22-21-59-920.jpg",
+      "link": "https://www.nasaspaceflight.com/2026/04/vast-astronaut-flight-suit-docking-adapter/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37596",
+      "type": "news",
+      "title": "New Glenn set to launch on third mission, reuse booster for the first time",
+      "date": "2026-04-18T23:04:21Z",
+      "summary": "Just over five months after the launch of its second mission, Blue Origin’s partially reusable…\nThe post New Glenn set to launch on third mission, reuse booster for the first time appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_7032.jpeg",
+      "link": "https://www.nasaspaceflight.com/2026/04/ng-3-launch/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37597",
+      "type": "news",
+      "title": "Live Coverage: Third flight of Blue Origin’s New Glenn rocket to feature 1st reuse of booster",
+      "date": "2026-04-19T01:34:44Z",
+      "summary": "Blue Origin plans to launch its third New Glenn rocket from Cape Canaveral Sunday during a two-hour window that opens at 6:45 a.m. EDT (1045 UTC). It will carry AST SpaceMobile’s BlueBird 7 satellite to provide direct to cell phone services from space. ",
+      "image": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260418-NG-3-Pad-shot.jpg",
+      "link": "https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/",
+      "news_site": "Spaceflight Now",
+      "source": "Spaceflight News API"
     },
     {
       "id": "launch_53769468-bfd3-45c7-a52b-46a68ed7510f",
@@ -2642,6 +2625,23 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_th_image_20251113164507.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/53769468-bfd3-45c7-a52b-46a68ed7510f/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_0727a92f-0a9c-4e01-9bf4-1dc698e17e6b",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | Starlink Group 17-22",
+      "date": "2026-04-19T14:34:20Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "Starlink Group 17-22",
+      "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": "https://www.youtube.com/watch?v=FVpZ1n7sF9I",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/0727a92f-0a9c-4e01-9bf4-1dc698e17e6b/",
       "source": "Launch Library 2"
     },
     {
@@ -2704,7 +2704,7 @@
       "id": "launch_20418dc6-1870-4018-adda-1e6156717f02",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 17-14",
-      "date": "2026-04-22T02:00:00Z",
+      "date": "2026-04-23T02:00:00Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "Starlink Group 17-14",
@@ -2922,23 +2922,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "type": "launch",
-      "title": "Spectrum | Onward and Upward",
-      "date": "2026-04-30T00:00:00Z",
-      "provider": "Isar Aerospace",
-      "rocket": "Spectrum",
-      "mission": "Onward and Upward",
-      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
-      "pad": "Orbital Launch Pad",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/1b23eb18-e06e-4058-9b42-e95ca0980511/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_b31313da-ee5d-42b2-9a27-20cc18105276",
       "type": "launch",
       "title": "Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
@@ -3049,6 +3032,23 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/e60aa241-1f2c-4459-ba94-2f576c3e5632/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "type": "launch",
+      "title": "Spectrum | Onward and Upward",
+      "date": "2026-05-31T00:00:00Z",
+      "provider": "Isar Aerospace",
+      "rocket": "Spectrum",
+      "mission": "Onward and Upward",
+      "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
+      "pad": "Orbital Launch Pad",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/1b23eb18-e06e-4058-9b42-e95ca0980511/",
       "source": "Launch Library 2"
     },
     {
