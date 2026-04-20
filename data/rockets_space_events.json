@@ -1,19 +1,8 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-04-19T02:05:21.227072+00:00",
-  "total_events_captured": 631,
+  "generated_at": "2026-04-20T02:06:01.827622+00:00",
+  "total_events_captured": 629,
   "events": [
-    {
-      "id": "event_1336",
-      "type": "event",
-      "title": "Artemis II SLS Rollout #2",
-      "date": "2026-03-20T00:00:00Z",
-      "description": "NASA will roll out their second fully stacked Space Launch System (SLS) rocket back to LC-39B after a rollback from the pad to investigate issues with the upper stage helium tanks. The rollout is expected to take up to 12 hours.",
-      "location": "Kennedy Space Center, FL, USA",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_roll_image_20260127022614.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1336/",
-      "source": "Launch Library 2"
-    },
     {
       "id": "event_1379",
       "type": "event",
@@ -310,39 +299,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/orion_image_20231118102035.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1406/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_37364",
-      "type": "news",
-      "title": "What returning to lunar space means for human health",
-      "date": "2026-04-09T13:00:00Z",
-      "summary": "Preparing to send astronauts back to the moon is no small feat. Spaceflight exposes the body to both known and unknown risks, some of which are subtle, cumulative, and difficult to predict. When humans were last on the lunar surface in 1972, they stayed for just over three days. On that final mission, Apollo astronauts […]\r\nThe post What returning to lunar space means for human health appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/art002e009288-large.jpg?fit=1024%2C683&ssl=1",
-      "link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37365",
-      "type": "news",
-      "title": "Portal Space Systems raises $50 million to accelerate spacecraft development",
-      "date": "2026-04-09T13:00:00Z",
-      "summary": "\nSpace mobility company Portal Space Systems has raised $50 million to scale up development of its highly maneuverable spacecraft.\nThe post Portal Space Systems raises $50 million to accelerate spacecraft development appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/portal-supernova-starburst.jpeg?fit=1024%2C576&ssl=1",
-      "link": "https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37366",
-      "type": "news",
-      "title": "Moon joy, Earth love",
-      "date": "2026-04-09T13:32:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/moon_joy_earth_love/27197038-1-eng-GB/Moon_joy_Earth_love_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Moon_joy_Earth_love",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_37368",
@@ -2578,6 +2534,17 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_37598",
+      "type": "news",
+      "title": "Antitrust Authority Approves Creation of Rheinmetall-OHB Satellite Joint Venture",
+      "date": "2026-04-18T11:28:54Z",
+      "summary": "The Federal Cartel Office (Bundeskartellamt), Germany’s independent competition authority, has approved a new joint venture between Rheinmetall and OHB. In a 16 April announcement, the Bundeskartellamt explained that the new subsidiary will be used to bid for a German armed forces public procurement contract. In September 2025, the German government announced that it had committed […]\nThe post Antitrust Authority Approves Creation of Rheinmetall-OHB Satellite Joint Venture appeared first on European Spaceflight.",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/04/Antitrust-Authority-Approves-Creation-of-Rheinmetall-OHB-Satellite-Joint-Venture-.webp",
+      "link": "https://europeanspaceflight.com/antitrust-authority-approves-creation-of-rheinmetall-ohb-satellite-joint-venture/",
+      "news_site": "European Spaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "news_37595",
       "type": "news",
       "title": "Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter",
@@ -2611,55 +2578,26 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "launch_53769468-bfd3-45c7-a52b-46a68ed7510f",
-      "type": "launch",
-      "title": "New Glenn | BlueBird Block 2 #2",
-      "date": "2026-04-19T10:45:00Z",
-      "provider": "Blue Origin",
-      "rocket": "New Glenn",
-      "mission": "BlueBird Block 2 #2",
-      "description": "AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.",
-      "pad": "Launch Complex 36A",
-      "status": "Go for Launch",
-      "probability": 90,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_th_image_20251113164507.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/53769468-bfd3-45c7-a52b-46a68ed7510f/",
-      "source": "Launch Library 2"
+      "id": "news_37599",
+      "type": "news",
+      "title": "What’s Happening in Space Policy April 19-25, 2026",
+      "date": "2026-04-19T22:20:47Z",
+      "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of April 19-25, 2026 and any insight we can offer about them. The House and Senate are in session […]",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-Isaacman-Apr-11-26-welcome-home-300x169.png",
+      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-19-25-2026/",
+      "news_site": "SpacePolicyOnline.com",
+      "source": "Spaceflight News API"
     },
     {
-      "id": "launch_0727a92f-0a9c-4e01-9bf4-1dc698e17e6b",
-      "type": "launch",
-      "title": "Falcon 9 Block 5 | Starlink Group 17-22",
-      "date": "2026-04-19T14:34:20Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "Starlink Group 17-22",
-      "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": "https://www.youtube.com/watch?v=FVpZ1n7sF9I",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/0727a92f-0a9c-4e01-9bf4-1dc698e17e6b/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_2c5686ec-b0fd-4987-935d-587e3c85fa2d",
-      "type": "launch",
-      "title": "Falcon 9 Block 5 | GPS III SV10",
-      "date": "2026-04-20T06:57:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "GPS III SV10",
-      "description": "Tenth of ten GPS III missions.",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": "https://x.com/i/broadcasts/1nGnRYzeRzEGO",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/2c5686ec-b0fd-4987-935d-587e3c85fa2d/",
-      "source": "Launch Library 2"
+      "id": "news_37600",
+      "type": "news",
+      "title": "AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch",
+      "date": "2026-04-19T22:46:07Z",
+      "summary": "Following Blue Origin’s milestone of successfully landing a previously flown first-stage booster for the first…\nThe post AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-19-23-30-22-253-wmarked.jpg",
+      "link": "https://www.nasaspaceflight.com/2026/04/ast-bluebird-7-lost-new-glenn-launch/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
     },
     {
       "id": "event_1410",
@@ -2670,6 +2608,23 @@
       "location": "International Space Station",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/progress2520ms-112520docking_image_20190318202147.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1410/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_2c5686ec-b0fd-4987-935d-587e3c85fa2d",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | GPS III SV10",
+      "date": "2026-04-21T06:53:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "GPS III SV10",
+      "description": "Tenth of ten GPS III missions.",
+      "pad": "Space Launch Complex 40",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": "https://www.youtube.com/watch?v=ZQA2q5dqly0",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/2c5686ec-b0fd-4987-935d-587e3c85fa2d/",
       "source": "Launch Library 2"
     },
     {
@@ -2823,7 +2778,7 @@
       "id": "launch_6bfe08b4-a35d-4297-8de7-dec0eb678eb6",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 17-36",
-      "date": "2026-04-29T11:00:00Z",
+      "date": "2026-04-29T02:00:00Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "Starlink Group 17-36",
@@ -2964,6 +2919,23 @@
       "location": "International Space Station",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/us2520eva-52_image_20190318200748.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1309/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_b3877a27-7332-47cb-ac46-12a32143081b",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | Starlink Group 10-38",
+      "date": "2026-05-01T17:33:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "Starlink Group 10-38",
+      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "pad": "Space Launch Complex 40",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": "https://x.com/i/broadcasts/1rGmqobLdrDGy",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/b3877a27-7332-47cb-ac46-12a32143081b/",
       "source": "Launch Library 2"
     },
     {
@@ -3893,6 +3865,23 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/hanbit-nano_spa_image_20251224011159.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/7c891a0b-7194-4425-8cfd-2e8c75af2924/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_98ec4234-8c4e-4365-b6c5-6b89da53f8dd",
+      "type": "launch",
+      "title": "New Glenn | Blue Moon Pathfinder",
+      "date": "2026-09-30T00:00:00Z",
+      "provider": "Blue Origin",
+      "rocket": "New Glenn",
+      "mission": "Blue Moon Pathfinder",
+      "description": "First flight of Blue Origin's Blue Moon MK1 lunar lander, MK1-SN001 \"Endurance\".",
+      "pad": "Launch Complex 36A",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/98ec4234-8c4e-4365-b6c5-6b89da53f8dd/",
       "source": "Launch Library 2"
     },
     {
@@ -5337,23 +5326,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/f0460950-3cb6-4889-8cbe-707f063d0565/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_98ec4234-8c4e-4365-b6c5-6b89da53f8dd",
-      "type": "launch",
-      "title": "New Glenn | Blue Moon Pathfinder",
-      "date": "2026-12-31T00:00:00Z",
-      "provider": "Blue Origin",
-      "rocket": "New Glenn",
-      "mission": "Blue Moon Pathfinder",
-      "description": "First flight of Blue Origin's Blue Moon MK1 lunar lander, MK1-SN001 \"Endurance\".",
-      "pad": "Launch Complex 36A",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/98ec4234-8c4e-4365-b6c5-6b89da53f8dd/",
       "source": "Launch Library 2"
     },
     {
