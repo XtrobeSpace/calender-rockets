@@ -1,7 +1,7 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-04-20T02:06:01.827622+00:00",
-  "total_events_captured": 629,
+  "generated_at": "2026-04-21T02:02:15.242122+00:00",
+  "total_events_captured": 630,
   "events": [
     {
       "id": "event_1379",
@@ -301,116 +301,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "news_37368",
-      "type": "news",
-      "title": "A new kind of arsenal: commercial satellites",
-      "date": "2026-04-09T14:00:00Z",
-      "summary": "\nhe Pentagon is no longer asking whether commercial space will matter in future conflicts. It is building a strategy around the assumption that it will.\nThe post A new kind of arsenal: commercial satellites appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/250717-X-X0813-102-e1775598237108.jpg?fit=1024%2C582&ssl=1",
-      "link": "https://spacenews.com/a-new-kind-of-arsenal-commercial-satellites/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37369",
-      "type": "news",
-      "title": "China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations",
-      "date": "2026-04-09T14:23:45Z",
-      "summary": "China carried out separate Long March 8 and Long March 6A launches this week, adding new batches of satellites to the country’s megaconstellation projects.\r\nThe post China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/CZ6A-Guowang21-TSLC-8april2026-CASC.jpg?fit=1024%2C601&ssl=1",
-      "link": "https://spacenews.com/china-conducts-pair-of-long-march-launches-for-thousand-sails-and-guowang-megaconstellations/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37370",
-      "type": "news",
-      "title": "Heather Pringle on the upcoming Space Symposium and future international collaboration in space",
-      "date": "2026-04-09T14:59:11Z",
-      "summary": "\nIn this episode of the Space Minds podcast, SpaceNews’ Mike Gruss interviews Heather Pringle, a retired Major General of the US Air Force who is now the CEO of the […]\nThe post Heather Pringle on the upcoming Space Symposium and future international collaboration in space appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/space-minds-podcast-pringle-space-foundation-2000-1500.jpg?fit=1024%2C768&ssl=1",
-      "link": "https://spacenews.com/heather-pringle-on-the-upcoming-space-symposium-and-future-international-collaboration-in-space/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37372",
-      "type": "news",
-      "title": "PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher",
-      "date": "2026-04-09T18:34:17Z",
-      "summary": "MILAN – PLD Space signed a 30 million euro ($35 million) venture debt loan with the European Investment Bank (EIB) on April 7, a move to support the final development stage of MIURA 5, PLD’s lightweight rocket. Miura 5, which is designed to deploy roughly 540 kilograms to 1 ton of payload to low Earth […]\r\nThe post PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/10/miura1-launch.jpg?fit=1024%2C682&ssl=1",
-      "link": "https://spacenews.com/pld-space-secures-35-million-european-investment-bank-loan-for-miura-5-launcher/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37373",
-      "type": "news",
-      "title": "Supporting Artemis II From JPL’s Space Flight Operations Facility",
-      "date": "2026-04-09T18:57:26Z",
-      "summary": "Description The Artemis II mission patch appears in the center screen of the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory in Southern California on April 1, 2026, shortly before the mission launched to the Moon. A graphical representation of the antennas of the agency’s Deep Space Network (DSN), left, indicates which antennas are […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26741/PIA26741.jpg",
-      "link": "https://science.nasa.gov/photojournal/supporting-artemis-ii-from-jpls-space-flight-operations-facility/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37379",
-      "type": "news",
-      "title": "JPL’s ‘Lucky Peanuts’ Before Artemis II Launch",
-      "date": "2026-04-09T19:06:34Z",
-      "summary": "Description A container of “lucky peanuts” sits above workstations within the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory shortly before the launch of the Artemis II mission to the Moon on April 1, 2026. Eating peanuts before launches and other major mission events is a longstanding tradition at JPL. The Space Flight Operations Facility operates […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26742/PIA26742.jpg",
-      "link": "https://science.nasa.gov/photojournal/jpls-lucky-peanuts-before-artemis-ii-launch/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37378",
-      "type": "news",
-      "title": "Watching the Artemis II Launch From JPL’s Space Flight Operations Facility",
-      "date": "2026-04-09T19:12:04Z",
-      "summary": "Description Staff at NASA’s Jet Propulsion Laboratory in Southern California watch the launch of the agency’s Artemis II mission to the Moon on April 1, 2026, at the Space Flight Operations Facility, which operates the Deep Space Network (DSN). Soon after launch, the Artemis II crew communicated with the Near Space Network while they were […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26743/PIA26743.jpg",
-      "link": "https://science.nasa.gov/photojournal/watching-the-artemis-ii-launch-from-jpls-space-flight-operations-facility/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37377",
-      "type": "news",
-      "title": "Watching Over the Deep Space Network Before Artemis II Signal Acquisition",
-      "date": "2026-04-09T19:17:20Z",
-      "summary": "Description Blanca Renteria, Artemis Deep Space Network (DSN) operations chief, monitors data at the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory in Southern California shortly after Artemis II launched from the agency’s Kennedy Space Flight Center in Florida on April 1, 2026, at 6:35 p.m. EDT. The Space Flight Operations Facility operates the […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26744/PIA26744.jpg",
-      "link": "https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37376",
-      "type": "news",
-      "title": "The Deep Space Network Acquires Artemis II Signal",
-      "date": "2026-04-09T19:22:28Z",
-      "summary": "Description The acquisition of the radio frequency signal from the Artemis II crewed mission to the Moon by NASA’s Deep Space Network (DSN) is indicated by the peak in the data signal shown on the top computer screen.  Soon after the mission’s launch on April 1, 2026, at 6:35 p.m. EDT, NASA’s Near Space Network […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26745/PIA26745.jpg",
-      "link": "https://science.nasa.gov/photojournal/the-deep-space-network-acquires-artemis-ii-signal/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37375",
-      "type": "news",
-      "title": "The Deep Space Network Acquires Artemis II Signal",
-      "date": "2026-04-09T19:28:07Z",
-      "summary": "Description A graphical representation of the Deep Space Network’s radio frequency antennas indicate signal acquisition from NASA’s Artemis II mission to the Moon on April 1, 2026, inside the Space Flight Operations Facility at NASA’s Jet Propulsion Laboratory in Southern California. Two antennas at the Madrid Deep Space Communications Complex, Deep Space Station 54 and […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26746/PIA26746.jpg",
-      "link": "https://science.nasa.gov/photojournal/the-deep-space-network-acquires-artemis-ii-signal-2/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "event_1395",
       "type": "event",
       "title": "Artemis II Daily Mission Status Briefing (April 9)",
@@ -420,39 +310,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_roll_image_20260127022614.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1395/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_37374",
-      "type": "news",
-      "title": "Watching the Artemis II Mission Unfold at JPL’s Space Flight Operations Facility",
-      "date": "2026-04-09T19:32:29Z",
-      "summary": "Description Staff at NASA’s Jet Propulsion Laboratory in Southern California watch the agency’s Artemis II mission unfold soon after launch on April 1, 2026, at the Space Flight Operations Facility, which operates the Deep Space Network (DSN). The DSN comprises of three complexes in Goldstone, California; Madrid, Spain; and Canberra, Australia. Each complex has several […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26747/PIA26747.jpg",
-      "link": "https://science.nasa.gov/photojournal/watching-the-artemis-ii-mission-unfold-at-jpls-space-flight-operations-facility/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37380",
-      "type": "news",
-      "title": "Starstruck",
-      "date": "2026-04-09T20:29:32Z",
-      "summary": "The Artemis II crew captured this photo of our galaxy, the Milky Way, on April 7, 2026. The Milky Way’s elegant spiral structure is dominated by just two arms wrapping off the ends of a central bar of stars. Spanning more than 100,000 light-years, Earth is located along one of the galaxy’s spiral arms, about […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e012588orig.jpg",
-      "link": "https://www.nasa.gov/image-article/starstruck/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37381",
-      "type": "news",
-      "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
-      "date": "2026-04-09T21:21:53Z",
-      "summary": "WindShaper A large WindShaper fan array is available for dynamic low-speed and hovering flight research.  The WindShaper is ideal for generating arbitrary wind gradients and wind gusts via a simple Python API.  A companion WindProbe is also available for quick surveys of flows.  The WindProbe utilizes the lab’s OptiTrack motion capture system to extract the […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/windshaper-pic-1.png",
-      "link": "https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_37382",
@@ -466,17 +323,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37429",
-      "type": "news",
-      "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
-      "date": "2026-04-09T21:54:19Z",
-      "summary": "Windshaper A large WindShaper fan array is available for dynamic low-speed and hovering flight research.  The WindShaper is ideal for generating arbitrary wind gradients and wind gusts via a simple Python API.  A companion WindProbe is also available for quick surveys of flows.  The WindProbe utilizes the lab’s OptiTrack motion capture system to extract the […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2023/07/windshaper-pic-2.png",
-      "link": "https://www.nasa.gov/centers-and-facilities/ames/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37383",
       "type": "news",
       "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
@@ -484,6 +330,17 @@
       "summary": "Windshaper A large WindShaper fan array is available for dynamic low-speed and hovering flight research.  The WindShaper is ideal for generating arbitrary wind gradients and wind gusts via a simple Python API.  A companion WindProbe is also available for quick surveys of flows.  The WindProbe utilizes the lab’s OptiTrack motion capture system to extract the […]",
       "image": "https://www.nasa.gov/wp-content/uploads/2023/07/windshaper-pic-2.png",
       "link": "https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37429",
+      "type": "news",
+      "title": "Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)",
+      "date": "2026-04-09T21:54:19Z",
+      "summary": "Windshaper A large WindShaper fan array is available for dynamic low-speed and hovering flight research.  The WindShaper is ideal for generating arbitrary wind gradients and wind gusts via a simple Python API.  A companion WindProbe is also available for quick surveys of flows.  The WindProbe utilizes the lab’s OptiTrack motion capture system to extract the […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2023/07/windshaper-pic-2.png",
+      "link": "https://www.nasa.gov/centers-and-facilities/ames/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/",
       "news_site": "NASA",
       "source": "Spaceflight News API"
     },
@@ -972,17 +829,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37457",
-      "type": "news",
-      "title": "Atomic-6 unveils online marketplace for orbital data centers",
-      "date": "2026-04-13T13:00:00Z",
-      "summary": "\nODC.space aims to streamline procurement of satellites for on-orbit computing\nThe post Atomic-6 unveils online marketplace for orbital data centers appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ODC-Logo-Black.png?fit=583%2C436&ssl=1",
-      "link": "https://spacenews.com/atomic-6-unveils-online-marketplace-for-orbital-data-centers/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37458",
       "type": "news",
       "title": "Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.",
@@ -990,6 +836,17 @@
       "summary": "\nEarth’s orbit is “on track for a catastrophe.” That was the rather alarming prediction of the authors of a recent piece published in The Conversation. As the argument goes, orbit is filling up fast, and both nation-states and private companies plan to add tens of thousands of spacecraft to the thousands already there. This has […]\nThe post Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis. appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/10/Screenshot-2023-10-04-at-9.53.41%E2%80%AFAM.png?fit=1024%2C556&ssl=1",
       "link": "https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37457",
+      "type": "news",
+      "title": "Atomic-6 unveils online marketplace for orbital data centers",
+      "date": "2026-04-13T13:00:00Z",
+      "summary": "\nODC.space aims to streamline procurement of satellites for on-orbit computing\nThe post Atomic-6 unveils online marketplace for orbital data centers appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/ODC-Logo-Black.png?fit=583%2C436&ssl=1",
+      "link": "https://spacenews.com/atomic-6-unveils-online-marketplace-for-orbital-data-centers/",
       "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
@@ -1313,17 +1170,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37488",
-      "type": "news",
-      "title": "L3Harris investing upfront in bid for Golden Dome work",
-      "date": "2026-04-14T09:00:00Z",
-      "summary": "\nSam Mehta: ‘We’ve invested hundreds of millions of dollars in inventory, getting long lead parts and components on order’\nThe post L3Harris investing upfront in bid for Golden Dome work appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/PalmBay2_LHX-2026.jpg-scaled.jpeg?fit=1024%2C683&ssl=1",
-      "link": "https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37452",
       "type": "news",
       "title": "First Proba-3 science: surprisingly speedy solar wind",
@@ -1332,6 +1178,17 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/proba-3_tracks_solar_wind_moving_close_to_the_sun/27200925-1-eng-GB/Proba-3_tracks_solar_wind_moving_close_to_the_Sun_card_full.png",
       "link": "https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind",
       "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37488",
+      "type": "news",
+      "title": "L3Harris investing upfront in bid for Golden Dome work",
+      "date": "2026-04-14T09:00:00Z",
+      "summary": "\nSam Mehta: ‘We’ve invested hundreds of millions of dollars in inventory, getting long lead parts and components on order’\nThe post L3Harris investing upfront in bid for Golden Dome work appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/PalmBay2_LHX-2026.jpg-scaled.jpeg?fit=1024%2C683&ssl=1",
+      "link": "https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/",
+      "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
     {
@@ -1412,17 +1269,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37496",
-      "type": "news",
-      "title": "NASA’s Webb Redefines Dividing Line Between Planets, Stars",
-      "date": "2026-04-14T14:00:00Z",
-      "summary": "Planets, like those in our solar system, form in a bottom-up process where small bits of rock and ice clump together and grow larger over time. But the heftier the planet, the harder it is to explain its formation that way. Astronomers used NASA’s James Webb Space Telescope to examine 29 Cygni b, an object […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/04/STScI-01KHV7GAYRJ1X6T6TG3VJ6H5F4.png",
-      "link": "https://science.nasa.gov/missions/webb/nasas-webb-redefines-dividing-line-between-planets-stars/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37497",
       "type": "news",
       "title": "BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration",
@@ -1431,6 +1277,17 @@
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/bae.png?fit=1021%2C1024&ssl=1",
       "link": "https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/",
       "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37496",
+      "type": "news",
+      "title": "NASA’s Webb Redefines Dividing Line Between Planets, Stars",
+      "date": "2026-04-14T14:00:00Z",
+      "summary": "Planets, like those in our solar system, form in a bottom-up process where small bits of rock and ice clump together and grow larger over time. But the heftier the planet, the harder it is to explain its formation that way. Astronomers used NASA’s James Webb Space Telescope to examine 29 Cygni b, an object […]",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/04/STScI-01KHV7GAYRJ1X6T6TG3VJ6H5F4.png",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-redefines-dividing-line-between-planets-stars/",
+      "news_site": "NASA",
       "source": "Spaceflight News API"
     },
     {
@@ -1808,17 +1665,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37531",
-      "type": "news",
-      "title": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
-      "date": "2026-04-15T13:00:00Z",
-      "summary": "\nSatellite operators seeking EU market access may face a fundamental shift in how spectrum is authorized, how services are delivered across borders, and what operational obligations apply. The Digital Networks Act (DNA) is the European Commission’s proposed regulation on digital networks. It would repeal and consolidate the EU’s existing electronic communications framework, including the European […]\nThe post The Digital Networks Act: a reform that requires strategic attention for satellite operators appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Europe_at_night_-_44164039574-scaled.jpg?fit=1024%2C683&ssl=1",
-      "link": "https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37530",
       "type": "news",
       "title": "Vast offers new docking adapter for large space stations",
@@ -1826,6 +1672,17 @@
       "summary": "\nCommercial space station developer Vast unveiled a new docking interface the company is offering to the broader industry for future large stations and spacecraft.\nThe post Vast offers new docking adapter for large space stations appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/vast-lda.jpeg?fit=1024%2C683&ssl=1",
       "link": "https://spacenews.com/vast-offers-new-docking-adapter-for-large-space-stations/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37531",
+      "type": "news",
+      "title": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
+      "date": "2026-04-15T13:00:00Z",
+      "summary": "\nSatellite operators seeking EU market access may face a fundamental shift in how spectrum is authorized, how services are delivered across borders, and what operational obligations apply. The Digital Networks Act (DNA) is the European Commission’s proposed regulation on digital networks. It would repeal and consolidate the EU’s existing electronic communications framework, including the European […]\nThe post The Digital Networks Act: a reform that requires strategic attention for satellite operators appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/Europe_at_night_-_44164039574-scaled.jpg?fit=1024%2C683&ssl=1",
+      "link": "https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/",
       "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
@@ -2395,7 +2252,7 @@
       "type": "news",
       "title": "ESA’s Mars Rover to Launch Aboard SpaceX Falcon Heavy in 2028",
       "date": "2026-04-17T10:23:56Z",
-      "summary": "NASA has selected a SpaceX Falcon Heavy to launch the European Space Agency’s Rosalind Franklin Mars rover no earlier than late 2028. The US space agency’s responsibility to procure launch services for the rover stems from a May 2024 partnership agreement that tasked NASA with this element of the mission as part of its contributions. […]\nThe post ESA’s Mars Rover to Launch Aboard SpaceX Falcon Heavy in 2028 appeared first on European Spaceflight.",
+      "summary": "NASA has selected a SpaceX Falcon Heavy to launch the European Space Agency’s Rosalind Franklin Mars rover no earlier than late 2028. The US space agency’s responsibility to procure launch services for the rover stems from a May 2024 partnership agreement that tasked NASA with this element of the mission as part of its contributions. […]\r\nThe post ESA’s Mars Rover to Launch Aboard SpaceX Falcon Heavy in 2028 appeared first on European Spaceflight.",
       "image": "https://europeanspaceflight.com/wp-content/uploads/2026/04/ESAs-Mars-Rover-to-Launch-Aboard-SpaceX-Falcon-Heavy-in-2028.webp",
       "link": "https://europeanspaceflight.com/esas-mars-rover-to-launch-aboard-spacex-falcon-heavy-in-2028/",
       "news_site": "European Spaceflight",
@@ -2527,7 +2384,7 @@
       "type": "news",
       "title": "Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission",
       "date": "2026-04-18T06:45:49Z",
-      "summary": "The Starlink 17-22 will see SpaceX launch 25 broadband internet satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:33:40 a.m. PDT (10:33:40 a.m. EDT / 1433:40 UTC). ",
+      "summary": "The Starlink 17-22 will see SpaceX launch 25 broadband internet satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:33:40 a.m. PDT (10:33:40 a.m. EDT / 1433:40 UTC).",
       "image": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
       "link": "https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/",
       "news_site": "Spaceflight Now",
@@ -2549,7 +2406,7 @@
       "type": "news",
       "title": "Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter",
       "date": "2026-04-18T21:28:40Z",
-      "summary": "Commercial space station developer Vast has blended fashion with functionality while laying groundwork for the…\nThe post Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter appeared first on NASASpaceFlight.com.",
+      "summary": "Commercial space station developer Vast has blended fashion with functionality while laying groundwork for the…\r\nThe post Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-18-22-21-59-920.jpg",
       "link": "https://www.nasaspaceflight.com/2026/04/vast-astronaut-flight-suit-docking-adapter/",
       "news_site": "NASASpaceflight",
@@ -2560,7 +2417,7 @@
       "type": "news",
       "title": "New Glenn set to launch on third mission, reuse booster for the first time",
       "date": "2026-04-18T23:04:21Z",
-      "summary": "Just over five months after the launch of its second mission, Blue Origin’s partially reusable…\nThe post New Glenn set to launch on third mission, reuse booster for the first time appeared first on NASASpaceFlight.com.",
+      "summary": "Just over five months after the launch of its second mission, Blue Origin’s partially reusable…\r\nThe post New Glenn set to launch on third mission, reuse booster for the first time appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_7032.jpeg",
       "link": "https://www.nasaspaceflight.com/2026/04/ng-3-launch/",
       "news_site": "NASASpaceflight",
@@ -2571,7 +2428,7 @@
       "type": "news",
       "title": "Live Coverage: Third flight of Blue Origin’s New Glenn rocket to feature 1st reuse of booster",
       "date": "2026-04-19T01:34:44Z",
-      "summary": "Blue Origin plans to launch its third New Glenn rocket from Cape Canaveral Sunday during a two-hour window that opens at 6:45 a.m. EDT (1045 UTC). It will carry AST SpaceMobile’s BlueBird 7 satellite to provide direct to cell phone services from space. ",
+      "summary": "Blue Origin plans to launch its third New Glenn rocket from Cape Canaveral Sunday during a two-hour window that opens at 6:45 a.m. EDT (1045 UTC). It will carry AST SpaceMobile’s BlueBird 7 satellite to provide direct to cell phone services from space.",
       "image": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260418-NG-3-Pad-shot.jpg",
       "link": "https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/",
       "news_site": "Spaceflight Now",
@@ -2593,9 +2450,119 @@
       "type": "news",
       "title": "AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch",
       "date": "2026-04-19T22:46:07Z",
-      "summary": "Following Blue Origin’s milestone of successfully landing a previously flown first-stage booster for the first…\nThe post AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch appeared first on NASASpaceFlight.com.",
+      "summary": "Following Blue Origin’s milestone of successfully landing a previously flown first-stage booster for the first…\r\nThe post AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/NSF-2026-04-19-23-30-22-253-wmarked.jpg",
       "link": "https://www.nasaspaceflight.com/2026/04/ast-bluebird-7-lost-new-glenn-launch/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37601",
+      "type": "news",
+      "title": "Thailand’s Krabi Coast",
+      "date": "2026-04-20T04:00:00Z",
+      "summary": "The coastal province features striking tropical karst landscapes and sandy beaches alongside a mix of natural land cover and developed areas.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/thailand%E2%80%99s-krabi-coast-/railaybeachzm_oli_20260323.jpg",
+      "link": "https://science.nasa.gov/earth/earth-observatory/thailands-krabi-coast/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37602",
+      "type": "news",
+      "title": "Hubble turns 36 with a dazzling Trifid Nebula portrait",
+      "date": "2026-04-20T14:00:00Z",
+      "summary": "The NASA/ESA Hubble Space Telescope looked at a scene it first captured in 1997 in honour of 36th anniversary: a small portion of a star-forming region about 5000 light-years away in the constellation Sagittarius, known as the Trifid Nebula. The image shows changes over incredibly short timescales and instills a sense of awe and wonder about our ever-changing Universe.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/trifid_nebula_wide_field_camera_3_image/27208638-1-eng-GB/Trifid_Nebula_Wide_Field_Camera_3_Image_card_full.jpg",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_turns_36_with_a_dazzling_Trifid_Nebula_portrait",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37603",
+      "type": "news",
+      "title": "NASA’s Hubble Dazzles With Young Stars in Trifid Nebula",
+      "date": "2026-04-20T14:01:01Z",
+      "summary": "This shimmering region of star-formation, a close-up of the Trifid Nebula about 5,000 light-years from Earth, was captured in intricate detail by NASA’s Hubble Space Telescope. The colors in Hubble’s visible light image, which marks the 36th anniversary of the mission’s launch on April 24, are reminiscent of an underwater scene filled with fine-grained sediments […]",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/04/STScI-01KM5VPG2R1WX1SY7ASDJ9JEV5.jpg",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-dazzles-with-young-stars-in-trifid-nebula/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37604",
+      "type": "news",
+      "title": "Blue Origin launches third New Glenn rocket, but payload ends up in wrong orbit",
+      "date": "2026-04-20T14:31:00Z",
+      "summary": "Blue Origin launched the company's third New Glenn rocket Sunday, re-flying and successfully recovering a previously used first stage. But the rocket's payload, a direct-to-cellphone communications satellite, ended up in the wrong orbit, the company said. ",
+      "image": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260419-New-Glenn-Beach-1.jpg",
+      "link": "https://spaceflightnow.com/2026/04/20/blue-origin-launches-third-new-glenn-rocket-but-payload-ends-up-in-wrong-orbit/",
+      "news_site": "Spaceflight Now",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37605",
+      "type": "news",
+      "title": "Wheels Up for X-59",
+      "date": "2026-04-20T15:57:54Z",
+      "summary": "NASA’s X-59 quiet supersonic research aircraft flies over the Mojave Desert in California in this April 14, 2026, image. The transition to flying with wheels up is a key milestone and an important step in the experimental aircraft’s test campaign. The X-59 has made its highest and fastest flights so far, expanding its operational range […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/x-59-flight-9-screen-grab.webp",
+      "link": "https://www.nasa.gov/image-article/wheels-up-for-x-59/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37606",
+      "type": "news",
+      "title": "NASA Welcomes Latvia as Newest Artemis Accords Signatory",
+      "date": "2026-04-20T16:01:07Z",
+      "summary": "The Republic of Latvia signed the Artemis Accords Monday during a ceremony hosted by NASA at the agency’s headquarters in Washington, becoming the 62nd nation to commit to responsible space exploration for all humanity.  “We are proud to welcome Latvia to the Artemis Accords,” said NASA Administrator Jared Isaacman. “Each new signatory strengthens a coalition committed to the transparent and peaceful exploration of space. The accords are the […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/nhq202604200001.jpg",
+      "link": "https://www.nasa.gov/news-release/nasa-welcomes-latvia-as-newest-artemis-accords-signatory/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37607",
+      "type": "news",
+      "title": "Photos and Feelings from Artemis II",
+      "date": "2026-04-20T16:42:23Z",
+      "summary": "To commemorate Artemis II, Space Scout compiled photos and testimonials from our team members about this historic spaceflight.",
+      "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/04/Artemis_2_Sunrise_NoWM-1-scaled.jpg",
+      "link": "https://www.spacescout.info/2026/04/photos-and-feelings-from-artemis-ii/",
+      "news_site": "Space Scout",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37608",
+      "type": "news",
+      "title": "NASA Invites Media to SpaceX’s 34th Resupply Launch to Space Station",
+      "date": "2026-04-20T18:02:28Z",
+      "summary": "Media accreditation is open for the next U.S. launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. This launch is the 34th SpaceX Commercial Resupply Services mission to the orbital laboratory for NASA and will lift off on the company’s Falcon 9 rocket. NASA and SpaceX are targeting no earlier […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/34th-resupply-mission-advisory-april-20.jpg",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-34th-resupply-launch-to-space-station/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37609",
+      "type": "news",
+      "title": "NASA Rolls Out Artemis III Moon Rocket Core Stage",
+      "date": "2026-04-20T20:31:57Z",
+      "summary": "Following the recent successful test flight of NASA’s Artemis II mission around the Moon, NASA rolled out the core stage, or the largest section, of the agency’s SLS (Space Launch System) rocket that will launch the crewed Artemis III mission in 2027. The stage departed from the agency’s Michoud Assembly Facility in New Orleans on […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/corestage1.jpg",
+      "link": "https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37610",
+      "type": "news",
+      "title": "Launch Preview: GPS, Progress, and Starlink missions to launch during busy week",
+      "date": "2026-04-20T21:15:09Z",
+      "summary": "Seven missions, four countries, and five launch vehicles make the week of April 20 one…\nThe post Launch Preview: GPS, Progress, and Starlink missions to launch during busy week appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2023/11/Nov.-3-2023-Falcon-9-Starlink-6-26-Streak-Shot.jpg",
+      "link": "https://www.nasaspaceflight.com/2026/04/launch-preview-042026/",
       "news_site": "NASASpaceflight",
       "source": "Spaceflight News API"
     },
@@ -2611,17 +2578,50 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "news_37611",
+      "type": "news",
+      "title": "NASA on Track for Future Missions with Initial Artemis II Assessments",
+      "date": "2026-04-20T22:10:38Z",
+      "summary": "Following NASA’s Artemis II mission successfully splashing down on Earth, engineers started diving into detailed analysis of data to assess how key systems and subsystems on the Orion spacecraft, SLS (Space Launch System) rocket, and systems at the launch pad at the agency’s Kennedy Space Center in Florida performed. The Artemis II test flight successfully […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/launch-11a3a5.jpg",
+      "link": "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37612",
+      "type": "news",
+      "title": "Live coverage: SpaceX to launch final GPS III satellite for the U.S. Space Force",
+      "date": "2026-04-21T00:11:11Z",
+      "summary": "This is the final spacecraft of this generation of precision, navigation, and timing satellites before the U.S. Space Force shifts to launching GPS IIIF satellites. Liftoff from pad 40 at Cape Canaveral Space Force Station is scheduled during a 15-minute launch window opens at 2:53 a.m. EDT (0653 UTC). ",
+      "image": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260419_CC_GPS_III_8_vertical_wide.jpg",
+      "link": "https://spaceflightnow.com/2026/04/21/live-coverage-spacex-to-launch-final-gps-iii-satellite-for-the-u-s-space-force/",
+      "news_site": "Spaceflight Now",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37613",
+      "type": "news",
+      "title": "NASA IG Raises More Questions About Readiness for Human Lunar Landings",
+      "date": "2026-04-21T00:54:11Z",
+      "summary": "A new report from NASA’s Office of Inspector General raises more questions about whether landing humans on the Moon in 2028 is realistic. Last month the OIG pointed out that […]",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/04/nasa-ig-axiom-collins-300x224.jpg",
+      "link": "https://spacepolicyonline.com/news/nasa-ig-raises-more-questions-about-readiness-for-human-lunar-landings/",
+      "news_site": "SpacePolicyOnline.com",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "launch_2c5686ec-b0fd-4987-935d-587e3c85fa2d",
       "type": "launch",
       "title": "Falcon 9 Block 5 | GPS III SV10",
-      "date": "2026-04-21T06:53:00Z",
+      "date": "2026-04-21T06:53:25Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "GPS III SV10",
       "description": "Tenth of ten GPS III missions.",
       "pad": "Space Launch Complex 40",
       "status": "Go for Launch",
-      "probability": null,
+      "probability": 90,
       "webcast": "https://www.youtube.com/watch?v=ZQA2q5dqly0",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/2c5686ec-b0fd-4987-935d-587e3c85fa2d/",
@@ -2690,6 +2690,23 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_214b4db1-7112-4428-a999-29d2765c8306",
+      "type": "launch",
+      "title": "Long March 2D | Unknown Payload",
+      "date": "2026-04-24T06:30:00Z",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 2D",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "pad": "Launch Complex 3 (LC-3/LA-1)",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/214b4db1-7112-4428-a999-29d2765c8306/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
       "type": "launch",
       "title": "South Korean ADD Solid-Fuel SLV | Demo Flight",
@@ -2707,10 +2724,27 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_33eb7522-d371-4195-addb-c22aeff30c41",
+      "type": "launch",
+      "title": "Soyuz 2.1a | Progress MS-34 (95P)",
+      "date": "2026-04-25T22:21:47Z",
+      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+      "rocket": "Soyuz 2.1a",
+      "mission": "Progress MS-34 (95P)",
+      "description": "Progress resupply mission to the International Space Station.",
+      "pad": "31/6",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/33eb7522-d371-4195-addb-c22aeff30c41/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_d3a6d59f-c38d-4fcd-9f5d-b091aa14afa9",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 17-16",
-      "date": "2026-04-25T14:00:00Z",
+      "date": "2026-04-26T14:00:00Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "Starlink Group 17-16",
@@ -2724,35 +2758,35 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_33eb7522-d371-4195-addb-c22aeff30c41",
+      "id": "launch_4cc237b2-c61a-491e-9532-466cce81f524",
       "type": "launch",
-      "title": "Soyuz 2.1a | Progress MS-34 (95P)",
-      "date": "2026-04-25T22:21:00Z",
-      "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-      "rocket": "Soyuz 2.1a",
-      "mission": "Progress MS-34 (95P)",
-      "description": "Progress resupply mission to the International Space Station.",
-      "pad": "31/6",
-      "status": "To Be Confirmed",
+      "title": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
+      "date": "2026-04-27T14:21:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon Heavy",
+      "mission": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
+      "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
+      "pad": "Launch Complex 39A",
+      "status": "Go for Launch",
       "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/33eb7522-d371-4195-addb-c22aeff30c41/",
+      "webcast": "https://x.com/i/broadcasts/1lKQRvzzDjZGE",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/4cc237b2-c61a-491e-9532-466cce81f524/",
       "source": "Launch Library 2"
     },
     {
       "id": "launch_7e89e423-6f47-40a0-b075-c6fc1d9cf228",
       "type": "launch",
       "title": "Atlas V 551 | Amazon Leo (LA-06)",
-      "date": "2026-04-27T00:00:00Z",
+      "date": "2026-04-28T00:52:00Z",
       "provider": "United Launch Alliance",
       "rocket": "Atlas V 551",
       "mission": "Amazon Leo (LA-06)",
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n29 satellites are carried on this launch.",
       "pad": "Space Launch Complex 41",
-      "status": "To Be Determined",
+      "status": "Go for Launch",
       "probability": null,
-      "webcast": null,
+      "webcast": "https://www.youtube.com/watch?v=FYTMd1XYguo",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520551_image_20190224012316.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/7e89e423-6f47-40a0-b075-c6fc1d9cf228/",
       "source": "Launch Library 2"
@@ -2775,23 +2809,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_6bfe08b4-a35d-4297-8de7-dec0eb678eb6",
-      "type": "launch",
-      "title": "Falcon 9 Block 5 | Starlink Group 17-36",
-      "date": "2026-04-29T02:00:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "Starlink Group 17-36",
-      "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": "https://x.com/i/broadcasts/1yKAPMlXDewxb",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/6bfe08b4-a35d-4297-8de7-dec0eb678eb6/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_41139aa5-3f45-440a-8131-9cb391ddc995",
       "type": "launch",
       "title": "Angara 1.2 | Kosmos (Unknown Payload)",
@@ -2809,20 +2826,20 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_4cc237b2-c61a-491e-9532-466cce81f524",
+      "id": "launch_1e79a5e9-c02c-470f-882f-884120100fef",
       "type": "launch",
-      "title": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
+      "title": "Long March 10B | Demo Flight",
       "date": "2026-04-30T00:00:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon Heavy",
-      "mission": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-      "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
-      "pad": "Launch Complex 39A",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 10B",
+      "mission": "Demo Flight",
+      "description": "First test launch of CASC’s Long March 10B rocket.",
+      "pad": "Commercial LC-2",
       "status": "To Be Determined",
       "probability": null,
       "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/4cc237b2-c61a-491e-9532-466cce81f524/",
+      "image": null,
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/1e79a5e9-c02c-470f-882f-884120100fef/",
       "source": "Launch Library 2"
     },
     {
@@ -2922,6 +2939,23 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_6bfe08b4-a35d-4297-8de7-dec0eb678eb6",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | Starlink Group 17-36",
+      "date": "2026-04-30T02:00:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "Starlink Group 17-36",
+      "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": "https://x.com/i/broadcasts/1yKAPMlXDewxb",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/6bfe08b4-a35d-4297-8de7-dec0eb678eb6/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_b3877a27-7332-47cb-ac46-12a32143081b",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 10-38",
@@ -2936,6 +2970,23 @@
       "webcast": "https://x.com/i/broadcasts/1rGmqobLdrDGy",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/b3877a27-7332-47cb-ac46-12a32143081b/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_e60aa241-1f2c-4459-ba94-2f576c3e5632",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
+      "date": "2026-05-12T23:00:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "Dragon CRS-2 SpX-34",
+      "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
+      "pad": "Unknown Pad",
+      "status": "To Be Confirmed",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/e60aa241-1f2c-4459-ba94-2f576c3e5632/",
       "source": "Launch Library 2"
     },
     {
@@ -2987,23 +3038,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/05530ccb-7184-41e7-b2e5-c090b61e0e3a/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_e60aa241-1f2c-4459-ba94-2f576c3e5632",
-      "type": "launch",
-      "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
-      "date": "2026-05-31T00:00:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "Dragon CRS-2 SpX-34",
-      "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
-      "pad": "Unknown Pad",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/e60aa241-1f2c-4459-ba94-2f576c3e5632/",
       "source": "Launch Library 2"
     },
     {
@@ -3344,23 +3378,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-30_f6_cft_image_20251028183426.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/e1a3b702-464f-435d-8c1f-ade9be196b77/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_1e79a5e9-c02c-470f-882f-884120100fef",
-      "type": "launch",
-      "title": "Long March 10B | Demo Flight",
-      "date": "2026-06-30T00:00:00Z",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 10B",
-      "mission": "Demo Flight",
-      "description": "First test launch of CASC’s Long March 10B rocket.",
-      "pad": "Commercial LC-2",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": null,
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/1e79a5e9-c02c-470f-882f-884120100fef/",
       "source": "Launch Library 2"
     },
     {
