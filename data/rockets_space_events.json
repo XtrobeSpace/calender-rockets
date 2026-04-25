@@ -1,7 +1,7 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-04-24T02:05:00.836662+00:00",
-  "total_events_captured": 625,
+  "generated_at": "2026-04-25T01:54:51.246861+00:00",
+  "total_events_captured": 624,
   "events": [
     {
       "id": "event_1383",
@@ -312,39 +312,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "news_37463",
-      "type": "news",
-      "title": "Fueling test suggests imminent debut of China’s reusable Long March 10B rocket",
-      "date": "2026-04-13T15:35:23Z",
-      "summary": "China has conducted what appears to be a wet dress rehearsal for its Long March 10B, paving the way for a potential launch within weeks.\r\nThe post Fueling test suggests imminent debut of China’s reusable Long March 10B rocket appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/Mengzhou-in-flight-abort-CZ10-recovery-test-liftoff-11feb2026-casc.jpg?fit=1024%2C643&ssl=1",
-      "link": "https://spacenews.com/fueling-test-suggests-imminent-debut-of-chinas-reusable-long-march-10b-rocket/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37464",
-      "type": "news",
-      "title": "Live coverage: Space Station to capture, berth Cygnus XL ’S.S. Steven R. Nagel’ cargo spacecraft",
-      "date": "2026-04-13T16:01:20Z",
-      "summary": "The vehicle launched on a SpaceX Falcon 9 rocket from Cape Canaveral Space Force Station on Saturday, April 11, at 7:41 a.m. EDT (1141 UTC). Capture by the space station’s Canadarm2 is anticipated on Monday, April 13, at about 12:50 p.m. EDT (1650 UTC).",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/04/20260312_Cygnus_release-1.jpg",
-      "link": "https://spaceflightnow.com/2026/04/13/live-coverage-space-station-to-capture-berth-cygnus-xl-s-s-steven-r-nagel-cargo-spacecraft/",
-      "news_site": "Spaceflight Now",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37466",
-      "type": "news",
-      "title": "Amazon reveals aviation antenna as LEO inflight connectivity race intensifies",
-      "date": "2026-04-13T16:49:44Z",
-      "summary": "\nAmazon has unveiled the antenna its upcoming constellation would use to provide gigabit speeds to commercial aircraft, after gaining ground with major airlines despite Starlink’s LEO broadband dominance.\nThe post Amazon reveals aviation antenna as LEO inflight connectivity race intensifies appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/Amazon-Leo-Aviation-Antenna-16_9-scaled.jpg?fit=1024%2C576&ssl=1",
-      "link": "https://spacenews.com/amazon-reveals-aviation-antenna-as-leo-inflight-connectivity-race-intensifies/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "event_1409",
       "type": "event",
       "title": "NG-24 Cygnus Capture",
@@ -354,94 +321,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ng-112520cygnus2520release2520and2520reentry_image_20190716173223.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1409/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_37467",
-      "type": "news",
-      "title": "Artemis II Safe and Sound on Earth",
-      "date": "2026-04-13T17:01:34Z",
-      "summary": "After spending nine days in space, visiting the Moon for the first time in a generation, and traveling farther from home than anyone in history, the crew of NASA’s Artemis II mission is safe on Earth once again.",
-      "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/04/special-report-banner-3.png",
-      "link": "https://www.spacescout.info/2026/04/artemis-ii-safe-and-sound-on-earth/",
-      "news_site": "Space Scout",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37468",
-      "type": "news",
-      "title": "Artemis II Astronauts Aboard USS John P. Murtha",
-      "date": "2026-04-13T17:30:49Z",
-      "summary": "The first astronauts to travel to the Moon in more than half a century are back on Earth after a record-setting mission aboard NASA’s Artemis II test flight. NASA astronauts Reid Wiseman (commander), Christina Koch (mission specialist), Victor Glover (pilot), and CSA astronaut Jeremy Hansen (mission specialist) pose for a group photo in the well […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/55199636042-965f5225c4-o.jpg",
-      "link": "https://www.nasa.gov/image-article/artemis-ii-astronauts-aboard-uss-john-p-murtha/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37469",
-      "type": "news",
-      "title": "The path to $50 billion in new space investment",
-      "date": "2026-04-13T17:41:12Z",
-      "summary": "\nThe future of space is commercial, with American companies critical to establishing a moon base and developing a vibrant economy in low Earth orbit (LEO) and beyond. The Trump administration has set a goal to attract at least $50 billion of new investment in American space markets by 2028. Sure, $50 billion is a big […]\nThe post The path to $50 billion in new space investment appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/transporter16.jpeg?fit=1024%2C683&ssl=1",
-      "link": "https://spacenews.com/the-path-to-50-billion-in-new-space-investment/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37470",
-      "type": "news",
-      "title": "Spring fever pitch: Three questions to listen for this Space Symposium",
-      "date": "2026-04-13T17:50:55Z",
-      "summary": "\nA historic mission to the moon. A record-setting budget for the Space Force. Billions of dollars in new valuations. As the 41st Space Symposium opens in Colorado Springs, optimism is bountiful for the space industry. At the same time, leaders are emphasizing speed, near-perfect execution and new ways of working together across government and industry. […]\nThe post Spring fever pitch: Three questions to listen for this Space Symposium appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/illo-scaled.jpg?fit=1024%2C576&ssl=1",
-      "link": "https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37473",
-      "type": "news",
-      "title": "Aerospace to support industry with government furnished talent",
-      "date": "2026-04-13T18:10:42Z",
-      "summary": "\nThe Aerospace Corp. plans to offer industry access to its expertise and facilities through a new program called government furnished talent (GFT). By providing companies with access to the Federally Funded Research and Development Center’s talent, technology, expertise and laboratory infrastructure, Aerospace intends to help accelerate development of space capabilities, Aerospace CEO Tanya Pemberton told […]\nThe post Aerospace to support industry with government furnished talent appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/EP3-D1-Installation-4-20200516-Bert-1038.jpg?fit=800%2C500&ssl=1",
-      "link": "https://spacenews.com/aerospace-to-support-industry-with-government-furnished-talent/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37472",
-      "type": "news",
-      "title": "Phantom Space eyes edge in orbital data race with thermal deal",
-      "date": "2026-04-13T18:15:57Z",
-      "summary": "\nPhantom Space believes it now has the key pieces of a vertically integrated model to compete on the edges of the emerging orbital data center market, where industry giants are already staking claims to meet soaring AI-driven demand. The Tucson, Arizona-based satellite and rocket developer recently acquired what it sees as a critical missing piece: […]\nThe post Phantom Space eyes edge in orbital data race with thermal deal appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/rsz_phantom_cloud.webp?fit=879%2C494&ssl=1",
-      "link": "https://spacenews.com/phantom-space-eyes-edge-in-orbital-data-race-with-thermal-deal/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37471",
-      "type": "news",
-      "title": "NASA to Host Artemis II Crew Postflight News Conference",
-      "date": "2026-04-13T18:16:30Z",
-      "summary": "Fresh off their return to Earth, the Artemis II astronauts will hold a news conference at 2:30 p.m. EDT Thursday, April 16, at NASA’s Johnson Space Center in Houston to discuss their historic mission around the Moon. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) Jeremy Hansen, will […]",
-      "image": "https://images-assets.nasa.gov/image/jsc2026e022310/jsc2026e022310~large.jpg",
-      "link": "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37475",
-      "type": "news",
-      "title": "Curiosity Blog, Sols 4845-4851: Bye-Bye Boxwork, Bye-Bye",
-      "date": "2026-04-13T19:37:17Z",
-      "summary": "Written by Lucy Thompson, APXS Strategic Planner and Planetary Geologist at the University of New Brunswick, Canada Earth planning date: Friday, March 27, 2026 Last weekend’s drive took us just over the southernmost contact of the boxwork terrain with the surrounding layered sulfate unit. This was our third time crossing this contact, providing an excellent […]",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/march/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04848_opgs_edr_ncam_NLB_827876004EDR_F1211446NCAM00354M_.jpg",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4845-4851-bye-bye-boxwork-bye-bye/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_37474",
@@ -642,17 +521,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37494",
-      "type": "news",
-      "title": "Is COPUOS at a turning point? Governing space in a new era",
-      "date": "2026-04-14T13:00:00Z",
-      "summary": "\nThe 63rd Session of the Scientific and Technical Subcommittee (STSC) of the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS), held in Vienna in February, highlighted a reality that is becoming increasingly clear to those working in the international space community: The space environment has changed dramatically, and the institutions created at […]\nThe post Is COPUOS at a turning point? Governing space in a new era appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/copuos.jpg?fit=1024%2C819&ssl=1",
-      "link": "https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37493",
       "type": "news",
       "title": "Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites",
@@ -660,6 +528,17 @@
       "summary": "\nThe company is in talks with Pentagon and intelligence agencies interested in flying payloads on OneWeb’s next-gen constellation\nThe post Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites appeared first on SpaceNews.",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/55081187218_b92dbc7da6_b.jpg?fit=1024%2C576&ssl=1",
       "link": "https://spacenews.com/eutelsats-u-s-arm-pitches-hosted-payloads-deals-on-oneweb-satellites/",
+      "news_site": "SpaceNews",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37494",
+      "type": "news",
+      "title": "Is COPUOS at a turning point? Governing space in a new era",
+      "date": "2026-04-14T13:00:00Z",
+      "summary": "\nThe 63rd Session of the Scientific and Technical Subcommittee (STSC) of the United Nations Committee on the Peaceful Uses of Outer Space (COPUOS), held in Vienna in February, highlighted a reality that is becoming increasingly clear to those working in the international space community: The space environment has changed dramatically, and the institutions created at […]\nThe post Is COPUOS at a turning point? Governing space in a new era appeared first on SpaceNews.",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/copuos.jpg?fit=1024%2C819&ssl=1",
+      "link": "https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/",
       "news_site": "SpaceNews",
       "source": "Spaceflight News API"
     },
@@ -2215,17 +2094,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37631",
-      "type": "news",
-      "title": "Artemis II Mission Milestones: An Image and Video Recap",
-      "date": "2026-04-22T01:55:09Z",
-      "summary": "On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.  At their farthest […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2024/09/jsc2024e055031.jpg",
-      "link": "https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37632",
       "type": "news",
       "title": "Artemis II Mission Milestones: An Image and Video Recap",
@@ -2233,6 +2101,17 @@
       "summary": "On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.  At their farthest […]",
       "image": "https://images-assets.nasa.gov/image/art002e000192/art002e000192~large.jpg",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37631",
+      "type": "news",
+      "title": "Artemis II Mission Milestones: An Image and Video Recap",
+      "date": "2026-04-22T01:55:09Z",
+      "summary": "On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.  At their farthest […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2024/09/jsc2024e055031.jpg",
+      "link": "https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/",
       "news_site": "NASA",
       "source": "Spaceflight News API"
     },
@@ -2281,17 +2160,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37638",
-      "type": "news",
-      "title": "Space Rider drop model ready to glide",
-      "date": "2026-04-22T14:00:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/first_full-size_space_rider_test_model_assembled/27215877-2-eng-GB/First_full-size_Space_Rider_test_model_assembled_card_full.jpg",
-      "link": "https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Space_Rider_drop_model_ready_to_glide",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37635",
       "type": "news",
       "title": "Solemn Privilege – Artemis II from Launch Complex 34",
@@ -2300,6 +2168,17 @@
       "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/04/B85A4943.jpg",
       "link": "https://www.spacescout.info/2026/04/solemn-privilege-artemis-ii-from-launch-complex-34/",
       "news_site": "Space Scout",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37638",
+      "type": "news",
+      "title": "Space Rider drop model ready to glide",
+      "date": "2026-04-22T14:00:00Z",
+      "summary": "From the ESA Blogs.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/first_full-size_space_rider_test_model_assembled/27215877-2-eng-GB/First_full-size_Space_Rider_test_model_assembled_card_full.jpg",
+      "link": "https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Space_Rider_drop_model_ready_to_glide",
+      "news_site": "ESA",
       "source": "Spaceflight News API"
     },
     {
@@ -2578,21 +2457,125 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "launch_214b4db1-7112-4428-a999-29d2765c8306",
-      "type": "launch",
-      "title": "Long March 2D | Unknown Payload",
-      "date": "2026-04-24T06:30:00Z",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 2D",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
-      "pad": "Launch Complex 3 (LC-3/LA-1)",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/214b4db1-7112-4428-a999-29d2765c8306/",
-      "source": "Launch Library 2"
+      "id": "news_37664",
+      "type": "news",
+      "title": "An Agricultural Mosaic in Taiwan",
+      "date": "2026-04-24T04:01:00Z",
+      "summary": "Diversity reigns across the farmland of Yunlin County in southwestern Taiwan—a region that produces an array of crops on small farms.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-mosaic-in-taiwan/taiwan_agriculture_oli2_20260318.jpg",
+      "link": "https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37666",
+      "type": "news",
+      "title": "Earth from Space: Cloud patterns over the Canary Islands",
+      "date": "2026-04-24T08:00:00Z",
+      "summary": "From the ESA Blogs.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earth_from_space_cloud_patterns_over_the_canary_islands/27238982-1-eng-GB/Earth_from_Space_Cloud_patterns_over_the_Canary_Islands_card_full.jpg",
+      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Cloud_patterns_over_the_Canary_Islands",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37667",
+      "type": "news",
+      "title": "Braving the Arctic for upcoming polar-focused satellites",
+      "date": "2026-04-24T09:08:00Z",
+      "summary": "As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent. To meet this challenge, the European Space Agency is developing three new Copernicus satellites, each employing distinct but complementary techniques to monitor this fragile component of the Earth system.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/not_your_normal_commute/27239667-3-eng-GB/Not_your_normal_commute_card_full.jpg",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37668",
+      "type": "news",
+      "title": "Rocket Report: Some Canadians don't want a spaceport; Falcon hits 600 landings",
+      "date": "2026-04-24T11:00:36Z",
+      "summary": "\"If it doesn’t rely on a solid, there’s no reason why we can’t launch.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/RDRE-Hot-Fire-Image-2048x1366-1.jpg",
+      "link": "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/",
+      "news_site": "Arstechnica",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37665",
+      "type": "news",
+      "title": "2026 first quarter: Future Launchers Preparatory Programme highlights",
+      "date": "2026-04-24T11:37:00Z",
+      "summary": "From the ESA Blogs.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/refilling_in_space_with_odyssey/26812220-3-eng-GB/Refilling_in_space_with_Odyssey_card_full.png",
+      "link": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/2026_first_quarter_Future_Launchers_Preparatory_Programme_highlights",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37669",
+      "type": "news",
+      "title": "NASA Celebrates Decade of University Innovation in Aeronautics",
+      "date": "2026-04-24T13:04:54Z",
+      "summary": "For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the University Leadership Initiative (ULI) is still flying high, making awards with the potential to change 21st century air travel.  Through ULI, NASA has supported more than 1,100 students at 100 schools, allowing them […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2020/11/uli-graphic-2026.png",
+      "link": "https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37670",
+      "type": "news",
+      "title": "Week in images: 20-24 April 2026",
+      "date": "2026-04-24T13:15:00Z",
+      "summary": "Week in images: 20-24 April 2026",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_card_full.jpg",
+      "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_April_2026",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37671",
+      "type": "news",
+      "title": "NASA Astronauts to Answer Questions from Missouri Students",
+      "date": "2026-04-24T14:47:12Z",
+      "summary": "Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 10:50 a.m. EDT Thursday, April 30, and will stream live on the agency’s Learn With NASA YouTube channel. This […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/jessica-meir-and-jack-hathaway-downlink-advisory-april-24.jpg",
+      "link": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37672",
+      "type": "news",
+      "title": "Well, this is embarrassing: The Lunar Gateway's primary modules are corroded",
+      "date": "2026-04-24T14:47:19Z",
+      "summary": "\"Preliminary findings indicate that the issue likely results from a combination of factors.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/jsc2025e034729large.jpg",
+      "link": "https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/",
+      "news_site": "Arstechnica",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37673",
+      "type": "news",
+      "title": "The Day of the Trifid Nebula",
+      "date": "2026-04-24T14:56:35Z",
+      "summary": "This shimmering region of star-formation, a close-up of the Trifid Nebula about 5,000 light-years from Earth, was captured in intricate detail by NASA’s Hubble Space Telescope in an image released on April 20, 2026. The colors in Hubble’s visible light image, which marks the 36th anniversary of the mission’s launch on April 24, are reminiscent of an underwater […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/full-res-for-display.png",
+      "link": "https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37674",
+      "type": "news",
+      "title": "I Am Artemis: Peter Rossoni",
+      "date": "2026-04-24T16:33:35Z",
+      "summary": "Listen to this audio excerpt from Peter Rossoni, Orion Artemis II Optical Communications System flight manager: As a child, Peter Rossoni watched the Apollo missions launch with his family. In April 2026, he became a part of NASA’s Artemis II mission, helping enable communications as astronauts journeyed around the Moon. Rossoni’s path to NASA began […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/img-0068-edited-1.jpg",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
     },
     {
       "id": "launch_88ab98d8-44e9-4aae-ac0f-02006a1d7ce6",
@@ -2701,7 +2684,7 @@
       "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n29 satellites are carried on this launch.",
       "pad": "Space Launch Complex 41",
       "status": "Go for Launch",
-      "probability": null,
+      "probability": 75,
       "webcast": "https://www.youtube.com/watch?v=FYTMd1XYguo",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520551_image_20190224012316.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/7e89e423-6f47-40a0-b075-c6fc1d9cf228/",
@@ -2849,6 +2832,23 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_05530ccb-7184-41e7-b2e5-c090b61e0e3a",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | CAS500-2 & Others",
+      "date": "2026-05-03T06:59:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "CAS500-2 & Others",
+      "description": "Ride-share of multiple satellites including:\r\n\r\n* CAS500-2 (KASA, South Korea)\r\nThe South Korean CAS500-1 and -2 satellites will image the Earth in pan-chromatic and multi-spectral modes using the AEISS-C (Advanced Earth Imaging Sensor System) payload, with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.\r\n\r\n* Pelican-7, 8 & 9 (Planet Labs)\r\nPelican is a constellation of very high resolution imaging satellites, designed and manufactured by Planet Labs. The commercial constellation will consist of 32 SmallSats with potential for further expansion, and aims to provide improved spatial resolution and response times over Planet’s existing SkySat and Dove constellations.",
+      "pad": "Space Launch Complex 4E",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": "https://x.com/i/broadcasts/1AKEmODRWpZKL",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/05530ccb-7184-41e7-b2e5-c090b61e0e3a/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_dd82ccd7-9ab2-410a-ac41-306218015c05",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 17-29",
@@ -2934,23 +2934,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_05530ccb-7184-41e7-b2e5-c090b61e0e3a",
-      "type": "launch",
-      "title": "Falcon 9 Block 5 | CAS500-2 & Others",
-      "date": "2026-05-31T00:00:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "CAS500-2 & Others",
-      "description": "Ride-share of multiple satellites including:\r\n\r\n* CAS500-2 (KASA, South Korea)\r\nThe South Korean CAS500-1 and -2 satellites will image the Earth in pan-chromatic and multi-spectral modes using the AEISS-C (Advanced Earth Imaging Sensor System) payload, with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.\r\n\r\n* Pelican-7, 8 & 9 (Planet Labs)\r\nPelican is a constellation of very high resolution imaging satellites, designed and manufactured by Planet Labs. The commercial constellation will consist of 32 SmallSats with potential for further expansion, and aims to provide improved spatial resolution and response times over Planet’s existing SkySat and Dove constellations.",
-      "pad": "Space Launch Complex 4E",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/05530ccb-7184-41e7-b2e5-c090b61e0e3a/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
       "type": "launch",
       "title": "South Korean ADD Solid-Fuel SLV | Demo Flight",
@@ -3033,6 +3016,23 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pegasus_xl_moun_image_20240307124328.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/f596ad48-881e-47d6-806d-113c6dd97427/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_e1a3b702-464f-435d-8c1f-ade9be196b77",
+      "type": "launch",
+      "title": "H3-30 | H3-30 Test Flight",
+      "date": "2026-06-10T00:53:59Z",
+      "provider": "Mitsubishi Heavy Industries",
+      "rocket": "H3-30",
+      "mission": "H3-30 Test Flight",
+      "description": "Test flight of the H3-30 variant of the H3 launch vehicle with 3 LE-9 engines in the first stage and no SRBs. The flight will carry a dummy main payload (Vehicle Evaluation Payload 5, VEP-5) and several hitchhiking small satellites:\r\n\r\n* PETREL\r\n\r\n* STARS-X\r\n\r\n* BRO-22\r\n\r\n* VERTECS\r\n\r\n* HORN-L/R",
+      "pad": "Yoshinobu Launch Complex LP-2",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-30_f6_cft_image_20251028183426.jpg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/e1a3b702-464f-435d-8c1f-ade9be196b77/",
       "source": "Launch Library 2"
     },
     {
@@ -3288,23 +3288,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/875ba957-be5f-42bd-8a6e-ed98254f572a/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_e1a3b702-464f-435d-8c1f-ade9be196b77",
-      "type": "launch",
-      "title": "H3-30 | H3-30 Test Flight",
-      "date": "2026-06-30T00:00:00Z",
-      "provider": "Mitsubishi Heavy Industries",
-      "rocket": "H3-30",
-      "mission": "H3-30 Test Flight",
-      "description": "Test flight of the H3-30 variant of the H3 launch vehicle with 3 LE-9 engines in the first stage and no SRBs. The flight will carry a dummy main payload (Vehicle Evaluation Payload 5, VEP-5) and several hitchhiking small satellites:\r\n\r\n* PETREL\r\n\r\n* STARS-X\r\n\r\n* BRO-19\r\n\r\n* VERTECS\r\n\r\n* HORN-L/R",
-      "pad": "Yoshinobu Launch Complex LP-2",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-30_f6_cft_image_20251028183426.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/e1a3b702-464f-435d-8c1f-ade9be196b77/",
       "source": "Launch Library 2"
     },
     {
