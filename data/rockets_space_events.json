@@ -1,41 +1,8 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-05-03T02:14:50.723113+00:00",
-  "total_events_captured": 612,
+  "generated_at": "2026-05-04T02:13:46.045701+00:00",
+  "total_events_captured": 609,
   "events": [
-    {
-      "id": "event_1389",
-      "type": "event",
-      "title": "Artemis II Daily Mission Status Briefing (April 2)",
-      "date": "2026-04-03T00:30:00Z",
-      "description": "NASA provides daily Artemis II mission status briefings from NASA’s Johnson Space Center in Houston beginning Thursday, April 2, except for April 6, due to lunar flyby activities.",
-      "location": "Johnson Space Center, Houston, TX, USA",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_roll_image_20260127022614.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1389/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "event_1398",
-      "type": "event",
-      "title": "Artemis II Live Downlink Event (April 2)",
-      "date": "2026-04-03T02:24:00Z",
-      "description": "The Artemis II crew will participate in live conversations throughout the mission, known as downlink events.",
-      "location": "Cislunar space",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/orion_image_20231118102035.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1398/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "event_1390",
-      "type": "event",
-      "title": "Artemis II Daily Mission Status Briefing (April 3)",
-      "date": "2026-04-03T19:30:00Z",
-      "description": "NASA provides daily Artemis II mission status briefings from NASA’s Johnson Space Center in Houston beginning Thursday, April 2, except for April 6, due to lunar flyby activities.",
-      "location": "Johnson Space Center, Houston, TX, USA",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_roll_image_20260127022614.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1390/",
-      "source": "Launch Library 2"
-    },
     {
       "id": "event_1399",
       "type": "event",
@@ -266,28 +233,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/booster_7_33_en_image_20230128102545.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1446/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_37561",
-      "type": "news",
-      "title": "Voyager to fly private astronaut mission to ISS",
-      "date": "2026-04-16T11:54:32Z",
-      "summary": "\nVoyager Technologies will be the third company to fly a private astronaut mission to the International Space Station, gaining experience for its commercial station.\nThe post Voyager to fly private astronaut mission to ISS appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/07/International-Space-Station-in-2021-scaled.webp?fit=1024%2C569&ssl=1",
-      "link": "https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37562",
-      "type": "news",
-      "title": "Three ESA-built satellites on show in France",
-      "date": "2026-04-16T12:00:00Z",
-      "summary": "Three Earth observation satellites, developed by the European Space Agency (ESA) with European partners, and due to launch later this year, have completed their functional and environmental tests and are ready to travel to the European spaceport in French Guiana. But first, journalists were invited to have one last look.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/flex_sentinel-3c_and_mtg-i2_on_show_at_tas_cleanrooms/27207480-1-eng-GB/FLEX_Sentinel-3C_and_MTG-I2_on_show_at_TAS_cleanrooms_card_full.jpg",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/Three_ESA-built_satellites_on_show_in_France",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_37563",
@@ -1093,17 +1038,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37632",
-      "type": "news",
-      "title": "Artemis II Mission Milestones: An Image and Video Recap",
-      "date": "2026-04-22T01:55:09Z",
-      "summary": "On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.  At their farthest […]",
-      "image": "https://images-assets.nasa.gov/image/art002e000192/art002e000192~large.jpg",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37631",
       "type": "news",
       "title": "Artemis II Mission Milestones: An Image and Video Recap",
@@ -1111,6 +1045,17 @@
       "summary": "On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.  At their farthest […]",
       "image": "https://www.nasa.gov/wp-content/uploads/2024/09/jsc2024e055031.jpg",
       "link": "https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37632",
+      "type": "news",
+      "title": "Artemis II Mission Milestones: An Image and Video Recap",
+      "date": "2026-04-22T01:55:09Z",
+      "summary": "On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.  At their farthest […]",
+      "image": "https://images-assets.nasa.gov/image/art002e000192/art002e000192~large.jpg",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/",
       "news_site": "NASA",
       "source": "Spaceflight News API"
     },
@@ -1170,17 +1115,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37635",
-      "type": "news",
-      "title": "Solemn Privilege – Artemis II from Launch Complex 34",
-      "date": "2026-04-22T14:00:00Z",
-      "summary": "David's thoughts on Artemis II, as experienced from Launch Complex 34.",
-      "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/04/B85A4943.jpg",
-      "link": "https://www.spacescout.info/2026/04/solemn-privilege-artemis-ii-from-launch-complex-34/",
-      "news_site": "Space Scout",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37638",
       "type": "news",
       "title": "Space Rider drop model ready to glide",
@@ -1189,6 +1123,17 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/first_full-size_space_rider_test_model_assembled/27215877-2-eng-GB/First_full-size_Space_Rider_test_model_assembled_card_full.jpg",
       "link": "https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Space_Rider_drop_model_ready_to_glide",
       "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37635",
+      "type": "news",
+      "title": "Solemn Privilege – Artemis II from Launch Complex 34",
+      "date": "2026-04-22T14:00:00Z",
+      "summary": "David's thoughts on Artemis II, as experienced from Launch Complex 34.",
+      "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/04/B85A4943.jpg",
+      "link": "https://www.spacescout.info/2026/04/solemn-privilege-artemis-ii-from-launch-complex-34/",
+      "news_site": "Space Scout",
       "source": "Spaceflight News API"
     },
     {
@@ -2523,21 +2468,26 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "launch_05530ccb-7184-41e7-b2e5-c090b61e0e3a",
-      "type": "launch",
-      "title": "Falcon 9 Block 5 | CAS500-2 & Others",
-      "date": "2026-05-03T06:59:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "CAS500-2 & Others",
-      "description": "Ride-share of 45 satellites including:\r\n\r\n* CAS500-2 (KASA, South Korea)\r\nThe South Korean CAS500-1 and -2 satellites will image the Earth in pan-chromatic and multi-spectral modes using the AEISS-C (Advanced Earth Imaging Sensor System) payload, with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.\r\n\r\n* Pelican-7, 8 & 9 (Planet Labs)\r\nPelican is a constellation of very high resolution imaging satellites, designed and manufactured by Planet Labs. The commercial constellation will consist of 32 SmallSats with potential for further expansion, and aims to provide improved spatial resolution and response times over Planet’s existing SkySat and Dove constellations.",
-      "pad": "Space Launch Complex 4E",
-      "status": "Go for Launch",
-      "probability": null,
-      "webcast": "https://www.youtube.com/watch?v=ULdQKEF9MyU",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/05530ccb-7184-41e7-b2e5-c090b61e0e3a/",
-      "source": "Launch Library 2"
+      "id": "news_37761",
+      "type": "news",
+      "title": "SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit",
+      "date": "2026-05-03T18:00:27Z",
+      "summary": "SpaceX successfully launched its third rideshare mission of 2026 aboard Falcon 9. The mission carried…\nThe post SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/NSF-2026-05-03-18-57-04-759.jpg",
+      "link": "https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37762",
+      "type": "news",
+      "title": "What’s Happening in Space Policy May 3-9, 2026",
+      "date": "2026-05-03T20:27:49Z",
+      "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of May 3-9, 2026 and any insight we can offer about them. The House and Senate are in recess […]",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/05/Alan-Shepard-NASA-Freedom-7-300x171.jpg",
+      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-3-9-2026/",
+      "news_site": "SpacePolicyOnline.com",
+      "source": "Spaceflight News API"
     },
     {
       "id": "launch_dd82ccd7-9ab2-410a-ac41-306218015c05",
@@ -2551,7 +2501,7 @@
       "pad": "Space Launch Complex 4E",
       "status": "Go for Launch",
       "probability": null,
-      "webcast": "https://x.com/i/broadcasts/1nxnRYnWBPdxO",
+      "webcast": "https://www.youtube.com/watch?v=yt5DGn7No6U",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/dd82ccd7-9ab2-410a-ac41-306218015c05/",
       "source": "Launch Library 2"
@@ -2571,6 +2521,40 @@
       "webcast": "https://x.com/i/broadcasts/1rGmqoeWkBkGy",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/75a35be5-b3bd-4591-b978-9a876da9fa96/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_a5872822-76df-404b-93d0-9ecd7ba80a70",
+      "type": "launch",
+      "title": "Long March 7 | Tianzhou-10",
+      "date": "2026-05-09T22:00:00Z",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 7",
+      "mission": "Tianzhou-10",
+      "description": "Ninth cargo delivery mission to the Chinese space station.",
+      "pad": "201",
+      "status": "To Be Confirmed",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7_image_20210513083007.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/a5872822-76df-404b-93d0-9ecd7ba80a70/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_d50ae620-be2f-4690-9f86-fbc2a194bf29",
+      "type": "launch",
+      "title": "Long March 6A | Unknown Payload",
+      "date": "2026-05-12T11:55:00Z",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 6A",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "pad": "Launch Complex 9A",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/d50ae620-be2f-4690-9f86-fbc2a194bf29/",
       "source": "Launch Library 2"
     },
     {
@@ -2676,6 +2660,23 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_6d2beb1a-6869-4505-9fc1-a4aa224178e2",
+      "type": "launch",
+      "title": "Long March 7A | Unknown Payload",
+      "date": "2026-05-26T16:00:00Z",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 7A",
+      "mission": "Unknown Payload",
+      "description": "Details TBD.",
+      "pad": "201",
+      "status": "To Be Confirmed",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/6d2beb1a-6869-4505-9fc1-a4aa224178e2/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_8b7e748c-6ed5-4681-a898-827b4a23b8d7",
       "type": "launch",
       "title": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
@@ -2707,40 +2708,6 @@
       "webcast": null,
       "image": null,
       "link": "https://ll.thespacedevs.com/2.2.0/launch/1e79a5e9-c02c-470f-882f-884120100fef/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_6d2beb1a-6869-4505-9fc1-a4aa224178e2",
-      "type": "launch",
-      "title": "Long March 7A | Unknown Payload",
-      "date": "2026-05-31T00:00:00Z",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 7A",
-      "mission": "Unknown Payload",
-      "description": "Details TBD.",
-      "pad": "201",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/6d2beb1a-6869-4505-9fc1-a4aa224178e2/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_a5872822-76df-404b-93d0-9ecd7ba80a70",
-      "type": "launch",
-      "title": "Long March 7 | Tianzhou-10",
-      "date": "2026-05-31T00:00:00Z",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 7",
-      "mission": "Tianzhou-10",
-      "description": "Ninth cargo delivery mission to the Chinese space station.",
-      "pad": "201",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7_image_20210513083007.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/a5872822-76df-404b-93d0-9ecd7ba80a70/",
       "source": "Launch Library 2"
     },
     {
@@ -3460,6 +3427,23 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/c703fab3-2ce4-4cf1-861d-754da3f3ad42/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_9d402fb6-9115-424d-b6f0-bd3b13ee310e",
+      "type": "launch",
+      "title": "Long March 5 | Chang'e 7",
+      "date": "2026-08-31T00:00:00Z",
+      "provider": "China Aerospace Science and Technology Corporation",
+      "rocket": "Long March 5",
+      "mission": "Chang'e 7",
+      "description": "Chang'e 7/CE-7 is scheduled to launch in 2026, including an orbiter, a lander, a mini-hopping probe, and a rover. The mission will land in the South Pole regions of the Moon to study lunar surface environment around the South Pole, especially in looking for water ice in lunar soil.",
+      "pad": "101",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20201119165033.png",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/9d402fb6-9115-424d-b6f0-bd3b13ee310e/",
       "source": "Launch Library 2"
     },
     {
@@ -4989,23 +4973,6 @@
       "webcast": null,
       "image": null,
       "link": "https://ll.thespacedevs.com/2.2.0/launch/8d2a11e2-51e3-4841-a616-d41589373025/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_9d402fb6-9115-424d-b6f0-bd3b13ee310e",
-      "type": "launch",
-      "title": "Long March 5 | Chang'e 7",
-      "date": "2026-12-31T00:00:00Z",
-      "provider": "China Aerospace Science and Technology Corporation",
-      "rocket": "Long March 5",
-      "mission": "Chang'e 7",
-      "description": "Chang'e 7/CE-7 is scheduled to launch in 2026, including an orbiter, a lander, a mini-hopping probe, and a rover. The mission will land in the South Pole regions of the Moon to study lunar surface environment around the South Pole, especially in looking for water ice in lunar soil.",
-      "pad": "101",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20201119165033.png",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/9d402fb6-9115-424d-b6f0-bd3b13ee310e/",
       "source": "Launch Library 2"
     },
     {
