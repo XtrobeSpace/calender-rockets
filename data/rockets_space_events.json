@@ -1,30 +1,8 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-05-05T02:11:41.299574+00:00",
-  "total_events_captured": 607,
+  "generated_at": "2026-05-06T02:12:56.573227+00:00",
+  "total_events_captured": 606,
   "events": [
-    {
-      "id": "event_1402",
-      "type": "event",
-      "title": "Artemis II Live CSA Downlink Event (April 5)",
-      "date": "2026-04-05T04:14:00Z",
-      "description": "The Artemis II crew will participate in live conversations throughout the mission, known as downlink events.",
-      "location": "Cislunar space",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/orion_image_20231118102035.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1402/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "event_1392",
-      "type": "event",
-      "title": "Artemis II Daily Mission Status Briefing (April 5)",
-      "date": "2026-04-05T22:30:00Z",
-      "description": "NASA provides daily Artemis II mission status briefings from NASA’s Johnson Space Center in Houston beginning Thursday, April 2, except for April 6, due to lunar flyby activities.",
-      "location": "Johnson Space Center, Houston, TX, USA",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/artemis_ii_roll_image_20260127022614.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1392/",
-      "source": "Launch Library 2"
-    },
     {
       "id": "event_1408",
       "type": "event",
@@ -200,160 +178,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/nasa_artemis_ii_image_20230403161326.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1445/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_37578",
-      "type": "news",
-      "title": "Artemis II Crew Says Lunar Landing Doable Soon",
-      "date": "2026-04-17T01:51:32Z",
-      "summary": "The crew of the first mission to fly around the Moon since the Apollo era told reporters today they are still absorbing the experience and what it means to them […]",
-      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/04/A2-post-mission-presser-Apr-16-26-300x184.jpg",
-      "link": "https://spacepolicyonline.com/news/artemis-ii-crew-says-lunar-landing-doable-soon/",
-      "news_site": "SpacePolicyOnline.com",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37579",
-      "type": "news",
-      "title": "Spring Rains Saturate Michigan",
-      "date": "2026-04-17T04:01:00Z",
-      "summary": "Above-normal precipitation has swollen rivers and damaged infrastructure statewide.",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/spring-rains-saturate-michigan/michiganflooding764_oli_20250416.jpg",
-      "link": "https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37580",
-      "type": "news",
-      "title": "Earth from Space: Land of rainforests",
-      "date": "2026-04-17T08:00:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earth_from_space_land_of_rainforests/27206990-1-eng-GB/Earth_from_Space_Land_of_rainforests_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Land_of_rainforests",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37581",
-      "type": "news",
-      "title": "Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit",
-      "date": "2026-04-17T09:27:52Z",
-      "summary": "China has conducted rendezvous and proximity operations tests involving a prototype cargo spacecraft and a satellite in a step towards low-cost orbital infrastructure.\r\nThe post Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit  appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/Kinetica2-Y1-Qingzhou1-prototype-JSLC-30march2026-CASSpace1.jpg?fit=1024%2C572&ssl=1",
-      "link": "https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37594",
-      "type": "news",
-      "title": "ESA’s Mars Rover to Launch Aboard SpaceX Falcon Heavy in 2028",
-      "date": "2026-04-17T10:23:56Z",
-      "summary": "NASA has selected a SpaceX Falcon Heavy to launch the European Space Agency’s Rosalind Franklin Mars rover no earlier than late 2028. The US space agency’s responsibility to procure launch services for the rover stems from a May 2024 partnership agreement that tasked NASA with this element of the mission as part of its contributions. […]\r\nThe post ESA’s Mars Rover to Launch Aboard SpaceX Falcon Heavy in 2028 appeared first on European Spaceflight.",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/04/ESAs-Mars-Rover-to-Launch-Aboard-SpaceX-Falcon-Heavy-in-2028.webp",
-      "link": "https://europeanspaceflight.com/esas-mars-rover-to-launch-aboard-spacex-falcon-heavy-in-2028/",
-      "news_site": "European Spaceflight",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37582",
-      "type": "news",
-      "title": "D2D services are at risk of becoming too complicated and siloed",
-      "date": "2026-04-17T11:00:00Z",
-      "summary": "\nAt the recent Mobile World Conference 2026 in Barcelona, the strong presence of Direct-to-Device (D2D) satellite services and the avalanche of press releases related to contracts signed between D2D satellite service providers and Mobile Network Operators (MNOs) gave the impression that large scale implementation of D2D services by MNOs is imminent. However, the truth is […]\nThe post D2D services are at risk of becoming too complicated and siloed appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/08/echostar-mdaspace.jpeg?fit=824%2C460&ssl=1",
-      "link": "https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37583",
-      "type": "news",
-      "title": "New EU Space Act draft seen as a step backward",
-      "date": "2026-04-17T12:03:55Z",
-      "summary": "\nA revised draft of a proposed European Union space regulation is a step backward, creating uncertainty about how the law would be applied outside the EU, critics argue.\nThe post New EU Space Act draft seen as a step backward appeared first on SpaceNews.",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/07/P067364-774808-scaled.jpeg?fit=1024%2C683&ssl=1",
-      "link": "https://spacenews.com/new-eu-space-act-draft-seen-as-a-step-backward/",
-      "news_site": "SpaceNews",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37584",
-      "type": "news",
-      "title": "Week in images: 13-17 April 2026",
-      "date": "2026-04-17T13:10:00Z",
-      "summary": "Week in images: 13-17 April 2026",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/a_fiery_cloud_at_sunset/27207966-1-eng-GB/A_fiery_cloud_at_sunset_card_full.jpg",
-      "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_April_2026",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37585",
-      "type": "news",
-      "title": "NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way",
-      "date": "2026-04-17T14:14:33Z",
-      "summary": "An observation made by NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) shows the chemical signatures of water ice (shown in bright blue) and polycyclic aromatic hydrocarbons (orange) in Cygnus X, one of the most active and turbulent regions of star birth in our Milky Way galaxy. The […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/pia26748-spherex-cygnus-h2o-ice.jpg",
-      "link": "https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37586",
-      "type": "news",
-      "title": "Volunteers Discover Rare Space Weather Events Using Their Ears",
-      "date": "2026-04-17T15:04:32Z",
-      "summary": "Scientists are working to understand exactly how these waves behave, and the team behind NASA’s Heliophysics Audified: Resonances in Plasmas (HARP) citizen science project approaches this in a unique way: they compare the Earth’s magnetic field to a giant harp in space.",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/HARP_graphic.jpg",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37587",
-      "type": "news",
-      "title": "Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data",
-      "date": "2026-04-17T15:06:11Z",
-      "summary": "The report adds to the growing documentation on commercial data’s contributions to Earth science research and applications.",
-      "image": "https://science.nasa.gov/wp-content/uploads/2026/04/report-with-outline.jpg",
-      "link": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37588",
-      "type": "news",
-      "title": "Artemis II pilot describes landing in Orion: \"From intense to pure elation\"",
-      "date": "2026-04-17T16:59:44Z",
-      "summary": "\"I've been thinking about reentry for three straight years.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e016204large.jpg",
-      "link": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
-      "news_site": "Arstechnica",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37589",
-      "type": "news",
-      "title": "NASA, OPM Announce New NASA Force Website, Open Job Applications",
-      "date": "2026-04-17T17:04:51Z",
-      "summary": "NASA and the U.S. Office of Personnel Management (OPM) launched the NASA Force website on Friday, opening applications for roles aimed at recruiting the nation’s top engineers and technologists to support America’s air and space program.  NASA Force, a new hiring initiative developed in partnership with OPM, will recruit and place high-impact technical talent into mission-critical roles supporting NASA’s exploration, research, and advanced technology priorities, […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-force-website.png",
-      "link": "https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37590",
-      "type": "news",
-      "title": "NASA Artemis II Human Research Data Methodology Challenge",
-      "date": "2026-04-17T18:41:35Z",
-      "summary": "NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space. In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to monitor human health in deep space.  NASA’s Artemis II mission was the first […]",
-      "image": "https://images-assets.nasa.gov/image/art002e013365/art002e013365~large.jpg",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_37591",
@@ -829,17 +653,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37631",
-      "type": "news",
-      "title": "Artemis II Mission Milestones: An Image and Video Recap",
-      "date": "2026-04-22T01:55:09Z",
-      "summary": "On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.  At their farthest […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2024/09/jsc2024e055031.jpg",
-      "link": "https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37632",
       "type": "news",
       "title": "Artemis II Mission Milestones: An Image and Video Recap",
@@ -847,6 +660,17 @@
       "summary": "On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.  At their farthest […]",
       "image": "https://images-assets.nasa.gov/image/art002e000192/art002e000192~large.jpg",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37631",
+      "type": "news",
+      "title": "Artemis II Mission Milestones: An Image and Video Recap",
+      "date": "2026-04-22T01:55:09Z",
+      "summary": "On April 1, 2026, Artemis II launched on a nearly 10-day voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.  At their farthest […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2024/09/jsc2024e055031.jpg",
+      "link": "https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/",
       "news_site": "NASA",
       "source": "Spaceflight News API"
     },
@@ -2358,17 +2182,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37770",
-      "type": "news",
-      "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
-      "date": "2026-05-04T16:31:01Z",
-      "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
-      "link": "https://www.nasa.gov/general/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37772",
       "type": "news",
       "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
@@ -2376,6 +2189,17 @@
       "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will demonstrate […]",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
       "link": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37770",
+      "type": "news",
+      "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
+      "date": "2026-05-04T16:31:01Z",
+      "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
+      "link": "https://www.nasa.gov/general/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
       "news_site": "NASA",
       "source": "Spaceflight News API"
     },
@@ -2406,7 +2230,7 @@
       "type": "news",
       "title": "Launch Preview: three launches — a calm before the storm?",
       "date": "2026-05-04T18:45:36Z",
-      "summary": "Two Falcon 9 launches and a Chang Zheng 7 make up the launch roster for…\nThe post Launch Preview: three launches — a calm before the storm? appeared first on NASASpaceFlight.com.",
+      "summary": "Two Falcon 9 launches and a Chang Zheng 7 make up the launch roster for…\r\nThe post Launch Preview: three launches — a calm before the storm? appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_0610.jpeg",
       "link": "https://www.nasaspaceflight.com/2026/05/launch-preview-050426/",
       "news_site": "NASASpaceflight",
@@ -2446,10 +2270,164 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_37778",
+      "type": "news",
+      "title": "Ahuachapán and Its Restive Neighbors",
+      "date": "2026-05-05T04:01:00Z",
+      "summary": "From a geothermal hotspot to the one-time “Lighthouse of the Pacific,” the heat is on beneath the volcanic landscape of western El Salvador.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ahuachap%C3%A1n-and-its-restive-neighbors/ahuachapan_oli_20241125.jpg",
+      "link": "https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37779",
+      "type": "news",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "date": "2026-05-05T13:15:50Z",
+      "summary": "The Starlink 17-29 mission is the 44th dedicated flight supporting the broadband internet constellation so far in 2026. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:35 p.m. PDT (10:35 p.m. EDT / 0235 UTC).",
+      "image": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
+      "link": "https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/",
+      "news_site": "Spaceflight Now",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37780",
+      "type": "news",
+      "title": "NASA Volunteers Double Known Population of Brown Dwarfs",
+      "date": "2026-05-05T13:48:55Z",
+      "summary": "A new paper from NASA’s Backyard Worlds: Planet 9 project announces that volunteers have essentially doubled the number of known brown dwarfs, with over 3,000 new discoveries made over the past 10 years since the project began. Brown dwarfs are balls of gas the size of Jupiter, less massive than stars. There’s one for every three or four stars near the Sun.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/BrownDwarf_Citsci.jpg",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-double-known-population-of-brown-dwarfs/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37783",
+      "type": "news",
+      "title": "New NASA HEAT Coloring Book Blends Art, Science, and Cultural Perspectives",
+      "date": "2026-05-05T15:09:00Z",
+      "summary": "A new Sun-centered and science-focused coloring book produced by NASA in partnership with the University of Alaska Fairbanks (UAF) is now available for people to learn while showing their artistic side.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Journey_thru_heliosphere_citsci.png",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-coloring-book-blends-art-science-and-cultural-perspectives/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37782",
+      "type": "news",
+      "title": "NASA’S Juno Misson Captures Jupiter Moon Thebe",
+      "date": "2026-05-05T15:35:29Z",
+      "summary": "Description NASA’s Juno spacecraft captured this view of Thebe, the second largest of Jupiter’s inner moons, during a close pass on May 1, 2026. The spacecraft’s Stellar Reference Unit (SRU) captured this image from a distance of approximately 3,100 miles (5,000 kilometers) at a resolution of about 1.9 miles (3 kilometers) per pixel. Thebe resides […]",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26751/PIA26751.jpg",
+      "link": "https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37781",
+      "type": "news",
+      "title": "Building on America’s 65-Year Legacy of Human Spaceflight",
+      "date": "2026-05-05T16:04:41Z",
+      "summary": "On the morning of May 5, 1961, the Mercury-Redstone 3 launch vehicle lifted into the sky from Cape Canaveral, Florida, carrying astronaut Alan B. Shepard Jr. Over the next 15 minutes, Shepard ascended to an altitude of 116 miles (187 kilometers) in his Freedom 7 spacecraft, becoming the first American to fly into space before […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/s61-01908orig.jpg",
+      "link": "https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37785",
+      "type": "news",
+      "title": "NASA Research Shows Early Life Relied on Rare Metal",
+      "date": "2026-05-05T16:34:49Z",
+      "summary": "NASA-funded scientists have discovered that life on Earth over 3 billion years ago relied on the metal molybdenum, which was incredibly scarce in the environment at the time. The study, published in Nature Communications on Tuesday, is the first to show that molybdenum was used by ancient life this far back in our planet’s history. […]",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/astrobiology/research-images/Molybdenum.jpg",
+      "link": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37784",
+      "type": "news",
+      "title": "NASA Astronaut to Answer Questions from Students in Florida",
+      "date": "2026-05-05T16:59:59Z",
+      "summary": "Students in Florida will hear from NASA astronaut Chris Williams as he answers prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11 a.m. EDT Friday, May 8, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/05/chris-williams-downlink-may-5.jpg",
+      "link": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37786",
+      "type": "news",
+      "title": "NASA’s Curiosity Rover Frees Its Drill From a Rock",
+      "date": "2026-05-05T17:58:42Z",
+      "summary": "Description This series of images shows NASA’s Curiosity Mars rover as it got a rock stuck to the drill on the end of its robotic arm and, after waving the arm and running the drill a few times, finally detached the rock. The imagery showing the entire process was captured by the black-and-white hazard cameras […]",
+      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26723/PIA26723.gif",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37787",
+      "type": "news",
+      "title": "Pad 1 conversion ongoing, with Flight 12 nearing",
+      "date": "2026-05-05T18:23:55Z",
+      "summary": "Over six months after the end of Flight 11, the old design, Pad 1, was…\nThe post Pad 1 conversion ongoing, with Flight 12 nearing appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/Pad-1-Flyover-on-April-15th-scaled.jpg",
+      "link": "https://www.nasaspaceflight.com/2026/05/pad-1-conversion-flight-12-nearing/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37788",
+      "type": "news",
+      "title": "650 NASA Volunteers Have Co-Authored Scientific Papers",
+      "date": "2026-05-05T18:34:54Z",
+      "summary": "After a recent count, NASA Citizen Science is proud to report that more than 650 people who have volunteered to participate in NASA citizen science projects have co-authored peer-reviewed research papers with scientists on those project teams. These volunteers made incredible contributions like: And all of them saw their passion and dedication translated into lasting […]",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/NASA_citizen_scientists_collage.jpg",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/650-nasa-volunteers-have-co-authored-scientific-papers/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37789",
+      "type": "news",
+      "title": "Curiosity Blog, Sols 4879-4885: Struggle at Atacama",
+      "date": "2026-05-05T20:00:45Z",
+      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, May 1, 2026 Chile’s Atacama desert is the driest mid-latitude desert in the world, receiving only 15 millimeters (0.59 inches) of precipitation per year. Only the dry valleys of Antarctica receive less precipitation. These environmental conditions have made the Atacama a […]",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04883_mcam_4883ML1092640001900086E01_DXXX.jpg",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37790",
+      "type": "news",
+      "title": "NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’",
+      "date": "2026-05-05T20:10:02Z",
+      "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera system to capture this 360-degree panorama of a region nicknamed “Crocodile Bridge” on Jezero Crater’s rim. The panorama is made up of 980 images, 971 of which were taken on Dec. 18, 2025, the 1,717th Martian day, or sol, of the mission. An additional nine were […]",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26699/PIA26699.jpg",
+      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37791",
+      "type": "news",
+      "title": "NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia",
+      "date": "2026-05-05T21:20:16Z",
+      "summary": "Thirty-eight science educators representing seven school districts across Virginia’s Tidewater region joined forces with community organizations, such as the Elizabeth River Project, to deepen their instructional practice through a dynamic collaboration between NASA eClips and the GLOBE (Global Learning and Observation to Benefit the Environment) Program. Together, these groups are cultivating a regional STEM ecosystem […]",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/Jessica_Taylor.jpg",
+      "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "launch_dd82ccd7-9ab2-410a-ac41-306218015c05",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 17-29",
-      "date": "2026-05-06T02:00:00Z",
+      "date": "2026-05-06T03:59:19Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "Starlink Group 17-29",
@@ -2531,23 +2509,6 @@
       "source": "Launch Library 2"
     },
     {
-      "id": "launch_ed83366c-872c-4484-97c1-bc74832304fc",
-      "type": "launch",
-      "title": "Starship | Flight 12",
-      "date": "2026-05-12T22:30:00Z",
-      "provider": "SpaceX",
-      "rocket": "Starship",
-      "mission": "Flight 12",
-      "description": "12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3",
-      "pad": "Orbital Launch Pad 2",
-      "status": "To Be Confirmed",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/ed83366c-872c-4484-97c1-bc74832304fc/",
-      "source": "Launch Library 2"
-    },
-    {
       "id": "launch_e60aa241-1f2c-4459-ba94-2f576c3e5632",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
@@ -2559,7 +2520,7 @@
       "pad": "Space Launch Complex 40",
       "status": "Go for Launch",
       "probability": null,
-      "webcast": null,
+      "webcast": "https://x.com/i/broadcasts/1DxleEdlAQjKL",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/e60aa241-1f2c-4459-ba94-2f576c3e5632/",
       "source": "Launch Library 2"
@@ -2576,10 +2537,27 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_ed83366c-872c-4484-97c1-bc74832304fc",
+      "type": "launch",
+      "title": "Starship | Flight 12",
+      "date": "2026-05-15T22:30:00Z",
+      "provider": "SpaceX",
+      "rocket": "Starship",
+      "mission": "Flight 12",
+      "description": "12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3",
+      "pad": "Orbital Launch Pad 2",
+      "status": "To Be Confirmed",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/ed83366c-872c-4484-97c1-bc74832304fc/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_7ba18bcb-c711-4329-9fc1-7ac017fadfff",
       "type": "launch",
       "title": "Falcon 9 Block 5 | Starlink Group 17-42",
-      "date": "2026-05-16T02:11:00Z",
+      "date": "2026-05-17T02:11:00Z",
       "provider": "SpaceX",
       "rocket": "Falcon 9",
       "mission": "Starlink Group 17-42",
@@ -2641,6 +2619,23 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/156a9e46-01b5-46f4-818e-ea563c71c5fe/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_ef65c43b-faf9-4adb-9155-289eaabdd097",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | Starlink Group 10-31",
+      "date": "2026-05-22T11:00:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "Starlink Group 10-31",
+      "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+      "pad": "Space Launch Complex 40",
+      "status": "Go for Launch",
+      "probability": null,
+      "webcast": "https://x.com/i/broadcasts/1mxPaLmMoZMKN",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/ef65c43b-faf9-4adb-9155-289eaabdd097/",
       "source": "Launch Library 2"
     },
     {
