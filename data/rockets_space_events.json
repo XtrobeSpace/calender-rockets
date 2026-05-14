@@ -1,19 +1,8 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-05-13T02:36:15.821182+00:00",
-  "total_events_captured": 594,
+  "generated_at": "2026-05-14T02:36:51.705061+00:00",
+  "total_events_captured": 592,
   "events": [
-    {
-      "id": "event_1409",
-      "type": "event",
-      "title": "NG-24 Cygnus Capture",
-      "date": "2026-04-13T16:50:00Z",
-      "description": "NASA TV will livestream the rendezvous and capture of Northrop Grumman's NG-24 Cygnus cargo craft to the International Space Station.",
-      "location": "International Space Station",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ng-112520cygnus2520release2520and2520reentry_image_20190716173223.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1409/",
-      "source": "Launch Library 2"
-    },
     {
       "id": "event_1444",
       "type": "event",
@@ -68,160 +57,6 @@
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/roman_space_tel_image_20260329083535.webp",
       "link": "https://ll.thespacedevs.com/2.2.0/event/1382/",
       "source": "Launch Library 2"
-    },
-    {
-      "id": "news_37666",
-      "type": "news",
-      "title": "Earth from Space: Cloud patterns over the Canary Islands",
-      "date": "2026-04-24T08:00:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/earth_from_space_cloud_patterns_over_the_canary_islands/27238982-1-eng-GB/Earth_from_Space_Cloud_patterns_over_the_Canary_Islands_card_full.jpg",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Cloud_patterns_over_the_Canary_Islands",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37667",
-      "type": "news",
-      "title": "Braving the Arctic for upcoming polar-focused satellites",
-      "date": "2026-04-24T09:08:00Z",
-      "summary": "As sea ice continues to succumb to the climate crisis, measuring its decline with precision has never been more urgent. To meet this challenge, the European Space Agency is developing three new Copernicus satellites, each employing distinct but complementary techniques to monitor this fragile component of the Earth system.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/not_your_normal_commute/27239667-3-eng-GB/Not_your_normal_commute_card_full.jpg",
-      "link": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37668",
-      "type": "news",
-      "title": "Rocket Report: Some Canadians don't want a spaceport; Falcon hits 600 landings",
-      "date": "2026-04-24T11:00:36Z",
-      "summary": "\"If it doesn’t rely on a solid, there’s no reason why we can’t launch.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/RDRE-Hot-Fire-Image-2048x1366-1.jpg",
-      "link": "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/",
-      "news_site": "Arstechnica",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37665",
-      "type": "news",
-      "title": "2026 first quarter: Future Launchers Preparatory Programme highlights",
-      "date": "2026-04-24T11:37:00Z",
-      "summary": "From the ESA Blogs.",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/07/refilling_in_space_with_odyssey/26812220-3-eng-GB/Refilling_in_space_with_Odyssey_card_full.png",
-      "link": "https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/2026_first_quarter_Future_Launchers_Preparatory_Programme_highlights",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37669",
-      "type": "news",
-      "title": "NASA Celebrates Decade of University Innovation in Aeronautics",
-      "date": "2026-04-24T13:04:54Z",
-      "summary": "For 10 years, a NASA initiative has helped the agency produce breakthrough aeronautical innovations while fostering the aviation workforce of tomorrow – and the University Leadership Initiative (ULI) is still flying high, making awards with the potential to change 21st century air travel.  Through ULI, NASA has supported more than 1,100 students at 100 schools, allowing them […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2020/11/uli-graphic-2026.png",
-      "link": "https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37670",
-      "type": "news",
-      "title": "Week in images: 20-24 April 2026",
-      "date": "2026-04-24T13:15:00Z",
-      "summary": "Week in images: 20-24 April 2026",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/04/close-up_of_plato_s_cameras/27212574-1-eng-GB/Close-up_of_Plato_s_cameras_card_full.jpg",
-      "link": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_April_2026",
-      "news_site": "ESA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37671",
-      "type": "news",
-      "title": "NASA Astronauts to Answer Questions from Missouri Students",
-      "date": "2026-04-24T14:47:12Z",
-      "summary": "Students in Missouri will hear from NASA astronauts Jessica Meir and Jack Hathaway as they answer prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 10:50 a.m. EDT Thursday, April 30, and will stream live on the agency’s Learn With NASA YouTube channel. This […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/jessica-meir-and-jack-hathaway-downlink-advisory-april-24.jpg",
-      "link": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37672",
-      "type": "news",
-      "title": "Well, this is embarrassing: The Lunar Gateway's primary modules are corroded",
-      "date": "2026-04-24T14:47:19Z",
-      "summary": "\"Preliminary findings indicate that the issue likely results from a combination of factors.\"",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/jsc2025e034729large.jpg",
-      "link": "https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/",
-      "news_site": "Arstechnica",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37673",
-      "type": "news",
-      "title": "The Day of the Trifid Nebula",
-      "date": "2026-04-24T14:56:35Z",
-      "summary": "This shimmering region of star-formation, a close-up of the Trifid Nebula about 5,000 light-years from Earth, was captured in intricate detail by NASA’s Hubble Space Telescope in an image released on April 20, 2026. The colors in Hubble’s visible light image, which marks the 36th anniversary of the mission’s launch on April 24, are reminiscent of an underwater […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/full-res-for-display.png",
-      "link": "https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37683",
-      "type": "news",
-      "title": "ESA Sheds Light on NASA Administrator’s Claims on Gateway Modules",
-      "date": "2026-04-24T14:58:03Z",
-      "summary": "The European Space Agency has provided additional detail in response to claims made by NASA Administrator Jared Isaacman regarding the condition of Gateway space station modules already delivered to the agency, offering a clearer picture of the state of these key elements and the potential impact on the programme’s schedule. During a hearing before the […]\r\nThe post ESA Sheds Light on NASA Administrator’s Claims on Gateway Modules appeared first on European Spaceflight.",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/04/ESA-Sheds-Light-on-NASA-Administrators-Claims-on-Gateway-Modules.webp",
-      "link": "https://europeanspaceflight.com/esa-sheds-light-on-nasa-administrators-claims-on-gateway-modules/",
-      "news_site": "European Spaceflight",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37674",
-      "type": "news",
-      "title": "I Am Artemis: Peter Rossoni",
-      "date": "2026-04-24T16:33:35Z",
-      "summary": "Listen to this audio excerpt from Peter Rossoni, Orion Artemis II Optical Communications System flight manager: As a child, Peter Rossoni watched the Apollo missions launch with his family. In April 2026, he became a part of NASA’s Artemis II mission, helping enable communications as astronauts journeyed around the Moon. Rossoni’s path to NASA began […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/04/img-0068-edited-1.jpg",
-      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37682",
-      "type": "news",
-      "title": "​​Rheinmetall Signs Agreement for New Satellite Testing Facility in Norway",
-      "date": "2026-04-25T11:16:55Z",
-      "summary": "German aerospace and defence manufacturer Rheinmetall has signed a Letter of Intent with the municipality of Andøy for the establishment of a new satellite test facility in Norway. Signed through its subsidiary Rheinmetall Nordic on 17 April, the agreement outlines both parties’ intent to move forward with leasing a suitable plot of land, securing zoning […]\nThe post ​​Rheinmetall Signs Agreement for New Satellite Testing Facility in Norway appeared first on European Spaceflight.",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/04/%E2%80%8B%E2%80%8BRheinmetall-Signs-Agreement-for-New-Satellite-Testing-Facility-in-Norway.webp",
-      "link": "https://europeanspaceflight.com/rheinmetall-signs-agreement-for-new-satellite-testing-facility-in-norway/",
-      "news_site": "European Spaceflight",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37675",
-      "type": "news",
-      "title": "Progress MS-34 to launch from Baikonur for ISS cargo delivery",
-      "date": "2026-04-25T16:30:36Z",
-      "summary": "Two weeks after the CRS NG-24 mission launched cargo to the International Space Station (ISS),…\r\nThe post Progress MS-34 to launch from Baikonur for ISS cargo delivery appeared first on NASASpaceFlight.com.",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490.png",
-      "link": "https://www.nasaspaceflight.com/2026/04/progress-ms34/",
-      "news_site": "NASASpaceflight",
-      "source": "Spaceflight News API"
-    },
-    {
-      "id": "news_37676",
-      "type": "news",
-      "title": "Live Coverage: SpaceX to fly 25 Starlink satellites on its 50th Falcon 9 launch of the year",
-      "date": "2026-04-26T13:38:21Z",
-      "summary": "Liftoff of the Starlink 17-16 mission from Space Launch Complex 4 East is scheduled for 7:37 a.m. PDT (10:37 am EDT / 1437 UTC).",
-      "image": "http://spaceflightnow.com/wp-content/uploads/2026/03/20260329_20260313_Starlink_G17_31.jpg",
-      "link": "https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/",
-      "news_site": "Spaceflight Now",
-      "source": "Spaceflight News API"
     },
     {
       "id": "news_37677",
@@ -2028,6 +1863,17 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_37883",
+      "type": "news",
+      "title": "Italy Completes Air-Launched Rocket Demonstrator Test",
+      "date": "2026-05-11T10:23:27Z",
+      "summary": "An Italian consortium has successfully completed a suborbital demonstration of an air-launched rocket system. The project, which utilised a Dornier Alpha Jet aircraft and T4i’s HAX25 sounding rocket equipped with avionics supplied by GMV, was initiated to support Italy’s push to develop a more responsive launch capability. The Aviolancio programme, which translates roughly to “air […]\nThe post Italy Completes Air-Launched Rocket Demonstrator Test appeared first on European Spaceflight.",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/05/Italy-Completes-Air-Launched-Rocket-Demonstrator-Test.webp",
+      "link": "https://europeanspaceflight.com/italy-completes-air-launched-rocket-demonstrator-test/",
+      "news_site": "European Spaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "news_37845",
       "type": "news",
       "title": "With Skyroot at the head of the class, India's private space industry seeks to take off",
@@ -2171,6 +2017,17 @@
       "source": "Spaceflight News API"
     },
     {
+      "id": "news_37882",
+      "type": "news",
+      "title": "OHB Joins Dassault Aviation’s VORTEX Spaceplane Initiative",
+      "date": "2026-05-12T07:01:29Z",
+      "summary": "German space technology company OHB has agreed to develop the service module for Dassault Aviation’s VORTEX-S spaceplane, which the companies plan to pitch to the European Space Agency (ESA). During the Paris Air Show in June 2025, Dassault Aviation revealed plans for its VORTEX spaceplane, short for Véhicule Orbital Réutilisable de Transport et d’Exploration (Reusable […]\nThe post OHB Joins Dassault Aviation’s VORTEX Spaceplane Initiative appeared first on European Spaceflight.",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/05/OHB-Joins-Dassault-Aviations-VORTEX-Spaceplane-Initiative.webp",
+      "link": "https://europeanspaceflight.com/ohb-joins-dassault-aviations-vortex-spaceplane-initiative/",
+      "news_site": "European Spaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
       "id": "news_37857",
       "type": "news",
       "title": "Smile's journey from launch to orbit",
@@ -2285,7 +2142,7 @@
       "type": "news",
       "title": "SpaceX CRS-34 resupply mission to ISS delayed 24 hours",
       "date": "2026-05-12T20:11:46Z",
-      "summary": "Just over two weeks after Progress MS-34 docked to the Station, the ISS is set…\nThe post SpaceX CRS-34 resupply mission to ISS delayed 24 hours appeared first on NASASpaceFlight.com.",
+      "summary": "Just over two weeks after Progress MS-34 docked to the Station, the ISS is set…\r\nThe post SpaceX CRS-34 resupply mission to ISS delayed 24 hours appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/IMG_7476-scaled.jpeg",
       "link": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
       "news_site": "NASASpaceflight",
@@ -2296,7 +2153,7 @@
       "type": "news",
       "title": "SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2",
       "date": "2026-05-12T23:15:22Z",
-      "summary": "The mission will test a host of changes made to both the launch vehicle and the launch infrastructure as SpaceX prepares to support the Artemis 3 mission in 2027. ",
+      "summary": "The mission will test a host of changes made to both the launch vehicle and the launch infrastructure as SpaceX prepares to support the Artemis 3 mission in 2027.",
       "image": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260512_Starship-Super_Heavy_integration.jpeg",
       "link": "https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/",
       "news_site": "Spaceflight Now",
@@ -2314,21 +2171,136 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "launch_e60aa241-1f2c-4459-ba94-2f576c3e5632",
-      "type": "launch",
-      "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
-      "date": "2026-05-13T22:50:50Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon 9",
-      "mission": "Dragon CRS-2 SpX-34",
-      "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
-      "pad": "Space Launch Complex 40",
-      "status": "Go for Launch",
-      "probability": 60,
-      "webcast": "https://x.com/i/broadcasts/1DxleEdlAQjKL",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/e60aa241-1f2c-4459-ba94-2f576c3e5632/",
-      "source": "Launch Library 2"
+      "id": "news_37870",
+      "type": "news",
+      "title": "America’s Emerald Isle",
+      "date": "2026-05-13T04:00:00Z",
+      "summary": "Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/america%E2%80%99s-emerald-isle/beaverisland_oli2_20240802.jpg",
+      "link": "https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37871",
+      "type": "news",
+      "title": "Waterworn chaos on Mars",
+      "date": "2026-05-13T09:00:00Z",
+      "summary": "This month, ESA’s Mars Express takes us to Shalbatana Vallis: a fascinating martian valley surrounded by signs of water, lava, craters and chaos.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/mars_express_visits_shalbatana_vallis_on_mars/27273355-1-eng-GB/Mars_Express_visits_Shalbatana_Vallis_on_Mars_card_full.jpg",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37873",
+      "type": "news",
+      "title": "The young minds space-proofing ESA’s missions",
+      "date": "2026-05-13T09:05:00Z",
+      "summary": "Assembling a spacecraft is a complicated process, and one that requires materials that are far from ordinary. To ensure the success of the European Space Agency’s missions, researchers in the Materials, Environments and Contamination Control Section investigate and test materials to ensure they will survive the harsh environment of space. The section is supported by many young researchers, who bring fresh and innovative ideas.",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/textile_material_erosion_after_environmental_testing/27274524-1-eng-GB/Textile_material_erosion_after_environmental_testing_card_full.jpg",
+      "link": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_young_minds_space-proofing_ESA_s_missions",
+      "news_site": "ESA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37872",
+      "type": "news",
+      "title": "Varda signs deal with major US pharma firm to develop drugs in space",
+      "date": "2026-05-13T10:00:28Z",
+      "summary": "\"I do think it's a really good historical moment for the space industry.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Varda_W3_Capsule.jpg",
+      "link": "https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/",
+      "news_site": "Arstechnica",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37875",
+      "type": "news",
+      "title": "NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky",
+      "date": "2026-05-13T14:15:23Z",
+      "summary": "NASA’s TESS has released its most complete view of the starry sky to date",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/tess/news/2026/all-sky-2025/TESS_both_bin4_planets_3870x1950.png",
+      "link": "https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37881",
+      "type": "news",
+      "title": "Thales Alenia Space Ship ExoMars Structural Models to France for Testing",
+      "date": "2026-05-13T14:16:22Z",
+      "summary": "Thales Alenia Space has shipped the structural models for ESA’s ExoMars mission to its facility in Cannes for vibration and acoustic testing. In April 2024, ESA awarded a Thales Alenia Space-led consortium a €522 million contract for the revised ExoMars mission. The company is working towards a 2028 launch window, with the mission slated to […]\nThe post Thales Alenia Space Ship ExoMars Structural Models to France for Testing appeared first on European Spaceflight.",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/05/ExoMars-Structural-Models-Shipped-to-France-for-Testing.webp",
+      "link": "https://europeanspaceflight.com/thales-alenia-space-ship-exomars-structural-models-to-france-for-testing/",
+      "news_site": "European Spaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37874",
+      "type": "news",
+      "title": "Studying Pneumonia in Space for Heart Health on Earth",
+      "date": "2026-05-13T14:45:00Z",
+      "summary": "Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases. In space, bacteria […]",
+      "image": "https://images-assets.nasa.gov/image/iss074e0490731/iss074e0490731~large.jpg",
+      "link": "https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37876",
+      "type": "news",
+      "title": "NASA Outlines Preliminary Artemis III Mission Plans",
+      "date": "2026-05-13T15:33:56Z",
+      "summary": "NASA is moving quickly to define next year’s Artemis III mission in Earth orbit, a crewed flight that will test rendezvous and docking capabilities between the agency’s Orion spacecraft and commercial landers from Blue Origin and SpaceX. Since a February announcement adding an Artemis mission ahead of crewed landing missions to the Moon’s South Pole region, […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/05/pad.jpg",
+      "link": "https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37877",
+      "type": "news",
+      "title": "SpaceX’s new Starship pad readies for first launch",
+      "date": "2026-05-13T17:27:44Z",
+      "summary": "Over the last two years, SpaceX has been constructing a completely redesigned launch pad for…\nThe post SpaceX’s new Starship pad readies for first launch appeared first on NASASpaceFlight.com.",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/Ship-39-and-Booster-19-Stacked-on-Pad-2-scaled.jpg",
+      "link": "https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/",
+      "news_site": "NASASpaceflight",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37878",
+      "type": "news",
+      "title": "NASA provides some details about Artemis III, but hard decisions remain",
+      "date": "2026-05-13T18:37:29Z",
+      "summary": "\"NASA also is defining the concept of operations for the mission.\"",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55193180468_5de0cf977a_o.jpg",
+      "link": "https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/",
+      "news_site": "Arstechnica",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37879",
+      "type": "news",
+      "title": "Rise Goes to Washington",
+      "date": "2026-05-13T19:17:12Z",
+      "summary": "“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg",
+      "link": "https://www.nasa.gov/image-article/rise-goes-to-washington/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37880",
+      "type": "news",
+      "title": "NASA-Supported Space Tech Advances Earthly Construction",
+      "date": "2026-05-13T19:47:08Z",
+      "summary": "An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.  Instead of building structures layer by layer, Branch Technology Inc. of Chattanooga, Tennessee, has developed a process the company calls Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/05/lunar-habitat-e1778695522319.png",
+      "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
     },
     {
       "id": "launch_4aa02420-1bcb-4dd9-afa8-06d5ff89d248",
@@ -2345,17 +2317,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhunque_2e_on_t_image_20241216101643.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/4aa02420-1bcb-4dd9-afa8-06d5ff89d248/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "event_1449",
-      "type": "event",
-      "title": "SpaceX CRS-34 Dragon Docking",
-      "date": "2026-05-14T11:35:00Z",
-      "description": "Following its launch atop a Falcon 9, the CRS-34 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.",
-      "location": "International Space Station",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/crs-28_dragon_d_image_20230530191602.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1449/",
       "source": "Launch Library 2"
     },
     {
@@ -2390,6 +2351,34 @@
       "webcast": "https://x.com/i/broadcasts/1rGmqoeWkBkGy",
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/75a35be5-b3bd-4591-b978-9a876da9fa96/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "launch_e60aa241-1f2c-4459-ba94-2f576c3e5632",
+      "type": "launch",
+      "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
+      "date": "2026-05-15T22:05:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon 9",
+      "mission": "Dragon CRS-2 SpX-34",
+      "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
+      "pad": "Space Launch Complex 40",
+      "status": "Go for Launch",
+      "probability": 90,
+      "webcast": "https://x.com/i/broadcasts/1AxRnawMpzVxl",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/e60aa241-1f2c-4459-ba94-2f576c3e5632/",
+      "source": "Launch Library 2"
+    },
+    {
+      "id": "event_1449",
+      "type": "event",
+      "title": "SpaceX CRS-34 Dragon Docking",
+      "date": "2026-05-17T11:00:00Z",
+      "description": "Following its launch atop a Falcon 9, the CRS-34 Dragon will autonomously dock to the ISS, bringing crew supplies as well as experiments.",
+      "location": "International Space Station",
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/crs-28_dragon_d_image_20230530191602.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/event/1449/",
       "source": "Launch Library 2"
     },
     {
@@ -6403,23 +6392,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/024ed75e-4dbd-46cc-bee0-d9a2ef75013e/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_f37de272-dcee-4bff-b473-63d024b5864e",
-      "type": "launch",
-      "title": "Ariane 64 | IS-41 & IS-44",
-      "date": "2027-12-31T00:00:00Z",
-      "provider": "Arianespace",
-      "rocket": "Ariane 64",
-      "mission": "IS-41 & IS-44",
-      "description": "Two geostationary communications satellites built by Thales Alenia Space for Intelsat.",
-      "pad": "Ariane Launch Area 4",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/f37de272-dcee-4bff-b473-63d024b5864e/",
       "source": "Launch Library 2"
     },
     {
