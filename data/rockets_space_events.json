@@ -1,19 +1,8 @@
 {
   "schema": "xtrobe-v1",
-  "generated_at": "2026-05-16T02:26:49.837243+00:00",
-  "total_events_captured": 590,
+  "generated_at": "2026-05-17T02:34:05.731345+00:00",
+  "total_events_captured": 589,
   "events": [
-    {
-      "id": "event_1445",
-      "type": "event",
-      "title": "Artemis II Crew Post-Flight News Conference",
-      "date": "2026-04-16T18:30:00Z",
-      "description": "Fresh off their return to Earth, the Artemis II astronauts will hold a news conference at NASA’s Johnson Space Center in Houston to discuss their historic mission around the Moon.\r\n\r\nNASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, will answer questions about their mission. The crew returned to Earth on April 10, splashing down off the coast of San Diego, and arrived in Houston on April 11, where they are undergoing standard postflight reconditioning, evaluations, and lunar science debriefs.",
-      "location": "Johnson Space Center, TX, USA",
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/nasa_artemis_ii_image_20230403161326.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/event/1445/",
-      "source": "Launch Library 2"
-    },
     {
       "id": "event_1410",
       "type": "event",
@@ -807,17 +796,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37770",
-      "type": "news",
-      "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
-      "date": "2026-05-04T16:31:01Z",
-      "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
-      "link": "https://www.nasa.gov/general/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37772",
       "type": "news",
       "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
@@ -825,6 +803,17 @@
       "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will demonstrate […]",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
       "link": "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37770",
+      "type": "news",
+      "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber",
+      "date": "2026-05-04T16:31:01Z",
+      "summary": "Also known as Endurance, MK1 is an uncrewed cargo lander funded by Blue Origin as a commercial demonstration mission to advance Human Landing System capabilities in support of NASA’s Artemis program. The tests in in Chamber A represent a public-private partnership model, with Blue Origin conducting work through a reimbursable Space Act Agreement. Endurance will […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/05/blue-origin-mk-1.jpg",
+      "link": "https://www.nasa.gov/general/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
       "news_site": "NASA",
       "source": "Spaceflight News API"
     },
@@ -1104,17 +1093,6 @@
       "source": "Spaceflight News API"
     },
     {
-      "id": "news_37797",
-      "type": "news",
-      "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night",
-      "date": "2026-05-06T14:00:00Z",
-      "summary": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.  Gaining a deeper understanding of how […]",
-      "image": "https://www.nasa.gov/wp-content/uploads/2025/08/grc-2025-c-05348-1.jpg",
-      "link": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
-      "news_site": "NASA",
-      "source": "Spaceflight News API"
-    },
-    {
       "id": "news_37796",
       "type": "news",
       "title": "NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars",
@@ -1122,6 +1100,17 @@
       "summary": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy and Astrophysics suggests NASA’s upcoming Nancy Grace Roman Space Telescope could spot them anyway. Using detailed simulations of […]",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/05/stsci-ns.jpg",
       "link": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
+      "news_site": "NASA",
+      "source": "Spaceflight News API"
+    },
+    {
+      "id": "news_37797",
+      "type": "news",
+      "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night",
+      "date": "2026-05-06T14:00:00Z",
+      "summary": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture.  Gaining a deeper understanding of how […]",
+      "image": "https://www.nasa.gov/wp-content/uploads/2025/08/grc-2025-c-05348-1.jpg",
+      "link": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
       "news_site": "NASA",
       "source": "Spaceflight News API"
     },
@@ -1988,7 +1977,7 @@
       "type": "news",
       "title": "Thales Alenia Space Ship ExoMars Structural Models to France for Testing",
       "date": "2026-05-13T14:16:22Z",
-      "summary": "Thales Alenia Space has shipped the structural models for ESA’s ExoMars mission to its facility in Cannes for vibration and acoustic testing. In April 2024, ESA awarded a Thales Alenia Space-led consortium a €522 million contract for the revised ExoMars mission. The company is working towards a 2028 launch window, with the mission slated to […]\nThe post Thales Alenia Space Ship ExoMars Structural Models to France for Testing appeared first on European Spaceflight.",
+      "summary": "Thales Alenia Space has shipped the structural models for ESA’s ExoMars mission to its facility in Cannes for vibration and acoustic testing. In April 2024, ESA awarded a Thales Alenia Space-led consortium a €522 million contract for the revised ExoMars mission. The company is working towards a 2028 launch window, with the mission slated to […]\r\nThe post Thales Alenia Space Ship ExoMars Structural Models to France for Testing appeared first on European Spaceflight.",
       "image": "https://europeanspaceflight.com/wp-content/uploads/2026/05/ExoMars-Structural-Models-Shipped-to-France-for-Testing.webp",
       "link": "https://europeanspaceflight.com/thales-alenia-space-ship-exomars-structural-models-to-france-for-testing/",
       "news_site": "European Spaceflight",
@@ -2021,7 +2010,7 @@
       "type": "news",
       "title": "SpaceX’s new Starship pad readies for first launch",
       "date": "2026-05-13T17:27:44Z",
-      "summary": "Over the last two years, SpaceX has been constructing a completely redesigned launch pad for…\nThe post SpaceX’s new Starship pad readies for first launch appeared first on NASASpaceFlight.com.",
+      "summary": "Over the last two years, SpaceX has been constructing a completely redesigned launch pad for…\r\nThe post SpaceX’s new Starship pad readies for first launch appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/Ship-39-and-Booster-19-Stacked-on-Pad-2-scaled.jpg",
       "link": "https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/",
       "news_site": "NASASpaceflight",
@@ -2142,7 +2131,7 @@
       "type": "news",
       "title": "ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues",
       "date": "2026-05-14T21:20:57Z",
-      "summary": "The static fire test was conducted by Northrop Grumman, the manufacturer of the GEM 63XL solid rocket booster that can be used to help power United Launch Alliance’s Vulcan rockets. An in-flight anomaly was observed on one of those back in mid-February. ",
+      "summary": "The static fire test was conducted by Northrop Grumman, the manufacturer of the GEM 63XL solid rocket booster that can be used to help power United Launch Alliance’s Vulcan rockets. An in-flight anomaly was observed on one of those back in mid-February.",
       "image": "http://spaceflightnow.com/wp-content/uploads/2026/02/20260212-Plume-Feature-Image.jpg",
       "link": "https://spaceflightnow.com/2026/05/14/ula-confirms-successful-solid-rocket-booster-test-as-vulcan-anomaly-investigation-continues/",
       "news_site": "Spaceflight Now",
@@ -2153,7 +2142,7 @@
       "type": "news",
       "title": "Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026",
       "date": "2026-05-15T00:24:31Z",
-      "summary": "Rocket Lab opened 2026 by breaking every record it set in 2025. The company signed…\nThe post Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026 appeared first on NASASpaceFlight.com.",
+      "summary": "Rocket Lab opened 2026 by breaking every record it set in 2025. The company signed…\r\nThe post Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026 appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2025/07/HASTE-electron.jpg",
       "link": "https://www.nasaspaceflight.com/2026/05/rocket-lab-q1-2026/",
       "news_site": "NASASpaceflight",
@@ -2186,7 +2175,7 @@
       "type": "news",
       "title": "OHB Space UK to Begin Work on ESA EnVision Venus Explorer Mission",
       "date": "2026-05-15T07:55:28Z",
-      "summary": "Germany’s OHB has signed an agreement with Thales Alenia Space for the assembly, integration, and testing of the European Space Agency’s EnVision spacecraft. The development of the EnVision mission is being led by Thales Alenia Space under a €367 million contract awarded to the company in February 2025. With EnVision, ESA hopes to capture a […]\nThe post OHB Space UK to Begin Work on ESA EnVision Venus Explorer Mission appeared first on European Spaceflight.",
+      "summary": "Germany’s OHB has signed an agreement with Thales Alenia Space for the assembly, integration, and testing of the European Space Agency’s EnVision spacecraft. The development of the EnVision mission is being led by Thales Alenia Space under a €367 million contract awarded to the company in February 2025. With EnVision, ESA hopes to capture a […]\r\nThe post OHB Space UK to Begin Work on ESA EnVision Venus Explorer Mission appeared first on European Spaceflight.",
       "image": "https://europeanspaceflight.com/wp-content/uploads/2026/05/OHB-Space-UK-to-Begin-Work-on-ESA-EnVision-Venus-Explorer-Mission.webp",
       "link": "https://europeanspaceflight.com/ohb-space-uk-to-begin-work-on-esa-envision-venus-explorer-mission/",
       "news_site": "European Spaceflight",
@@ -2252,7 +2241,7 @@
       "type": "news",
       "title": "Flight 12 readies for the debut SpaceX’s next Ship evolution",
       "date": "2026-05-15T16:53:49Z",
-      "summary": "Starship’s second stage has evolved through numerous iterations since the early test flights of SN8…\nThe post Flight 12 readies for the debut SpaceX’s next Ship evolution appeared first on NASASpaceFlight.com.",
+      "summary": "Starship’s second stage has evolved through numerous iterations since the early test flights of SN8…\r\nThe post Flight 12 readies for the debut SpaceX’s next Ship evolution appeared first on NASASpaceFlight.com.",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/05/2Q5A8534-wmarked-scaled.jpg",
       "link": "https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/",
       "news_site": "NASASpaceflight",
@@ -2263,7 +2252,7 @@
       "type": "news",
       "title": "Live Coverage: SpaceX makes another attempt to launch space station cargo mission",
       "date": "2026-05-15T17:36:05Z",
-      "summary": "Liftoff of the resupply mission, atop a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station is scheduled for 6:05 p.m. EDT (2205 UTC). The Cargo Dragon is loaded with 6,500 pounds of science and supplies for the space station. ",
+      "summary": "Liftoff of the resupply mission, atop a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station is scheduled for 6:05 p.m. EDT (2205 UTC). The Cargo Dragon is loaded with 6,500 pounds of science and supplies for the space station.",
       "image": "http://spaceflightnow.com/wp-content/uploads/2026/05/20260511_CRS-34_pad-1.jpeg",
       "link": "https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/",
       "news_site": "Spaceflight Now",
@@ -3096,6 +3085,23 @@
       "source": "Launch Library 2"
     },
     {
+      "id": "launch_521f3a1c-f977-4306-9b7f-495858719adf",
+      "type": "launch",
+      "title": "Falcon Heavy | Nancy Grace Roman Space Telescope",
+      "date": "2026-08-31T00:00:00Z",
+      "provider": "SpaceX",
+      "rocket": "Falcon Heavy",
+      "mission": "Nancy Grace Roman Space Telescope",
+      "description": "The Nancy Grace Roman Space Telescope is a NASA infrared space telescope with a 2.4 m (7.9 ft) wide field of view primary mirror and two scientific instruments. The Wide-Field Instrument (WFI) is a 300.8-megapixel multi-band visible and near-infrared camera, providing a sharpness of images comparable to that achieved by the Hubble Space Telescope over a 0.28 square degree field of view, 100 times larger than imaging cameras on the Hubble. The Coronagraphic Instrument (CGI) is a high-contrast, small field of view camera and spectrometer covering visible and near-infrared wavelengths using novel starlight-suppression technology. Roman objectives include a search for extra-solar planets using gravitational microlensing, and probing the expansion history of the Universe and the growth of cosmic structure, with the goal of measuring the effects of dark energy, the consistency of general relativity, and the curvature of spacetime.",
+      "pad": "Launch Complex 39A",
+      "status": "To Be Determined",
+      "probability": null,
+      "webcast": null,
+      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
+      "link": "https://ll.thespacedevs.com/2.2.0/launch/521f3a1c-f977-4306-9b7f-495858719adf/",
+      "source": "Launch Library 2"
+    },
+    {
       "id": "launch_9d402fb6-9115-424d-b6f0-bd3b13ee310e",
       "type": "launch",
       "title": "Long March 5 | Chang'e 7",
@@ -3178,23 +3184,6 @@
       "webcast": null,
       "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "link": "https://ll.thespacedevs.com/2.2.0/launch/ad358a4d-c541-409b-9366-9c2f2da4aeb9/",
-      "source": "Launch Library 2"
-    },
-    {
-      "id": "launch_521f3a1c-f977-4306-9b7f-495858719adf",
-      "type": "launch",
-      "title": "Falcon Heavy | Nancy Grace Roman Space Telescope",
-      "date": "2026-09-30T00:00:00Z",
-      "provider": "SpaceX",
-      "rocket": "Falcon Heavy",
-      "mission": "Nancy Grace Roman Space Telescope",
-      "description": "The Nancy Grace Roman Space Telescope is a NASA infrared space telescope with a 2.4 m (7.9 ft) wide field of view primary mirror and two scientific instruments. The Wide-Field Instrument (WFI) is a 300.8-megapixel multi-band visible and near-infrared camera, providing a sharpness of images comparable to that achieved by the Hubble Space Telescope over a 0.28 square degree field of view, 100 times larger than imaging cameras on the Hubble. The Coronagraphic Instrument (CGI) is a high-contrast, small field of view camera and spectrometer covering visible and near-infrared wavelengths using novel starlight-suppression technology. Roman objectives include a search for extra-solar planets using gravitational microlensing, and probing the expansion history of the Universe and the growth of cosmic structure, with the goal of measuring the effects of dark energy, the consistency of general relativity, and the curvature of spacetime.",
-      "pad": "Launch Complex 39A",
-      "status": "To Be Determined",
-      "probability": null,
-      "webcast": null,
-      "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
-      "link": "https://ll.thespacedevs.com/2.2.0/launch/521f3a1c-f977-4306-9b7f-495858719adf/",
       "source": "Launch Library 2"
     },
     {
